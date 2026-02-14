@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Operations |
-| Posted | 2026-01-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Analyst_26931536) |
+| Category | Corporate Finance |
+| Posted | 2026-01-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Analyst_26931773) |
 
 ## About This Role
 
-This operations position at Citigroup was posted on 2026-01-21.
+This corporate finance position at Citigroup was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 
