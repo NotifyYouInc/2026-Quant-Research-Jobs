@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York, US |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-01-26 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Trading-Quantitative-Strategist---Credit---Vice-President_R0421074) |
 
 ## About This Role
 
-This strategy and operations position at Deutsche Bank was posted on 2026-01-26.
+This strategy & operations position at Deutsche Bank was posted on 2026-01-26.
 
 ## Get Real-Time Alerts
 

@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York, US |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-23 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Market-Risk-Analytics-VP--Stress-Testing-and-AI-Integration_PT-JR025315) |
 

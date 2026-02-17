@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Florida, US |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-01-28 |
 | Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Eglin-AFB-FL/Operations-Research-Analyst_HR101973) |
 
 ## About This Role
 
-This strategy and operations position at Radiance Technologies was posted on 2026-01-28.
+This strategy & operations position at Radiance Technologies was posted on 2026-01-28.
 
 ## Get Real-Time Alerts
 

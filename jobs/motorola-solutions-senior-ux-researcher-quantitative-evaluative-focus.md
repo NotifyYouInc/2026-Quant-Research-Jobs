@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | UX Researcher |
 | Posted | 2026-01-23 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Senior-UX-Researcher--Quantitative---Evaluative-Focus-_R58944) |
 
 ## About This Role
 
-This data scientist position at Motorola Solutions was posted on 2026-01-23.
+This ux researcher position at Motorola Solutions was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

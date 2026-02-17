@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-01-23 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alpha-Data-Services-Operations-Senior-Data-Analyst_R-779360) |
 
 ## About This Role
 
-This strategy and operations position at State Street was posted on 2026-01-23.
+This strategy & operations position at State Street was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

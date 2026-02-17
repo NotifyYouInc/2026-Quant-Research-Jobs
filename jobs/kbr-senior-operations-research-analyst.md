@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Operations-Research-Analyst_R2118214) |
 
 ## About This Role
 
-This strategy and operations position at KBR was posted on 2026-01-29.
+This strategy & operations position at KBR was posted on 2026-01-29.
 
 ## Get Real-Time Alerts
 

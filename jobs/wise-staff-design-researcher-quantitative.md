@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | UX Researcher |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000108211815-staff-design-researcher-quantitative) |
 
 ## About This Role
 
-This data scientist position at WISE was posted on 2026-02-09.
+This ux researcher position at WISE was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

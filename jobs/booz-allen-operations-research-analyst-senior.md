@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Maryland, US |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-01-23 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Operations-Research-Analyst--Senior_R0230760) |
 
 ## About This Role
 
-This strategy and operations position at Booz Allen was posted on 2026-01-23.
+This strategy & operations position at Booz Allen was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

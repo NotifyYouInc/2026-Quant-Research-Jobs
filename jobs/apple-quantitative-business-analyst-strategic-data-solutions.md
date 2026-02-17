@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-01-23 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200614948-0157/quantitative-business-analyst-strategic-data-solutions?team=OPMFG) |
 
 ## About This Role
 
-This strategy and operations position at Apple was posted on 2026-01-23.
+This strategy & operations position at Apple was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

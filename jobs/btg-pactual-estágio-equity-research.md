@@ -1,16 +1,16 @@
-# Quantitative Research Intern at WorldQuant
+# Estágio Equity Research  at BTG Pactual
 
 | Field | Details |
 |-------|---------|
-| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Brazil |
 | Category | Quant Research |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4306702006) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5789579004) |
 
 ## About This Role
 
-This quant research position at WorldQuant was posted on 2026-01-22.
+This quant research position at BTG Pactual was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
