@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Securities & Derivatives Intmd Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_25924188) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Operations |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Securities---Derivatives-Intmd-Analyst_26937044) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-01-23.
+This operations position at Citigroup was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
