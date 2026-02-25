@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Quant Research |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Intermediate-Analyst_25926525) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Operations |
+| Posted | 2026-01-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taipei-Taipei-City-Taiwan/Securities---Derivatives-Intermediate-Analyst_26934432) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-01-23.
+This operations position at Citigroup was posted on 2026-01-27.
 
 ## Get Real-Time Alerts
 
