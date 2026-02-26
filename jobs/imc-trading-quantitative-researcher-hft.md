@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Scientist |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4439364101) |
+| Category | Quant Research |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4785803101) |
 
 ## About This Role
 
-This data scientist position at IMC Trading was posted on 2026-01-23.
+This quant research position at IMC Trading was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

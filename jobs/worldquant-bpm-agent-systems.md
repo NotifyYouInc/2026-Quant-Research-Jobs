@@ -1,16 +1,16 @@
-# Quantitative Researcher - Modeller at IMC Trading
+# BPM Agent Systems at WorldQuant
 
 | Field | Details |
 |-------|---------|
-| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
+| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 3 locations |
 | Category | Quant Research |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4785804101) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4411819006) |
 
 ## About This Role
 
-This quant research position at IMC Trading was posted on 2026-02-19.
+This quant research position at WorldQuant was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
