@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Quant Developer |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Analyst---Equity-Derivatives_JR-0000084179) |
+| Location | 3 locations |
+| Category | Quant Research |
+| Posted | 2026-01-26 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Origami-Paris/Quantitative-Analyst---Equity-Derivatives_JR-0000086802) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-01-23.
+This quant research position at Barclays was posted on 2026-01-26.
 
 ## Get Real-Time Alerts
 
