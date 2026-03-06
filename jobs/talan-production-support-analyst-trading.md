@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-01-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000105969115-production-support-analyst-trading) |
+| Posted | 2026-01-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000106115270-production-support-analyst-trading) |
 
 ## About This Role
 
-This customer success position at Talan was posted on 2026-01-27.
+This customer success position at Talan was posted on 2026-01-28.
 
 ## Get Real-Time Alerts
 
