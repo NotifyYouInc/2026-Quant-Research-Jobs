@@ -1,16 +1,16 @@
-# Production Support Analyst - Trading at Talan
+# Quantitative Trading Strategist - Equity Options at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Customer Success |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107367610-production-support-analyst-trading) |
+| Category | Quant Developer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4792587101) |
 
 ## About This Role
 
-This customer success position at Talan was posted on 2026-02-04.
+This quant developer position at IMC Trading was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

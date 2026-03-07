@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Not specified |
+| Location | Montréal, Quebec, Canada |
 | Category | Venture Capital |
-| Posted | 2026-01-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000106104275-user-research-manager-portfolio-manager) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000108817966-user-research-manager-portfolio-manager) |
 
 ## About This Role
 
-This venture capital position at Ubisoft was posted on 2026-01-28.
+This venture capital position at Ubisoft was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
