@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Jersey City, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Researcher_2122517-2) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Quantitative-Researcher_2122520) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-01-30.
+This data scientist position at Fidelity was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
