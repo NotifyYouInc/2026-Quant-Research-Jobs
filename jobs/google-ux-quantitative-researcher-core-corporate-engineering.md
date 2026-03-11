@@ -1,4 +1,4 @@
-# Senior UX Quantitative Researcher, Search at Google
+# UX Quantitative Researcher, Core, Corporate Engineering at Google
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | UX Researcher |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/125075938919490246-senior-ux-quantitative-researcher-search?sort_by=date&page=1) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/76140868255261382-ux-quantitative-researcher-core-corporate-engineering?sort_by=date&page=1) |
 
 ## About This Role
 
