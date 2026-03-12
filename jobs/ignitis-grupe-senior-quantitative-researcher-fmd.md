@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Data Scientist |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000106896366-senior-quantitative-researcher-fmd) |
+| Category | Quant Developer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000109975355-senior-quantitative-researcher-fmd) |
 
 ## About This Role
 
-This data scientist position at Ignitis Grupe was posted on 2026-02-02.
+This quant developer position at Ignitis Grupe was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
