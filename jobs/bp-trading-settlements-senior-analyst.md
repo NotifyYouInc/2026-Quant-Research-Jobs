@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Quant Research |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/Trading-Settlements-Senior-Analyst_RQ106280-1) |
+| Category | Corporate Finance |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/Trading-Settlements-Senior-Analyst_RQ106185-1) |
 
 ## About This Role
 
-This quant research position at BP was posted on 2026-02-04.
+This corporate finance position at BP was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Fixed Income Research Associate at MFS
+# Portfolio Strategist (Fixed Income) at Invesco
 
 | Field | Details |
 |-------|---------|
-| Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Fixed-Income-Research-Associate_MFS-231599) |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Henley-on-Thames-Oxfordshire/Portfolio-Strategist--Fixed-Income-_R-12998-1) |
 
 ## About This Role
 
-This corporate finance position at MFS was posted on 2026-03-06.
+This corporate finance position at Invesco was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

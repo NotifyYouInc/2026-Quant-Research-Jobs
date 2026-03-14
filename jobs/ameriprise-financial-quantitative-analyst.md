@@ -1,16 +1,16 @@
-# Fixed Income Research Associate at MFS
+# Quantitative  Analyst at Ameriprise Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Fixed-Income-Research-Associate_MFS-231599) |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Quantitative--Analyst_R26_0822-1) |
 
 ## About This Role
 
-This corporate finance position at MFS was posted on 2026-03-06.
+This quant research position at Ameriprise Financial was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

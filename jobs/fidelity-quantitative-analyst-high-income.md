@@ -1,16 +1,16 @@
-# Fixed Income Research Associate at MFS
+# Quantitative Analyst, High Income at Fidelity
 
 | Field | Details |
 |-------|---------|
-| Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Fixed-Income-Research-Associate_MFS-231599) |
+| Category | Quant Research |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Analyst--High-Income_2123635-2) |
 
 ## About This Role
 
-This corporate finance position at MFS was posted on 2026-03-06.
+This quant research position at Fidelity was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

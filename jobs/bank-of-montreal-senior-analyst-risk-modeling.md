@@ -1,16 +1,16 @@
-# Quantitative Analyst at FirstRand
+# Senior Analyst, Risk Modeling at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Windhoek, Khomas Region, Namibia |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Quant Research |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Quantitative-Analyst_R47289) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Senior-Analyst--Risk-Modeling_R260007476) |
 
 ## About This Role
 
-This quant research position at FirstRand was posted on 2026-03-06.
+This quant research position at Bank of Montreal was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

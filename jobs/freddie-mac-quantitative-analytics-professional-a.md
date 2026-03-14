@@ -1,16 +1,16 @@
-# Quantitative Analyst at FirstRand
+# Quantitative Analytics Professional A at Freddie Mac
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Windhoek, Khomas Region, Namibia |
+| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | McLean, Virginia, United States |
 | Category | Quant Research |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Quantitative-Analyst_R47289) |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional-A_JR16806) |
 
 ## About This Role
 
-This quant research position at FirstRand was posted on 2026-03-06.
+This quant research position at Freddie Mac was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

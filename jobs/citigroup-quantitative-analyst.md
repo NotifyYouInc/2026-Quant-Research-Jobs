@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst at TD Bank
+# Quantitative Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York, US |
 | Category | Quant Developer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Wilmington-Delaware/Senior-Quantitative-Analyst_R_1477310) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst_26939382) |
 
 ## About This Role
 
-This quant developer position at TD Bank was posted on 2026-03-06.
+This quant developer position at Citigroup was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

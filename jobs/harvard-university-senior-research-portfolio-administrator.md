@@ -1,16 +1,16 @@
-# Fixed Income Research Associate at MFS
+# Senior Research Portfolio Administrator at Harvard University
 
 | Field | Details |
 |-------|---------|
-| Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Fixed-Income-Research-Associate_MFS-231599) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012019486-senior-research-portfolio-administrator) |
 
 ## About This Role
 
-This corporate finance position at MFS was posted on 2026-03-06.
+This corporate finance position at Harvard University was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Analyst at FirstRand
+# Financial Research Assistant - APAC at Numerix
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Windhoek, Khomas Region, Namibia |
+| Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Quant Research |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Quantitative-Analyst_R47289) |
+| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5131644008) |
 
 ## About This Role
 
-This quant research position at FirstRand was posted on 2026-03-06.
+This quant research position at Numerix was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Production Support Analyst - Trading at Talan
+# Fixed Income Analyst at Numerix
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Milan, Lombardy, Italy |
 | Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109085395-production-support-analyst-trading) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5018784008) |
 
 ## About This Role
 
-This customer success position at Talan was posted on 2026-02-12.
+This customer success position at Numerix was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
