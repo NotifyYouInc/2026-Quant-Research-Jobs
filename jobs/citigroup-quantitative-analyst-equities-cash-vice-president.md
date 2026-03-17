@@ -1,16 +1,16 @@
-# Credit Portfolio Senior Analyst at Citigroup
+# Quantitative Analyst - Equities Cash, Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
+| Location | Hong Kong, Hong Kong |
+| Category | Quant Developer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Credit-Portfolio-Senior-Analyst_26942632) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Quantitative-Analyst---Equities-Cash--Vice-President_26944665-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-09.
+This quant developer position at Citigroup was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

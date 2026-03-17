@@ -1,16 +1,16 @@
-# Credit Portfolio Senior Analyst at Citigroup
+# PWM Portfolio Management Analyst at U.S. Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Cincinnati, Ohio, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Credit-Portfolio-Senior-Analyst_26942632) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/PWM-Portfolio-Management-Analyst_2026-0005428) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-09.
+This corporate finance position at U.S. Bank was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

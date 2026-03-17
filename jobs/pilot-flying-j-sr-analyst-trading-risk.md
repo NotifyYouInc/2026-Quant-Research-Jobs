@@ -1,16 +1,16 @@
-# Credit Portfolio Senior Analyst at Citigroup
+# Sr Analyst, Trading Risk at Pilot Flying J
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Credit-Portfolio-Senior-Analyst_26942632) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000113592377-sr-analyst-trading-risk) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-09.
+This corporate finance position at Pilot Flying J was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
