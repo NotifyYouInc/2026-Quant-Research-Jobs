@@ -1,16 +1,16 @@
-# Quantitative Analyst at Legal & General
+# Senior Quantitative Analyst  at Legal & General
 
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000114098907-quantitative-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000114095988-senior-quantitative-analyst) |
 
 ## About This Role
 
-This quant developer position at Legal & General was posted on 2026-03-11.
+This quant research position at Legal & General was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
