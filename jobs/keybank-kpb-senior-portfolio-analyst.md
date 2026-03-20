@@ -1,16 +1,16 @@
-# Treasury Quantitative Analyst II at Truist
+# KPB Senior Portfolio Analyst at KeyBank
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Not specified |
 | Category | Corporate Finance |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Treasury-Quantitative-Analyst-II_R0112294) |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Portland-ME/KPB-Senior-Portfolio-Analyst_R-38427) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-03-12.
+This corporate finance position at KeyBank was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
