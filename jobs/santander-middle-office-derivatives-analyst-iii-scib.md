@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 1 at Citigroup
+# Middle Office Derivatives Analyst III - SCIB at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Securities---Derivatives-Analyst-1_25926748) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Middle-Office-Derivatives-Analyst-III---SCIB_Req1553801) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-13.
+This corporate finance position at Santander was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
