@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Scientist |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Associate-Quant-Analyst_REQ-054219) |
+| Category | Quant Research |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Associate-Quant-Analyst_REQ-055379) |
 
 ## About This Role
 
-This data scientist position at Morningstar was posted on 2026-02-12.
+This quant research position at Morningstar was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
