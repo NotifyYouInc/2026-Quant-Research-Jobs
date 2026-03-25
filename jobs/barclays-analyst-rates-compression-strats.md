@@ -1,16 +1,16 @@
-# Quantitative Analyst, New Product Development at Morningstar
+# Analyst Rates Compression (Strats) at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Quant Research |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Quantitative-Analyst--New-Product-Development_REQ-055918) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst-Rates-Compression--Strats-_JR-0000101222) |
 
 ## About This Role
 
-This quant research position at Morningstar was posted on 2026-03-17.
+This quant research position at Barclays was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
