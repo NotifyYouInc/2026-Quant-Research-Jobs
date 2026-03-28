@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Research |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Quantitative-Strategies---Data-Group---Equity-Quant-Associate_26004886) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Quantitative-Strategies---Data-Group---Equity-Quant-Associate_26008793) |
 
 ## About This Role
 
-This quant research position at Bank of America was posted on 2026-02-18.
+This quant research position at Bank of America was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
