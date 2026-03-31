@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Singapore---Marina-View/Fixed-Income-Manager-Research-Analyst_R_336851) |
+| Category | Corporate Finance |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Melbourne---727-Collins/Fixed-Income-Manager-Research-Analyst_R_342017) |
 
 ## About This Role
 
-This financial advisory & consulting position at Marsh was posted on 2026-02-21.
+This corporate finance position at Marsh was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
