@@ -1,16 +1,16 @@
-# Research Executive --Quantitative at NielsenIQ
+# Research Executive - Quantitative at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cairo, Cairo, Egypt |
-| Category | Data Analyst |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000106769635-research-executive-quantitative) |
+| Location | Karachi, Sindh, Pakistan |
+| Category | Project Manager |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116378203-research-executive-quantitative) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-02.
+This project manager position at NielsenIQ was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
