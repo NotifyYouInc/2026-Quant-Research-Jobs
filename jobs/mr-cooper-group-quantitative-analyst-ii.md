@@ -5,12 +5,12 @@
 | Company | [Mr. Cooper Group](https://scoutify.ai/companies/mr-cooper-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Quant Research |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Chennai-NSM-Block-1A/Quantitative-Analyst-II_024449) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Chennai-NSM-Block-7/Quantitative-Analyst-II_024490) |
 
 ## About This Role
 
-This quant research position at Mr. Cooper Group was posted on 2026-02-23.
+This quant research position at Mr. Cooper Group was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
