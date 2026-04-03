@@ -1,16 +1,16 @@
-# Quantitative Analyst at Morgan Stanley
+# Portfolio Analytics Quants , ISG Operations, Senior Associate , Fund Services at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
+| Location | Mumbai, Maharashtra, India |
 | Category | Quant Research |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Quantitative-Analyst_PT-JR032939) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Portfolio-Analytics-Quants---ISG-Operations--Senior-Associate---Fund-Services_JR033077) |
 
 ## About This Role
 
-This quant research position at Morgan Stanley was posted on 2026-03-26.
+This quant research position at Morgan Stanley was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

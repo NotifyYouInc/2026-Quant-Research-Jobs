@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Florida, US |
-| Category | Quant Developer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Ft-Lauderdale-Florida-United-States-of-America/Junior-Quantitative-Trader_866662) |
+| Location | Edinburgh, Scotland, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Edinburgh-United-Kingdom/Junior-Quantitative-Trader_866502) |
 
 ## About This Role
 
-This quant developer position at QS Investors was posted on 2026-02-24.
+This corporate finance position at QS Investors was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
