@@ -5,12 +5,12 @@
 | Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/6082580) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/7667941) |
 
 ## About This Role
 
-This quant research position at Flow Traders was posted on 2026-02-26.
+This quant research position at Flow Traders was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
