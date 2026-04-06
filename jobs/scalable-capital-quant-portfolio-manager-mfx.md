@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000111800555-quant-portfolio-manager-mfx) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000117281071-quant-portfolio-manager-mfx) |
 
 ## About This Role
 
-This asset management / portfolio management position at Scalable Capital was posted on 2026-02-27.
+This asset management / portfolio management position at Scalable Capital was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

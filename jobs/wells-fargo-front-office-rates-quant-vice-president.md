@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Quant Research |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/110832-NY-30-Hudson-Yards-New-York/Front-Office-Rates-Quant---Vice-President_R-520286) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Front-Office-Rates-Quant---Vice-President_R-477503) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-02-27.
+This quant research position at Wells Fargo was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
