@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000110201870-trading-incidents-analyst) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000118080549-trading-incidents-analyst) |
 
 ## About This Role
 
-This customer success position at Entain was posted on 2026-02-19.
+This customer success position at Entain was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

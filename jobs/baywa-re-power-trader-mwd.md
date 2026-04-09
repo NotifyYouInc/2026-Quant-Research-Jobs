@@ -1,16 +1,16 @@
-# Quantitative Researcher (Crypto Options) at IMC Trading
+# Power Trader (m/w/d) at BayWa r.e.
 
 | Field | Details |
 |-------|---------|
-| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [BayWa r.e.](https://scoutify.ai/companies/baywa-r-e?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Leipzig, Saxony, Germany |
 | Category | Quant Research |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4829951101) |
+| Apply | [View on company site](https://bayware.wd3.myworkdayjobs.com/jobsatbayware/job/Leipzig/Power-Trader--m-w-d-_JR101460) |
 
 ## About This Role
 
-This quant research position at IMC Trading was posted on 2026-04-01.
+This quant research position at BayWa r.e. was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Voya Financial](https://scoutify.ai/companies/godirect?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Quant Research |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Senior-Quantitative-Research-Analyst_JR0032484) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Senior-Quantitative-Research-Analyst_JR0032492) |
 
 ## About This Role
 
-This quant research position at Voya Financial was posted on 2026-03-02.
+This quant research position at Voya Financial was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
