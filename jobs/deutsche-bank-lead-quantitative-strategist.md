@@ -1,12 +1,12 @@
-# Credit Quantitative Strategist at Deutsche Bank
+# Lead Quantitative Strategist at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Mumbai, Maharashtra, India |
 | Category | Quant Developer |
 | Posted | 2026-04-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Credit-Quantitative-Strategist_R0430375) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B7/Treasury-Change_R0238791-1) |
 
 ## About This Role
 

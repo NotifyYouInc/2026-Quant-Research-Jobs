@@ -1,16 +1,16 @@
-# Credit Quantitative Strategist at Deutsche Bank
+# Quantitative Analyst at Centrica
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-04-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Credit-Quantitative-Strategist_R0430375) |
+| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Greater-London/Quantitative-Analyst_R0077971) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-04-02.
+This quant research position at Centrica was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
