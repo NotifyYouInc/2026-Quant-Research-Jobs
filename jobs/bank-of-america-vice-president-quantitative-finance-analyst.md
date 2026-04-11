@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
 | Category | Financial Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Vice-President--Quantitative-Finance-Analyst_26007395) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Vice-President--Quantitative-Finance-Analyst_26009239) |
 
 ## About This Role
 
-This financial analyst position at Bank of America was posted on 2026-03-04.
+This financial analyst position at Bank of America was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
