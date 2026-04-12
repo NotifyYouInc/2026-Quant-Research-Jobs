@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York, US |
-| Category | Quant Research |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities-and-Derivatives-Associate-Analyst-Hybrid_26935747-1) |
+| Category | Corporate Finance |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities-and-Derivatives-Associate-Analyst-Hybrid_26945270) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-03-05.
+This corporate finance position at Citigroup was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
