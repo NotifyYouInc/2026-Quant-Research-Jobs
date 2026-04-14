@@ -1,12 +1,12 @@
-# Securities & Derivatives Analyst at Citigroup
+# Securities and Derivatives Associate Analyst Entry Level Hybrid at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Haryana, IN |
+| Location | New York, US |
 | Category | Corporate Finance |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Securities---Derivatives-Analyst_26949599) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities-and-Derivatives-Associate-Analyst-Entry-Level-Hybrid_26951433) |
 
 ## About This Role
 

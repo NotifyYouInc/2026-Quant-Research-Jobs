@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Quantitative Analyst - Cash Equities, Officer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Haryana, IN |
-| Category | Corporate Finance |
+| Location | Mumbai, Maharashtra, India |
+| Category | Quant Research |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Securities---Derivatives-Analyst_26949599) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Quantitative-Analyst---Cash-Equities--Officer_26951887) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-06.
+This quant research position at Citigroup was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
