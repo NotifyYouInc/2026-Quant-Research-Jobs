@@ -1,16 +1,16 @@
-# Portfolio Analyst at Man Group
+# Quant Portfolio Manager at Anagram
 
 | Field | Details |
 |-------|---------|
-| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Massachusetts, US |
+| Company | [Anagram](https://scoutify.ai/companies/anagram?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Not specified |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4833278101) |
+| Posted | 2025-02-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/anagram/960f5fb5-b77b-4e10-9f9b-dbe7d782e089) |
 
 ## About This Role
 
-This asset management / portfolio management position at Man Group was posted on 2026-04-08.
+This asset management / portfolio management position at Anagram was posted on 2025-02-03.
 
 ## Get Real-Time Alerts
 

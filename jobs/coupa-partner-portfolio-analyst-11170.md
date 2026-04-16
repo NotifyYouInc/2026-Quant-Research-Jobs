@@ -1,16 +1,16 @@
-# Portfolio Analyst at Man Group
+# Partner Portfolio Analyst - 11170 at Coupa
 
 | Field | Details |
 |-------|---------|
-| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Massachusetts, US |
+| Company | [Coupa](https://scoutify.ai/companies/coupa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4833278101) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://jobs.lever.co/coupa/3b0417bc-f212-4a42-b50c-74467ba5b277) |
 
 ## About This Role
 
-This asset management / portfolio management position at Man Group was posted on 2026-04-08.
+This asset management / portfolio management position at Coupa was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

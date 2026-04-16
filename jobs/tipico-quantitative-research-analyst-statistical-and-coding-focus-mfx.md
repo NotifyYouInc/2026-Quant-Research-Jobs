@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Vienna, Vienna, Austria |
-| Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000113522462-quantitative-research-analyst-statistical-and-coding-focus-mfx) |
+| Location | Slavonski Brod, Brod-Posavina, Croatia |
+| Category | Quant Research |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000113732970-quantitative-research-analyst-statistical-and-coding-focus-mfx) |
 
 ## About This Role
 
-This data scientist position at Tipico was posted on 2026-03-09.
+This quant research position at Tipico was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

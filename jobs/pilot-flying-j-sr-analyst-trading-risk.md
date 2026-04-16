@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000113592377-sr-analyst-trading-risk) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000116669917-sr-analyst-trading-risk) |
 
 ## About This Role
 
-This corporate finance position at Pilot Flying J was posted on 2026-03-09.
+This corporate finance position at Pilot Flying J was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
