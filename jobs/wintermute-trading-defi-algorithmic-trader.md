@@ -1,16 +1,16 @@
-# Quantitative Analyst, Vice President at Citigroup
+# DeFi Algorithmic Trader at Wintermute Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Wintermute Trading](https://scoutify.ai/companies/wintermute-trading-106987?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst--Vice-President_26952431) |
+| Posted | 2025-12-05 |
+| Apply | [View on company site](https://jobs.lever.co/wintermute-trading/5cccf004-c190-487d-84d8-e4d8fee97b77) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-04-09.
+This quant developer position at Wintermute Trading was posted on 2025-12-05.
 
 ## Get Real-Time Alerts
 

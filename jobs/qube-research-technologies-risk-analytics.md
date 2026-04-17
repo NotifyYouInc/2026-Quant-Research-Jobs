@@ -1,16 +1,16 @@
-# Quantitative Analyst, Vice President at Citigroup
+# Risk Analytics at Qube Research & Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Data Analyst |
 | Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst--Vice-President_26952431) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8416038002) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-04-09.
+This data analyst position at Qube Research & Technologies was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

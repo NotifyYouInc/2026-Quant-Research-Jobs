@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Boston-Massachusetts-United-States-of-America/Equity-Analyst----Financials---Developed-Markets-Asia-_867007) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/London-United-Kingdom/Equity-Analyst----Financials---Developed-Markets-Asia-_867056) |
 
 ## About This Role
 
-This corporate finance position at QS Investors was posted on 2026-03-12.
+This corporate finance position at QS Investors was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
