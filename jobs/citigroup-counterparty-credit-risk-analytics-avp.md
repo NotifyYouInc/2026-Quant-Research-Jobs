@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 1 at Citigroup
+# Counterparty Credit Risk Analytics, AVP at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Securities---Derivatives-Analyst-1_26950644) |
+| Location | New York, US |
+| Category | Quant Research |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Counterparty-Credit-Risk-Analytics--AVP_26952898) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-06.
+This quant research position at Citigroup was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

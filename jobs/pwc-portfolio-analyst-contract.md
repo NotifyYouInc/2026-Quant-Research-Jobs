@@ -1,16 +1,16 @@
-# Lead IT Portfolio Management Analyst at Centene
+# Portfolio Analyst (Contract) at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | United States |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Asset Management / Portfolio Management |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Lead-IT-Portfolio-Management-Analyst_1636366) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Portfolio-Analyst--Contract-_719272WD) |
 
 ## About This Role
 
-This asset management / portfolio management position at Centene was posted on 2026-04-10.
+This asset management / portfolio management position at PwC was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

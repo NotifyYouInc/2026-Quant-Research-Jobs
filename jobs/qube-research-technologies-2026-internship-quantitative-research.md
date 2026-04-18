@@ -5,12 +5,12 @@
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Quant Research |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8392232002) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8461988002) |
 
 ## About This Role
 
-This quant research position at Qube Research & Technologies was posted on 2026-03-12.
+This quant research position at Qube Research & Technologies was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
