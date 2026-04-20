@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000115048687-quantitative-index-and-etf-strategist) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000117681905-quantitative-index-and-etf-strategist) |
 
 ## About This Role
 
-This quant research position at Legal & General was posted on 2026-03-16.
+This quant research position at Legal & General was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
