@@ -1,16 +1,16 @@
-# Employee Trading and Investing, Analyst, Oversight, Monitoring and Testing at Morgan Stanley
+# Employee Trading and Investing, Analyst,, Oversight, Monitoring and Testing at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Employee-Trading-and-Investing--Analyst--Oversight--Monitoring-and-Testing_PT-JR032374) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Employee-Trading-and-Investing--Analyst---Oversight--Monitoring-and-Testing_PT-JR033092) |
 
 ## About This Role
 
-This compliance & risk management position at Morgan Stanley was posted on 2026-03-17.
+This compliance & risk management position at Morgan Stanley was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

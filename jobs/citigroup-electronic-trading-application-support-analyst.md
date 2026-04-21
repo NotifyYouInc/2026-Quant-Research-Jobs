@@ -1,16 +1,16 @@
-# Securities & Derivatives Intermediate Analyst at Citigroup
+# Electronic Trading Application Support Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Corporate Finance |
+| Location | Mississauga, Ontario, Canada |
+| Category | Customer Success |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Intermediate-Analyst_26953644) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Electronic-Trading-Application-Support-Analyst_26949771) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-13.
+This customer success position at Citigroup was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

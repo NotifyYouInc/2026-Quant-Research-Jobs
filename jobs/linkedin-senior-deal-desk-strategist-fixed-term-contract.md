@@ -1,16 +1,16 @@
-# Securities & Derivatives Intermediate Analyst at Citigroup
+# Senior Deal Desk Strategist - Fixed Term Contract at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Corporate Finance |
+| Category | Operations |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Intermediate-Analyst_26953644) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000120346221-senior-deal-desk-strategist-fixed-term-contract) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-13.
+This operations position at LinkedIn was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Securities & Derivatives Intermediate Analyst at Citigroup
+# Quantitative Risk Senior Analyst, Senior Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Corporate Finance |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Quant Developer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Intermediate-Analyst_26953644) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Quantitative-Risk-Senior-Analyst--Senior-Vice-President_25906902) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-13.
+This quant developer position at Citigroup was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
