@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Quant Research |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Quantitative-Analyst---Global-Finance_R230782-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Quantitative-Analyst---Global-Finance_R238676) |
 
 ## About This Role
 
-This quant research position at Capital One was posted on 2026-03-18.
+This quant research position at Capital One was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

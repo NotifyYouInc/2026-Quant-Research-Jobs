@@ -1,16 +1,16 @@
-# Securities and Derivatives Associate Analyst Hybrid at Citigroup
+# Securities & Derivatives Sr Analyst - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
+| Location | Kowloon, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities-and-Derivatives-Associate-Analyst-Hybrid_26950469) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Securities---Derivatives-Sr-Analyst---Assistant-Vice-President_26954011-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-31.
+This corporate finance position at Citigroup was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

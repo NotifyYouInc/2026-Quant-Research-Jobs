@@ -1,16 +1,16 @@
-# Officer, Cash Equity Middle Office Analyst at Citigroup
+# Senior Analyst, Sales & Trading at Hiive
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Kowloon, Hong Kong |
+| Company | [Hiive](https://scoutify.ai/companies/hiive?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-04-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Cash-Equity-Middle-Office-Analyst_26954930) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hiive/08a14f70-5ad8-4db5-85f0-39198f2d86ac) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-14.
+This corporate finance position at Hiive was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
