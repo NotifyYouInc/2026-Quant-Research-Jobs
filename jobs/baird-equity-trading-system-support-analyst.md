@@ -1,16 +1,16 @@
-# Trading Application Support Analyst - Equity Desk at Talan
+# Equity Trading System Support Analyst at Baird
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York, US |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000119131122-trading-application-support-analyst-equity-desk) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/NY-New-York/Equity-Trading-System-Support-Analyst_R2026464-1) |
 
 ## About This Role
 
-This customer success position at Talan was posted on 2026-04-07.
+This customer success position at Baird was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
