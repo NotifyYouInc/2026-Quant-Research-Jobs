@@ -1,12 +1,12 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# Securities & Derivatives Lead Analyst Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst-2_26955000) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Securities---Derivatives-Lead-Analyst-Vice-President_26955058) |
 
 ## About This Role
 

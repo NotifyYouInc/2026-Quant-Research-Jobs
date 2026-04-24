@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# Portfolio Analyst at Connexuscu
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Connexuscu](https://scoutify.ai/companies/connexuscu?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst-2_26955000) |
+| Apply | [View on company site](https://connexuscu.wd1.myworkdayjobs.com/connexuscareers/job/Remote/Portfolio-Analyst_JR1627) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-16.
+This corporate finance position at Connexuscu was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# Analyst, Muni Client Portfolio Manager at TIAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst-2_26955000) |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Chicago-IL-USA/Analyst--Muni-Client-Portfolio-Manager_R260300665-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-16.
+This corporate finance position at TIAA was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

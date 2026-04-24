@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# Equity Strategist Intern at Thndr
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Thndr](https://scoutify.ai/companies/thndr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Corporate Finance |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst-2_26955000) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thndr/7cd20385-ef23-4fc4-9232-34491713196e) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-16.
+This corporate finance position at Thndr was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

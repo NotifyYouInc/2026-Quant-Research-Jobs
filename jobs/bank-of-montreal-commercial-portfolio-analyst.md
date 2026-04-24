@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# Commercial Portfolio Analyst at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst-2_26955000) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Brookfield-WI-USA/Commercial-Portfolio-Analyst_R260011114) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-16.
+This corporate finance position at Bank of Montreal was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
