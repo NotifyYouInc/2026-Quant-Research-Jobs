@@ -1,16 +1,16 @@
-# Quantitative Index and ETF Strategist  at Legal & General
+# Portfolio Management Analyst at AXIS Capital
 
 | Field | Details |
 |-------|---------|
-| Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [AXIS Capital](https://scoutify.ai/companies/axis-capital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000121434587-quantitative-index-and-etf-strategist) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Portfolio-Management-Analyst_REQ06505) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-04-17.
+This corporate finance position at AXIS Capital was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

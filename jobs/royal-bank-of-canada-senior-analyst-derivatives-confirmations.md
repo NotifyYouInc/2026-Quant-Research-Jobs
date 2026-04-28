@@ -1,16 +1,16 @@
-# Fixed Income Analyst at Royal Bank of Canada
+# Senior Analyst, Derivatives Confirmations at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Corporate Finance |
+| Location | Toronto, Ontario, Canada |
+| Category | Business Analyst |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Fixed-Income-Analyst_R-0000168267-1) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Analyst--Derivatives-Confirmations_R-0000168665) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-20.
+This business analyst position at Royal Bank of Canada was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

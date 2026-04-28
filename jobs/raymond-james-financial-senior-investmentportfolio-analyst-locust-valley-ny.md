@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Locust-Valley-New-York---United-States/Senior-Investment-Portfolio-Analyst---Locust-Valley--NY_R-0006839) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Locust-Valley-New-York---United-States/Senior-Investment-Portfolio-Analyst---Locust-Valley--NY_R-0010657) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-01-23.
+This corporate finance position at Raymond James Financial was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
