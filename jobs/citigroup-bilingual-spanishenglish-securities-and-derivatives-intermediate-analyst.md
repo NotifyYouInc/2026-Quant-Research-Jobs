@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Bilingual (Spanish/English) Securities and Derivatives Intermediate Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26941975) |
+| Location | Tampa, Florida, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Bilingual--Spanish-English--Securities-and-Derivatives-Intermediate-Analyst_26953482) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-09.
+This business analyst position at Citigroup was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

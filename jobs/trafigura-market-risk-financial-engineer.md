@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst  at Legal & General
+# Market Risk Financial Engineer at Trafigura
 
 | Field | Details |
 |-------|---------|
-| Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Trafigura](https://scoutify.ai/companies/trafigura?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Switzerland |
 | Category | Quant Developer |
 | Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000122036337-senior-quantitative-analyst) |
+| Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Geneva-Switzerland/Market-Risk-Financial-Engineer_R-017858) |
 
 ## About This Role
 
-This quant developer position at Legal & General was posted on 2026-04-21.
+This quant developer position at Trafigura was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

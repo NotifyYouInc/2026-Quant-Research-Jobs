@@ -1,16 +1,16 @@
-# Quantitative Researcher at IMC Trading
+# Research Executive at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Quant Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4694175101) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121977998-research-executive) |
 
 ## About This Role
 
-This quant research position at IMC Trading was posted on 2026-04-22.
+This quant research position at NielsenIQ was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

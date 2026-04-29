@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Securities & Derivatives Analyst (Entry Level) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26941975) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities---Derivatives-Analyst--Entry-Level-_26955339-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-09.
+This corporate finance position at Citigroup was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

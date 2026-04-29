@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Fixed Income Rates eTrading Production Support Senior Analyst - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26941975) |
+| Location | London, England, United Kingdom |
+| Category | Customer Success |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Fixed-Income-Rates-eTrading-Production-Support-Senior-Analyst---Assistant-Vice-President_26956989) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-09.
+This customer success position at Citigroup was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
