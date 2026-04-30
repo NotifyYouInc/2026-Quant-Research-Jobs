@@ -5,12 +5,12 @@
 | Company | [Sendcloud](https://scoutify.ai/companies/sendcloud?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Eindhoven, North Brabant, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sendcloud/jobs/8444409002) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sendcloud/jobs/8191428002) |
 
 ## About This Role
 
-This business analyst position at Sendcloud was posted on 2026-04-08.
+This business analyst position at Sendcloud was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

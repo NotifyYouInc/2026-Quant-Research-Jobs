@@ -1,12 +1,12 @@
-# Quantitative Model Analyst at U.S. Bank
+# Equity Quantitative Analyst at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | 3 locations |
 | Category | Quant Developer |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Quantitative-Model-Analyst_2026-0009694-1) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/Equity-Quantitative-Analyst_2026-0009825-1) |
 
 ## About This Role
 

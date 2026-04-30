@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | North Charleston, South Carolina, United States |
 | Category | Quant Research |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Applied-Mathematician--Experienced--Senior-_JR2026503160-2) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Applied-Mathematician--Experienced--Senior-_JR2026505185) |
 
 ## About This Role
 
-This quant research position at Boeing was posted on 2026-04-08.
+This quant research position at Boeing was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

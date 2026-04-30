@@ -1,16 +1,16 @@
-# Quantitative Research Associate at Apollo Global
+# Principal, Structured CRE/BPL Resi Desk Strat at Apollo Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/Quantitative-Research-Associate_R253490) |
+| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/Principal--Structured-CRE-BPL-Resi-Desk-Strat_R254432) |
 
 ## About This Role
 
-This quant research position at Apollo Global was posted on 2026-04-22.
+This corporate finance position at Apollo Global was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

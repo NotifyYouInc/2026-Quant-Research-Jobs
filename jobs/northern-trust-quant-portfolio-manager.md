@@ -1,16 +1,16 @@
-# Securities & Derivatives Intmd Analyst at Citigroup
+# Quant Portfolio Manager at Northern Trust
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Securities---Derivatives-Intmd-Analyst_26958077) |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Melbourne-Australia/Quant-Portfolio-Manager_R153787-2) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-22.
+This corporate finance position at Northern Trust was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

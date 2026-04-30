@@ -1,16 +1,16 @@
-# Quantitative Model Analyst at U.S. Bank
+# Quant Trader (VP) at Crypto
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | United States |
 | Category | Quant Developer |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Quantitative-Model-Analyst_2026-0009694-1) |
+| Apply | [View on company site](https://jobs.lever.co/crypto/213433d0-5f5b-4c2a-9a3e-3a3c3cfc16e2) |
 
 ## About This Role
 
-This quant developer position at U.S. Bank was posted on 2026-04-22.
+This quant developer position at Crypto was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Research Associate at Apollo Global
+# Associate Director, Multi-Credit Investment Strategy at Apollo Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | El Segundo, California, United States |
-| Category | Quant Research |
+| Location | Mumbai, Maharashtra, India |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/Quantitative-Research-Associate_R253490) |
+| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/Mumbai-NESCO-India/Associate-Director--Multi-Credit-Investment-Strategy_R260143) |
 
 ## About This Role
 
-This quant research position at Apollo Global was posted on 2026-04-22.
+This asset management / portfolio management position at Apollo Global was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
