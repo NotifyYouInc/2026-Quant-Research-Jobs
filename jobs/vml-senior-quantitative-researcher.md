@@ -1,16 +1,16 @@
-# Quantitative Analytics Senior at Freddie Mac
+# Senior Quantitative Researcher at VML
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Quant Research |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Senior_JR17017) |
+| Apply | [View on company site](https://www.vml.com/careers/job/8403514002?gh_jid=8403514002) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-04-23.
+This quant research position at VML was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

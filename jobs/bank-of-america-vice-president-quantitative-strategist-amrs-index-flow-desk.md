@@ -1,16 +1,16 @@
-# Global Research – Fixed Income Corporate Access at Bank of America
+# Vice President, Quantitative Strategist, AMRS Index Flow Desk at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Global-Research---Fixed-Income-Corporate-Access_26013434-1) |
+| Location | New York City, New York, United States |
+| Category | Quant Developer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Vice-President--Quantitative-Strategist--AMRS-Index-Flow-Desk_26014733) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-13.
+This quant developer position at Bank of America was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

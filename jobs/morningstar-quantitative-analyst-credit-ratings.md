@@ -1,16 +1,16 @@
-# Quantitative Analytics Senior at Freddie Mac
+# Quantitative Analyst, Credit Ratings at Morningstar
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Quant Research |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Senior_JR17017) |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Quantitative-Analyst--Credit-Ratings_REQ-052174) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-04-23.
+This quant research position at Morningstar was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

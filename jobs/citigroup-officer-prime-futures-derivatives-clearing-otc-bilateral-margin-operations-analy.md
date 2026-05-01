@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Officer, Prime, Futures & Derivatives Clearing, OTC Bilateral Margin Operations Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Analyst_26953749) |
+| Location | Kowloon, Hong Kong |
+| Category | Compliance & Risk Management |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Prime--Futures---Derivatives-Clearing--OTC-Bilateral-Margin-Operations-Analyst_26957424) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-15.
+This compliance & risk management position at Citigroup was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

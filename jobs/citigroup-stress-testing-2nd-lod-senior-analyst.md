@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Stress Testing 2nd LOD Senior Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Analyst_26953749) |
+| Location | Irving, Texas, United States |
+| Category | Quant Research |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Stress-Testing-2nd-LOD-Senior-Analyst_26953362) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-15.
+This quant research position at Citigroup was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

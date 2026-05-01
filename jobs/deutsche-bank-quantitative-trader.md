@@ -1,16 +1,16 @@
-# Quantitative Analytics Senior at Freddie Mac
+# Quantitative Trader at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Senior_JR17017) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Trader_R0412786) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-04-23.
+This quant research position at Deutsche Bank was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

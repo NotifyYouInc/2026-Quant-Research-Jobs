@@ -1,16 +1,16 @@
-# Quantitative Analytics Senior at Freddie Mac
+# Intermediate Quantitative Analyst at Allstate
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Quant Research |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Senior_JR17017) |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Chicago-River-Point/Intermediate-Quantitative-Analyst_R29617) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-04-23.
+This quant research position at Allstate was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

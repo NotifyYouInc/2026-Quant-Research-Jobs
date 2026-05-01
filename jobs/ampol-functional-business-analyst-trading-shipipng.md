@@ -1,4 +1,4 @@
-# Senior Commercial Analyst - Trading & Shipping at Ampol
+# Functional Business Analyst - Trading & Shipipng at Ampol
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001022400-senior-commercial-analyst-trading-shipping) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001022394-functional-business-analyst-trading-shipipng) |
 
 ## About This Role
 

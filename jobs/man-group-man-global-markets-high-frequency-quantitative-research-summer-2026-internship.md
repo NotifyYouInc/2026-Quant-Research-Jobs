@@ -1,16 +1,16 @@
-# Quantitative Analytics Senior at Freddie Mac
+# Man Global Markets High-Frequency Quantitative Research Summer 2026 Internship at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Senior_JR17017) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4675608101) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-04-23.
+This quant research position at Man Group was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
