@@ -1,16 +1,16 @@
-# Quantitative Analyst at FirstRand
+# PhD Position in Quantum Software Engineering at Simula Research Laboratory
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Windhoek, Khomas Region, Namibia |
+| Company | [Simula Research Laboratory](https://scoutify.ai/companies/simula-research-laboratory?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | Quant Research |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Quantitative-Analyst_R49235) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/simula/jobs/7698986) |
 
 ## About This Role
 
-This quant research position at FirstRand was posted on 2026-04-24.
+This quant research position at Simula Research Laboratory was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

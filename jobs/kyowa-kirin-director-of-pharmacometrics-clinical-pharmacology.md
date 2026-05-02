@@ -1,16 +1,16 @@
-# Quantitative Analyst at FirstRand
+# Director of Pharmacometrics- Clinical Pharmacology at Kyowa Kirin
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Windhoek, Khomas Region, Namibia |
+| Company | [Kyowa Kirin](https://scoutify.ai/companies/kyowakirinusa90?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Princeton, Florida, United States |
 | Category | Quant Research |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Quantitative-Analyst_R49235) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kyowakirinusa90/jobs/7578917003) |
 
 ## About This Role
 
-This quant research position at FirstRand was posted on 2026-04-24.
+This quant research position at Kyowa Kirin was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

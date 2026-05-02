@@ -1,16 +1,16 @@
-# Equity Index Data Analyst at LSEG
+# Model Validation at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Equity-Index-Data-Analyst_R0118648-1) |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Model-Validation_10074372-WD) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-04-24.
+This quant research position at Mitsubishi UFG was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

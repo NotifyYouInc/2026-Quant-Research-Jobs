@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Operations |
-| Posted | 2026-01-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taipei-Taipei-City-Taiwan/Officer--Securities---Derivatives-Analyst--Taiwan_25870452) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Corporate Finance |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sydney-New-South-Wales-Australia/Officer--Securities---Derivatives-Analyst_26957397) |
 
 ## About This Role
 
-This operations position at Citigroup was posted on 2026-01-27.
+This corporate finance position at Citigroup was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

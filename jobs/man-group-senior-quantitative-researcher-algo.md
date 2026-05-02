@@ -1,16 +1,16 @@
-# Quantitative Analyst at FirstRand
+# Senior Quantitative Researcher - Algo at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Windhoek, Khomas Region, Namibia |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Quantitative-Analyst_R49235) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4524727101) |
 
 ## About This Role
 
-This quant research position at FirstRand was posted on 2026-04-24.
+This quant research position at Man Group was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
