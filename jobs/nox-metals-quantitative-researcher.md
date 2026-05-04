@@ -1,16 +1,16 @@
-# Quantitative Researcher at Tanius Technology
+# Quantitative Researcher at Nox Metals
 
 | Field | Details |
 |-------|---------|
-| Company | [Tanius Technology](https://scoutify.ai/companies/tanius-technology?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Alamo, Texas, United States |
+| Company | [Nox Metals](https://scoutify.ai/companies/nox-metals?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Detroit, Michigan, United States |
 | Category | Quant Research |
-| Posted | 2024-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tanius/jobs/4335451002) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nox-metals/2401fe1a-5dbf-4ffc-a854-27acd0319090) |
 
 ## About This Role
 
-This quant research position at Tanius Technology was posted on 2024-07-24.
+This quant research position at Nox Metals was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales & Trading Program Analyst - C11 - TOKYO at Citigroup
+# Quantitative Trader, Cash OTC at OKX
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Japan |
+| Company | [OKX](https://scoutify.ai/companies/okx?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Sales---Trading-Program-Analyst---C11---TOKYO_25927322) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/okx/jobs/7714574003) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This corporate finance position at OKX was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

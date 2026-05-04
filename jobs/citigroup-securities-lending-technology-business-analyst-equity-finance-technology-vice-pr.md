@@ -1,16 +1,16 @@
-# Sales & Trading Program Analyst - C11 - TOKYO at Citigroup
+# Securities Lending Technology Business Analyst (Equity Finance Technology) - Vice President - NYC at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Japan |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Sales---Trading-Program-Analyst---C11---TOKYO_25927322) |
+| Location | New York City, New York, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Securities-Lending-Technology-Business-Analyst--Equity-Finance-Technology----Vice-President---NYC_26956126-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This business analyst position at Citigroup was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 
