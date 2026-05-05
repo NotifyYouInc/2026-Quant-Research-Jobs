@@ -1,12 +1,12 @@
-# Senior UX Quantitative Researcher, YouTube at Google
+# Senior UX Quantitative Researcher, Customer Engagement at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | San Bruno, California, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | UX Researcher |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXyotrNmR7oSo8cg5pyF4R_6xlywCGy2DekfCx-veDzkEjsACxwdTKrceJltPf0xeK1uO0c1ZqhIdWoELuHJEgSCK0gt1RHbGZhXld3lAYT9Yz2dGP2lh24r8W_m0Q%3D%3D_V2&loc=US&title=Senior+UX+Quantitative+Researcher) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWbqoZ6pXTaqQ8KWrfWaBDygesdHIOQPaCY3pYhdekbGEjsACxwdTImCb9Jlp66iO197H7pL-HUTOL7WaMZhRqBOWoP9lvVHMHTWpyaF-SZHHw5-Rxd_eyvt2qz78A%3D%3D_V2&loc=IN&title=Senior+UX+Quantitative+Researcher) |
 
 ## About This Role
 
