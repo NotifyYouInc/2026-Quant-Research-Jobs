@@ -1,16 +1,16 @@
-# Senior Research Engineer at Flow Traders
+# Experienced Quantitative Researcher at Flow Traders
 
 | Field | Details |
 |-------|---------|
 | Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Machine Learning Engineer |
+| Category | Quant Research |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/7431246) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/4003450) |
 
 ## About This Role
 
-This machine learning engineer position at Flow Traders was posted on 2026-03-31.
+This quant research position at Flow Traders was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

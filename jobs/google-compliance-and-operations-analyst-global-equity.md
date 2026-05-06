@@ -1,16 +1,16 @@
-# Staff UX Quantitative Researcher, Search at Google
+# Compliance and Operations Analyst, Global Equity at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 5 locations |
-| Category | UX Researcher |
+| Location | Sunnyvale, California, United States |
+| Category | Compliance & Risk Management |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRHLJZfQUpUXzwVYswe4UuzybzvlYb7KlilMRKhUEsDUEjsACxwdTHVLIMAOidkoWSt-4xdJ8uHI6yjvM0br_0a6B5SDBg6JNE0-FIcXeAt4tkBUv-GahwDRicGL2w%3D%3D_V2&loc=US&title=Staff+UX+Quantitative+Researcher) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckad5Gcrzs1ixM6cUjfXkkN0NycwrAhVz-5BersKlXRvLEjsACxwdTDco7hb-R0ouTqDDb0C_9lzDkhZjxay43FN7PP9VxQC1Fb9S_YY8XuhuOTX7PDgn9O1iY8NRcA%3D%3D_V2&loc=US&title=Compliance+and+Operations+Analyst) |
 
 ## About This Role
 
-This ux researcher position at Google was posted on 2026-04-28.
+This compliance & risk management position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
