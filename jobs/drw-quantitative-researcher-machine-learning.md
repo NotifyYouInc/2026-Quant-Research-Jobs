@@ -1,16 +1,16 @@
-# Quantitative Researcher at DRW
+# Quantitative Researcher - Machine Learning at DRW
 
 | Field | Details |
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | AI / ML Research |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7228276) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7276024) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-04-29.
+This ai / ml research position at DRW was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

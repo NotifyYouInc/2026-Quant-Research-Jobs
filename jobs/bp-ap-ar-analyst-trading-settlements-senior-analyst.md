@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/HU-Budapest/AP--AR-Analyst--Trading-Settlements-Senior-Analyst_RQ107860) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/HU-Budapest/AP--AR-Analyst--Trading-Settlements-Senior-Analyst_RQ109784-1) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-03-19.
+This corporate finance position at BP was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

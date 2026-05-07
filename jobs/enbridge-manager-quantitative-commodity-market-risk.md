@@ -1,16 +1,16 @@
-# Quantitative Researcher at DRW
+# Manager Quantitative Commodity Market Risk at Enbridge
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Enbridge](https://scoutify.ai/companies/enbridge?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Quant Research |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7228276) |
+| Apply | [View on company site](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Manager-Quantitative-Commodity-Market-Risk_71199-1) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-04-29.
+This quant research position at Enbridge was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Researcher at DRW
+# Quantum Information Science Intern at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Huntsville, Alabama, United States |
 | Category | Quant Research |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7228276) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Quantum-Information-Science-Intern_R-00181429) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-04-29.
+This quant research position at Leidos was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

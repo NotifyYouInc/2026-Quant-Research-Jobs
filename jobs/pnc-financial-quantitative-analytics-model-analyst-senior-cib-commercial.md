@@ -1,16 +1,16 @@
-# Portfolio Analytics & Strategy Analyst - Data, Model & Analytics at PNC Financial
+# Quantitative Analytics & Model Analyst Senior - C&IB - Commercial at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Vienna, Virginia, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/VA---Vienna-22182/Portfolio-Analytics---Strategy-Analyst---Data--Model---Analytics_R217220-1) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Analyst-Senior---C-IB---Commercial_R221136) |
 
 ## About This Role
 
-This asset management / portfolio management position at PNC Financial was posted on 2026-04-23.
+This data analyst position at PNC Financial was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

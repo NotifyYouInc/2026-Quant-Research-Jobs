@@ -1,16 +1,16 @@
-# Quantitative Risk Modeling Analyst at Huntington Bancshares
+# Model Risk Review Specialist III at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | 4 locations |
 | Category | Quant Research |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Quantitative-Risk-Modeling-Analyst_R0071256-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Model-Risk-Review-Specialist-III_R0071405) |
 
 ## About This Role
 
-This quant research position at Huntington Bancshares was posted on 2026-04-28.
+This quant research position at Huntington Bancshares was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

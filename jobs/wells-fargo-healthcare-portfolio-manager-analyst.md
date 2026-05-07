@@ -1,16 +1,16 @@
-# Lead Quantitative Analytics Specialist at Wells Fargo
+# Healthcare Portfolio Manager - Analyst at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Quant Research |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Quantitative-Analytics-Specialist_R-528067) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Corporate Finance |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Healthcare-Portfolio-Manager---Analyst_R-531474) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-04-20.
+This corporate finance position at Wells Fargo was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
