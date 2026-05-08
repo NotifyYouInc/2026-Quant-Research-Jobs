@@ -1,16 +1,16 @@
-# Credit Portfolio Senior Analyst at Citigroup
+# Real Estate Portfolio Analyst at Voya Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Voya Financial](https://scoutify.ai/companies/godirect?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Senior-Analyst_26959241) |
+| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Real-Estate-Portfolio-Analyst_JR0032659-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-30.
+This corporate finance position at Voya Financial was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Metron](https://scoutify.ai/companies/metron?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/metron/jobs/5071502007) |
+| Category | Data Scientist |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/metron/jobs/5125956007) |
 
 ## About This Role
 
-This software engineer position at Metron was posted on 2026-03-09.
+This data scientist position at Metron was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

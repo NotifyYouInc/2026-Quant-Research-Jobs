@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Intermediate-Analyst_26953644) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Intermediate-Analyst_26953664) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-13.
+This corporate finance position at Citigroup was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

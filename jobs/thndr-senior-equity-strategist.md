@@ -1,16 +1,16 @@
-# Credit Portfolio Senior Analyst at Citigroup
+# Senior Equity Strategist at Thndr
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Thndr](https://scoutify.ai/companies/thndr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Corporate Finance |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Senior-Analyst_26959241) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thndr/f8c43ab2-f5ea-4cd9-9e1f-c78ac63fb60e) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-30.
+This corporate finance position at Thndr was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

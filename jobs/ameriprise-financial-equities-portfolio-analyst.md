@@ -1,16 +1,16 @@
-# Senior Payroll and Equity Analyst  at Harvey
+# Equities Portfolio Analyst at Ameriprise Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/bf2e9a35-c033-458d-9f0c-0138deea5b60) |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Chicago-Illinois/Equities-Portfolio-Analyst_R26_1300-1) |
 
 ## About This Role
 
-This corporate finance position at Harvey was posted on 2026-04-30.
+This corporate finance position at Ameriprise Financial was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

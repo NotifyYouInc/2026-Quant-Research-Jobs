@@ -1,16 +1,16 @@
-# Project Director, Quantitative  at Omnicom Health
+# Quantitative Researcher at Seven Research
 
 | Field | Details |
 |-------|---------|
-| Company | [Omnicom Health](https://scoutify.ai/companies/omnicom-health?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Seven Research](https://scoutify.ai/companies/seven-research?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Project Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/omnicomhealth/jobs/5206889008) |
+| Category | Quant Research |
+| Posted | 2025-11-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008) |
 
 ## About This Role
 
-This project manager position at Omnicom Health was posted on 2026-04-30.
+This quant research position at Seven Research was posted on 2025-11-10.
 
 ## Get Real-Time Alerts
 

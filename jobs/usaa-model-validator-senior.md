@@ -1,16 +1,16 @@
-# Senior Payroll and Equity Analyst  at Harvey
+# Model Validator Senior at USAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
+| Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 6 locations |
+| Category | Quant Research |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/bf2e9a35-c033-458d-9f0c-0138deea5b60) |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Model-Validator-Senior_R0117061) |
 
 ## About This Role
 
-This corporate finance position at Harvey was posted on 2026-04-30.
+This quant research position at USAA was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
