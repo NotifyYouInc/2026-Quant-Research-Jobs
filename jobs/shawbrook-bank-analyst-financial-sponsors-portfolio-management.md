@@ -5,12 +5,12 @@
 | Company | [Shawbrook Bank](https://scoutify.ai/companies/shawbrookbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000120639418-analyst-financial-sponsors-portfolio-management) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000123672228-analyst-financial-sponsors-portfolio-management) |
 
 ## About This Role
 
-This corporate finance position at Shawbrook Bank was posted on 2026-04-14.
+This corporate finance position at Shawbrook Bank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
