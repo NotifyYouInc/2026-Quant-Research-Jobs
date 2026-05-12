@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Model Validation 2nd LOD Sr. Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities---Derivatives-Analyst_26955084) |
+| Location | Irving, Texas, United States |
+| Category | Quant Research |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Model-Validation-2nd-LOD-Sr-Analyst_26935347) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-23.
+This quant research position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
