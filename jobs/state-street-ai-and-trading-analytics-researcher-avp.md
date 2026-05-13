@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cambridge, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--AVP_R-785694) |
+| Location | 2 locations |
+| Category | Quant Research |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--AVP_R-789345-1) |
 
 ## About This Role
 
-This machine learning engineer position at State Street was posted on 2026-03-11.
+This quant research position at State Street was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
