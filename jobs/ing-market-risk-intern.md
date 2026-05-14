@@ -1,16 +1,16 @@
-# Quantitative Analyst at Fil
+# Market Risk Intern at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Milan, Lombardy, Italy |
 | Category | Quant Research |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Quantitative-Analyst_J63864-1) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Market-Risk-Intern_REQ-10113694) |
 
 ## About This Role
 
-This quant research position at Fil was posted on 2026-05-06.
+This quant research position at ING was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

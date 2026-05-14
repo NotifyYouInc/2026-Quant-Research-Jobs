@@ -1,16 +1,16 @@
-# Quantitative Analyst at Fil
+# Research Intern - Fault Tolerant Quantum System Architecture at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | Quant Research |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Quantitative-Analyst_J63864-1) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556864490) |
 
 ## About This Role
 
-This quant research position at Fil was posted on 2026-05-06.
+This quant research position at Microsoft was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

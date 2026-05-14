@@ -1,16 +1,16 @@
-# Securities & Derivatives Intermediate Analyst at Citigroup
+# Quantitative Risk Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Securities---Derivatives-Intermediate-Analyst_26957858) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Quantitative-Risk-Analyst---Vice-President_26961235) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-24.
+This compliance & risk management position at Citigroup was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

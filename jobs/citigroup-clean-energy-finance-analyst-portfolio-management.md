@@ -1,16 +1,16 @@
-# Securities & Derivatives Intermediate Analyst at Citigroup
+# Clean Energy Finance – Analyst, Portfolio Management at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Securities---Derivatives-Intermediate-Analyst_26957858) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Clean-Energy-Finance---Analyst--Portfolio-Management_26961070) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-24.
+This corporate finance position at Citigroup was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

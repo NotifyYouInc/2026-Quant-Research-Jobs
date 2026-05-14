@@ -1,16 +1,16 @@
-# Portfolio Data Operations Analyst at Addepar
+# Quantitative Researcher at PDT Partners
 
 | Field | Details |
 |-------|---------|
-| Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [PDT Partners](https://scoutify.ai/companies/pdtpartners?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8512792002) |
+| Category | Quant Research |
+| Posted | 2026-02-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 
 ## About This Role
 
-This asset management / portfolio management position at Addepar was posted on 2026-04-22.
+This quant research position at PDT Partners was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 

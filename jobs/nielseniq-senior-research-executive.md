@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Quant Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121385492-senior-research-executive) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123200169-senior-research-executive) |
 
 ## About This Role
 
-This quant research position at NielsenIQ was posted on 2026-04-17.
+This quant research position at NielsenIQ was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

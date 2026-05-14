@@ -1,16 +1,16 @@
-# Portfolio Data Operations Analyst at Addepar
+# Intern - Research Engineer at SummitTX
 
 | Field | Details |
 |-------|---------|
-| Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [SummitTX](https://scoutify.ai/companies/summit?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8512792002) |
+| Category | Quant Research |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/summit/jobs/4963543007) |
 
 ## About This Role
 
-This asset management / portfolio management position at Addepar was posted on 2026-04-22.
+This quant research position at SummitTX was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

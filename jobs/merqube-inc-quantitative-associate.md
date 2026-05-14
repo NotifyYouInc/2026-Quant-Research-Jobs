@@ -1,16 +1,16 @@
-# Quantitative Analyst at Fil
+# Quantitative Associate at MerQube Inc
 
 | Field | Details |
 |-------|---------|
-| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Company | [MerQube Inc](https://scoutify.ai/companies/merqube-inc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Quant Developer |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Quantitative-Analyst_J63864-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/merqube/jobs/4679371006) |
 
 ## About This Role
 
-This quant research position at Fil was posted on 2026-05-06.
+This quant developer position at MerQube Inc was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

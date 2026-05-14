@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst-2_26955000) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Securities---Derivatives-Analyst-2_26955449-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-16.
+This corporate finance position at Citigroup was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

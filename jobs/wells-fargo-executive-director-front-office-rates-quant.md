@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Location | City of London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CITY-OF-LONDON/Executive-Director--Front-Office-Rates-Quant_R-508839-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CITY-OF-LONDON/Executive-Director--Front-Office-Rates-Quant_R-539458) |
 
 ## About This Role
 
-This quant developer position at Wells Fargo was posted on 2026-02-24.
+This quant developer position at Wells Fargo was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Analyst at Fil
+# Campus Full-Time Crypto Researcher 2026 LDN at Jump Crypto
 
 | Field | Details |
 |-------|---------|
-| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Jump Crypto](https://scoutify.ai/companies/jumpcrypto?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Quantitative-Analyst_J63864-1) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012) |
 
 ## About This Role
 
-This quant research position at Fil was posted on 2026-05-06.
+This quant research position at Jump Crypto was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Analyst at Fil
+# Senior Manager - Quantitative Modelling at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Quantitative-Analyst_J63864-1) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Manager---Quantitative-Modelling_R0119016-1) |
 
 ## About This Role
 
-This quant research position at Fil was posted on 2026-05-06.
+This quant research position at LSEG was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
