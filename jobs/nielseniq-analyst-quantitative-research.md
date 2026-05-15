@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Kowloon, Hong Kong |
-| Category | Quant Research |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121741112-analyst-quantitative-research) |
+| Location | Beijing, Beijing, China |
+| Category | Data Analyst |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121957735-analyst-quantitative-research) |
 
 ## About This Role
 
-This quant research position at NielsenIQ was posted on 2026-04-20.
+This data analyst position at NielsenIQ was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

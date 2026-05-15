@@ -1,16 +1,16 @@
-# Quant Strategist at Deutsche Bank
+# Global Market Quantitative Analyst - Rates at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quant-Strategist_R0427144) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Global-Market-Quantitative-Analyst---Rates_JR-0000109473) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-04-21.
+This quant developer position at Barclays was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Business Analyst, Portfolio & Change Management at Royal Bank of Canada
+# Financial Analyst, Private Equity Financial Control at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Business-Analyst--Portfolio---Change-Management_R-0000171641-1) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Financial-Analyst--Private-Equity-Financial-Control_R-0000171039-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Royal Bank of Canada was posted on 2026-05-07.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
