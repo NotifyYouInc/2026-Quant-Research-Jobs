@@ -1,16 +1,16 @@
-# Quant Analyst, AVP at Barclays
+# Vice President - Rates Options & Hybrids Desk Quantitative Analyst at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
-| Category | Quant Developer |
+| Location | Singapore, Singapore |
+| Category | Corporate Finance |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quant-Analyst--AVP_JR-0000111829) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Vice-President---Rates-Options---Hybrids-Desk-Quantitative-Analyst_JR-0000109770-1) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-05-11.
+This corporate finance position at Barclays was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

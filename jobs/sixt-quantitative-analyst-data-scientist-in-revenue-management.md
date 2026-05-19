@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
-| Category | Data Analyst |
-| Posted | 2026-01-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000081385977-quantitative-analyst-data-scientist-in-revenue-management) |
+| Category | Data Scientist |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000125816048-quantitative-analyst-data-scientist-in-revenue-management) |
 
 ## About This Role
 
-This data analyst position at Sixt was posted on 2026-01-26.
+This data scientist position at Sixt was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

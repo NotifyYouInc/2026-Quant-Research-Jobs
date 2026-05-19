@@ -1,4 +1,4 @@
-# Quantitative Research Project Manager at NielsenIQ
+# Research Executive - Project Manager (Quantitative research) at NielsenIQ
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Belgrade, Central Serbia, Serbia |
 | Category | Project Manager |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125792349-quantitative-research-project-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125792609-research-executive-project-manager-quantitative-research) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Securities & Derivatives Intermediate Associate Analyst at Citigroup
+# Securities & Derivatives Analyst (Intermediate Level) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
-| Category | Business Analyst |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | Corporate Finance |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives-Intermediate-Associate-Analyst_26962781) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities---Derivatives-Analyst--Intermediate-Level-_26954952) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-11.
+This corporate finance position at Citigroup was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

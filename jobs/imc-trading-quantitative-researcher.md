@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Chicago, Illinois, United States |
 | Category | Quant Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4694175101) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4832703101) |
 
 ## About This Role
 
-This quant research position at IMC Trading was posted on 2026-04-22.
+This quant research position at IMC Trading was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

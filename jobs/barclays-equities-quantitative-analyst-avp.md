@@ -1,4 +1,4 @@
-# Quant Analyst, AVP at Barclays
+# Equities Quantitative Analyst, AVP at Barclays
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Quant Developer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quant-Analyst--AVP_JR-0000111829) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Equities-Quantitative-Analyst--AVP_JR-0000111993) |
 
 ## About This Role
 
