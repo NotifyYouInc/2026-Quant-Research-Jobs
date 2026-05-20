@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst at TD Bank
+# Principal Game Economist at Zynga
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mt-Laurel---6000-Atrium-Way-Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst_R_1489025) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5994174004) |
 
 ## About This Role
 
-This quant research position at TD Bank was posted on 2026-05-12.
+This business analyst position at Zynga was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Junior Quantitative Analyst in Credit Risk Model Validation | SEB, Vilnius at SEB bankas
+# Senior Quantitative Analyst in Credit Risk Model Validation | SEB, Vilnius at SEB bankas
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Quant Research |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.eu.lever.co/seb/b6806068-b543-44a1-87d3-964eea19b09e) |
+| Apply | [View on company site](https://jobs.eu.lever.co/seb/9fe8063e-b190-4dfb-9cc3-8e5cd5a05b3b) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Junior Quantitative Analyst in Credit Risk Model Validation | SEB, Vilnius at SEB bankas
+# Principal Game Economist at Gram Games
 
 | Field | Details |
 |-------|---------|
-| Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Company | [Gram Games](https://scoutify.ai/companies/gram-games?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.eu.lever.co/seb/b6806068-b543-44a1-87d3-964eea19b09e) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gramgamescareers/jobs/5796042004) |
 
 ## About This Role
 
-This quant research position at SEB bankas was posted on 2026-05-12.
+This quant research position at Gram Games was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

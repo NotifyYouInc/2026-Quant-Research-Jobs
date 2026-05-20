@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# Senior Lending and Portfolio Analyst at Boq
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Boq](https://scoutify.ai/companies/boq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst-2_26962964) |
+| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Sydney-Office---George-Street/Senior-Lending-and-Portfolio-Analyst_JR101108-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-13.
+This corporate finance position at Boq was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
