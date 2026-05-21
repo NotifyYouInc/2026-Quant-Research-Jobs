@@ -1,16 +1,16 @@
-# Equity Index Analyst at LSEG
+# Director - Global Investment Research at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Taiwan |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Taipei-City-Taiwan/Equity-Index-Analyst_R0119180-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/New-York-United-States/Director---Global-Investment-Research_R0119297-1) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-05-06.
+This corporate finance position at LSEG was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
