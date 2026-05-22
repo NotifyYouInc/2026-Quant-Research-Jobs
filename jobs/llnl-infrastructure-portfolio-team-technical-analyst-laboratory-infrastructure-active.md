@@ -5,12 +5,12 @@
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Livermore, California, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990012802636-infrastructure-portfolio-team-technical-analyst-laboratory-infrastructure-active-security-clearance-required) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990012902558-infrastructure-portfolio-team-technical-analyst-laboratory-infrastructure-active-security-clearance-required) |
 
 ## About This Role
 
-This asset management / portfolio management position at LLNL was posted on 2026-04-24.
+This asset management / portfolio management position at LLNL was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Securities & Derivatives Intermediate Analyst at Citigroup
+# Equities Algorithmic Trading Quantitative Analyst, Vice President, MQA at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Intermediate-Analyst_26956924) |
+| Location | New York City, New York, United States |
+| Category | Quant Developer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Equities-Algorithmic-Trading-Quantitative-Analyst--Vice-President--MQA_26962420-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This quant developer position at Citigroup was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
