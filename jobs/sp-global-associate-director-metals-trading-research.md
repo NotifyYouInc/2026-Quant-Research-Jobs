@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst  at Legal & General
+# Associate Director, Metals Trading Research at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Data Analyst |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000126663110-senior-quantitative-analyst) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Associate-Director--Metals-Trading-Research_328036-1) |
 
 ## About This Role
 
-This quant developer position at Legal & General was posted on 2026-05-15.
+This data analyst position at S&P Global was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

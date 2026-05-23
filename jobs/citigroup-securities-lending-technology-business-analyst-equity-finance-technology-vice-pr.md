@@ -1,16 +1,16 @@
-# Securities Lending Technology Business Analyst (Equity Finance Technology) - Vice President - NYC at Citigroup
+# Securities Lending Technology Business Analyst (Equity Finance Technology) – Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Business Analyst |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Securities-Lending-Technology-Business-Analyst--Equity-Finance-Technology----Vice-President---NYC_26956126-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Securities-Lending-Technology-Business-Analyst--Equity-Finance-Technology----Vice-President_26956721) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-26.
+This business analyst position at Citigroup was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

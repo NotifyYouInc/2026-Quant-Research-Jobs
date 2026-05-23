@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Securities-and-Derivatives-Intermediate-Associate-Analyst-Hybrid_26935492) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities-and-Derivatives-Intermediate-Associate-Analyst-Hybrid_26963863) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-02-25.
+This corporate finance position at Citigroup was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
