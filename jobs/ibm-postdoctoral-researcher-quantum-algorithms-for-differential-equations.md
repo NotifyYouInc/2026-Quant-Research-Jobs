@@ -1,16 +1,16 @@
-# Senior Research Executive at NielsenIQ
+# Postdoctoral Researcher – Quantum Algorithms for Differential Equations at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Quant Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124628109-senior-research-executive) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112167) |
 
 ## About This Role
 
-This quant research position at NielsenIQ was posted on 2026-05-05.
+This quant research position at IBM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Securities & Derivatives  Senior Analyst at Citigroup
+# Portfolio Analyst at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives--Senior-Analyst_26963383-1) |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Bangkok/Portfolio-Analyst_JR2601827) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-18.
+This corporate finance position at AIG was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

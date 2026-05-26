@@ -1,16 +1,16 @@
-# Senior Equity Analyst at OCBC
+# Quantitative Strategist - Treasury at Schonfeld
 
 | Field | Details |
 |-------|---------|
-| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
+| Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Quant Developer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Senior-Equity-Analyst_JR00007970) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/7866408) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-05-18.
+This quant developer position at Schonfeld was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

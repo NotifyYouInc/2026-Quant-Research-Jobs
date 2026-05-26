@@ -1,16 +1,16 @@
-# Senior Quantitative Researcher at Arrowstreet Capital
+# Quantitative Risk, AVP at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Arrowstreet Capital](https://scoutify.ai/companies/arrowstreetcapital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/job/Boston/Senior-Quantitative-Researcher_R1481) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Quantitative-Risk--AVP_R-790219) |
 
 ## About This Role
 
-This quant research position at Arrowstreet Capital was posted on 2026-05-18.
+This compliance & risk management position at State Street was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Research Executive at NielsenIQ
+# Quantitative Analyst at Compeer Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Compeer Financial](https://scoutify.ai/companies/compeerfinancial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 3 locations |
 | Category | Quant Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124628109-senior-research-executive) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/compeerfinancial/jobs/5223903008) |
 
 ## About This Role
 
-This quant research position at NielsenIQ was posted on 2026-05-05.
+This quant research position at Compeer Financial was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

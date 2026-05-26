@@ -1,16 +1,16 @@
-# Securities & Derivatives  Senior Analyst at Citigroup
+# Crude Trading Analyst at Chevron
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives--Senior-Analyst_26963383-1) |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Crude-Trading-Analyst_R000071445) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-18.
+This corporate finance position at Chevron was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

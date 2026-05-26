@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives-Associate-Analyst-Hybrid_26951707) |
+| Location | Tampa, Florida, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Securities---Derivatives-Associate-Analyst-Hybrid_26954299) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-20.
+This business analyst position at Citigroup was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
