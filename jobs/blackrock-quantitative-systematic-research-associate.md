@@ -1,16 +1,16 @@
-# Financial Engineer, Blackrock Index Services (BIS), Associate at Blackrock
+# Quantitative / Systematic Research, Associate at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
+| Location | San Francisco, California, United States |
+| Category | Quant Research |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Financial-Engineer--Blackrock-Index-Services--BIS---Associate_R261518-1) |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/San-Francisco-CA/Quantitative---Systematic-Research--Associate_R264421) |
 
 ## About This Role
 
-This software engineer position at Blackrock was posted on 2026-05-19.
+This quant research position at Blackrock was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

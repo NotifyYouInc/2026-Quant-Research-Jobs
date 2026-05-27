@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Credit Analyst, Securitisation Trading Vice President at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Corporate Finance |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0415575) |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Credit-Analyst--Securitisation-Trading-Vice-President_R-00278374-1) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-05-19.
+This corporate finance position at NatWest Group was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

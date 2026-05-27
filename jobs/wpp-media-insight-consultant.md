@@ -1,16 +1,16 @@
-# Senior Quant Analyst at Fifth Third Bank
+# Insight Consultant at WPP Media
 
 | Field | Details |
 |-------|---------|
-| Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
+| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Quant-Analyst_R68299) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5125829008) |
 
 ## About This Role
 
-This quant research position at Fifth Third Bank was posted on 2026-05-19.
+This quant research position at WPP Media was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

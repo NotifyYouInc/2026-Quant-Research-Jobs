@@ -1,16 +1,16 @@
-# Senior Quant Analyst at Fifth Third Bank
+# Business Strategy & Optimization Analyst (Quantitative Analyst) - Card Services at Fifth Third Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
-| Category | Quant Research |
+| Location | 2 locations |
+| Category | Strategy & Operations |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Quant-Analyst_R68299) |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Strategy---Optimization-Analyst--Quantitative-Analyst----Card-Services_R67906) |
 
 ## About This Role
 
-This quant research position at Fifth Third Bank was posted on 2026-05-19.
+This strategy & operations position at Fifth Third Bank was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Securities-and-Derivatives-Associate-Analyst_26954323) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Securities-and-Derivatives-Associate-Analyst_26964462-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-17.
+This corporate finance position at Citigroup was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

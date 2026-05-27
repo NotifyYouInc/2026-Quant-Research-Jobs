@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities-Lending-Technology-Business-Analyst--Equity-Finance-Technology----VP_26957748) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Securities-Lending-Technology-Business-Analyst--Equity-Finance-Technology----VP_26960559) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-28.
+This business analyst position at Citigroup was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

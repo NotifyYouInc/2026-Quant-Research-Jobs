@@ -1,16 +1,16 @@
-# Senior Quant Analyst at Fifth Third Bank
+# Risk Model Development- Intermediate Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Quant Research |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Quant-Analyst_R68299) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Risk-Model-Development--Intermediate-Analyst_26962920) |
 
 ## About This Role
 
-This quant research position at Fifth Third Bank was posted on 2026-05-19.
+This quant research position at Citigroup was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

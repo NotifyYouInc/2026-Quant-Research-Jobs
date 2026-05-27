@@ -1,16 +1,16 @@
-# Senior Quant Analyst at Fifth Third Bank
+# Model Development IRRBB Lead at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Poland |
 | Category | Quant Research |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Quant-Analyst_R68299) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Model-Development-IRRBB-Lead_REQ-10115198-1) |
 
 ## About This Role
 
-This quant research position at Fifth Third Bank was posted on 2026-05-19.
+This quant research position at ING was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

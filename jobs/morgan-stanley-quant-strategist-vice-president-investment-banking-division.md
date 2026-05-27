@@ -1,16 +1,16 @@
-# Desk Strategist – ETF Primary and Secondary Trading Workflow, Senior Associate/ Manager, Fixed Income Division at Morgan Stanley
+# Quant Strategist, Vice President, Investment Banking Division at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Desk-Strategist---ETF-Primary-and-Secondary-Trading-Workflow--Senior-Associate--Manager--Fixed-Income-Division_JR037147) |
+| Category | Corporate Finance |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Investment-Banking-Quant-Strategist-Vice-President-IBD_JR028052) |
 
 ## About This Role
 
-This business analyst position at Morgan Stanley was posted on 2026-05-14.
+This corporate finance position at Morgan Stanley was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

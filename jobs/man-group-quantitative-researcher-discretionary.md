@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4772820101) |
+| Category | Quant Research |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4866654101) |
 
 ## About This Role
 
-This data scientist position at Man Group was posted on 2026-02-03.
+This quant research position at Man Group was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

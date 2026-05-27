@@ -1,16 +1,16 @@
-# Quantitative Researcher at WorldQuant
+# Quantitative Researcher  at WorldQuant
 
 | Field | Details |
 |-------|---------|
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | India |
+| Location | Paris, Île-de-France, France |
 | Category | Quant Research |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4673030006) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4681030006) |
 
 ## About This Role
 
-This quant research position at WorldQuant was posted on 2026-04-15.
+This quant research position at WorldQuant was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

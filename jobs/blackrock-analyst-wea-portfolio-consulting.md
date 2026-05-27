@@ -1,16 +1,16 @@
-# Financial Engineer, Blackrock Index Services (BIS), Associate at Blackrock
+# Analyst, WEA Portfolio Consulting at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
+| Category | Corporate Finance |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Financial-Engineer--Blackrock-Index-Services--BIS---Associate_R261518-1) |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Analyst--WEA-Portfolio-Consulting_R264119) |
 
 ## About This Role
 
-This software engineer position at Blackrock was posted on 2026-05-19.
+This corporate finance position at Blackrock was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

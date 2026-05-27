@@ -1,16 +1,16 @@
-# Climate Risk Model Development – Analyst II at Citigroup
+# Securities & Derivatives Intmd Analyst C10-Market Ops at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | ESG / Sustainability |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Climate-Risk-Model-Development---Analyst-II_26957616) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Intmd-Analyst-C10-Market-Ops_26964685) |
 
 ## About This Role
 
-This esg / sustainability position at Citigroup was posted on 2026-05-05.
+This corporate finance position at Citigroup was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

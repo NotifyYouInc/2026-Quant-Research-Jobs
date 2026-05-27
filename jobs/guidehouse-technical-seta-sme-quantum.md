@@ -1,16 +1,16 @@
-# Senior Quant Analyst at Fifth Third Bank
+# Technical SETA SME - Quantum at Guidehouse
 
 | Field | Details |
 |-------|---------|
-| Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
+| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Bethesda, Maryland, United States |
 | Category | Quant Research |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Quant-Analyst_R68299) |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Technical-SETA-SME---Quantum_39641) |
 
 ## About This Role
 
-This quant research position at Fifth Third Bank was posted on 2026-05-19.
+This quant research position at Guidehouse was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
