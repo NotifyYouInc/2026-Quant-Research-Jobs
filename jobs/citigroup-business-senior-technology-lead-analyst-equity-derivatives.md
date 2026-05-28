@@ -1,16 +1,16 @@
-# Credit Portfolio Senior Analyst at Citigroup
+# Business Senior Technology Lead Analyst - Equity Derivatives at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Senior-Analyst_26959773) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | Business Analyst |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Business-Senior-Technology-Lead-Analyst---Equity-Derivatives_26965302) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-05.
+This business analyst position at Citigroup was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

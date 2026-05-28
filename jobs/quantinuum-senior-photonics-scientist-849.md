@@ -1,16 +1,16 @@
-# Director, Quantitative  at Omnicom Health
+# Senior Photonics Scientist - 849 at Quantinuum
 
 | Field | Details |
 |-------|---------|
-| Company | [Omnicom Health](https://scoutify.ai/companies/omnicom-health?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Doylestown, Pennsylvania, United States |
+| Company | [Quantinuum](https://scoutify.ai/companies/quantinuum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Broomfield, Colorado, United States |
 | Category | Quant Research |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/omnicomhealth/jobs/5227330008) |
+| Apply | [View on company site](https://jobs.eu.lever.co/quantinuum/d409432b-0fb7-4470-ba88-b90fd4ad7411) |
 
 ## About This Role
 
-This quant research position at Omnicom Health was posted on 2026-05-20.
+This quant research position at Quantinuum was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

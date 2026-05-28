@@ -1,16 +1,16 @@
-# Director, Quantitative  at Omnicom Health
+# Quantitative Research Intern at Engineers Gate
 
 | Field | Details |
 |-------|---------|
-| Company | [Omnicom Health](https://scoutify.ai/companies/omnicom-health?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Doylestown, Pennsylvania, United States |
+| Company | [Engineers Gate](https://scoutify.ai/companies/engineersgate?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Quant Research |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/omnicomhealth/jobs/5227330008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/engineersgate/jobs/7946542) |
 
 ## About This Role
 
-This quant research position at Omnicom Health was posted on 2026-05-20.
+This quant research position at Engineers Gate was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

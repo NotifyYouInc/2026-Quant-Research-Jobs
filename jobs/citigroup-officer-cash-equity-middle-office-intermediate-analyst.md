@@ -1,16 +1,16 @@
-# Credit Portfolio Senior Analyst at Citigroup
+# Officer, Cash Equity Middle Office Intermediate Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Senior-Analyst_26959773) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Business Analyst |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taipei-Taipei-City-Taiwan/Officer--Cash-Equity-Middle-Office-Intermediate-Analyst_26962171) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-05.
+This business analyst position at Citigroup was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

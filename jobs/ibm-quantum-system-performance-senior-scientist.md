@@ -1,16 +1,16 @@
-# Director, Quantitative  at Omnicom Health
+# Quantum System Performance Senior Scientist at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Omnicom Health](https://scoutify.ai/companies/omnicom-health?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Doylestown, Pennsylvania, United States |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Yorktown Heights, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/omnicomhealth/jobs/5227330008) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115979) |
 
 ## About This Role
 
-This quant research position at Omnicom Health was posted on 2026-05-20.
+This quant research position at IBM was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

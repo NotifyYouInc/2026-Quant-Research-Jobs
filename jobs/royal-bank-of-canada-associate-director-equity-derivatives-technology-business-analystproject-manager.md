@@ -1,0 +1,22 @@
+# Associate Director, Equity Derivatives Technology Business Analyst/Project Manager at Royal Bank of Canada
+
+| Field | Details |
+|-------|---------|
+| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Project Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Equity-Derivatives-Technology-Business-Analyst-Project-Manager_R-0000172457-1) |
+
+## About This Role
+
+This project manager position at Royal Bank of Canada was posted on 2026-05-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

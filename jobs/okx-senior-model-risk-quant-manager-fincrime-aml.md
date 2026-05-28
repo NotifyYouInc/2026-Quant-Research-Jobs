@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [OKX](https://scoutify.ai/companies/okx?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
+| Location | Hong Kong, Hong Kong |
 | Category | Financial Crimes & AML |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/okx/jobs/7720291003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/okx/jobs/7720292003) |
 
 ## About This Role
 
