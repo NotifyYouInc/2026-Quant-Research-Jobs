@@ -1,16 +1,16 @@
-# Securities and Derivatives Senior Analyst at Citigroup
+# Model/Analysis/Validation Sr Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
+| Location | 2 locations |
+| Category | Data Analyst |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives-Senior-Analyst_26951775-1) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Charlotte-North-Carolina-United-States/Model-Analysis-Validation-Sr-Analyst_26964572) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-21.
+This data analyst position at Citigroup was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

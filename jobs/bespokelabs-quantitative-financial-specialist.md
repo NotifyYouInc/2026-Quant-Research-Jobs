@@ -1,16 +1,16 @@
-# Quantitative Analyst at Citigroup
+# Quantitative Financial Specialist at Bespokelabs
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [Bespokelabs](https://scoutify.ai/companies/bespokelabs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Not specified |
 | Category | Quant Developer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Quantitative-Analyst_26962648) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bespokelabs/b8c3ed22-14f1-4653-814d-b0a756476575) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-05-21.
+This quant developer position at Bespokelabs was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

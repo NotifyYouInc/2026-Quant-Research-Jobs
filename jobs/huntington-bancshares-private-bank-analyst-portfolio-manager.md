@@ -1,16 +1,16 @@
-# Private Bank Analyst - Portfolio Manager at Huntington Bancshares
+# Private Bank Analyst – Portfolio Manager at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Beachwood, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Chicago-IL/Private-Bank-Analyst---Portfolio-Manager_R0070796) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Beachwood-OH/Private-Bank-Analyst---Portfolio-Manager_R0072552-1) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-03-26.
+This corporate finance position at Huntington Bancshares was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

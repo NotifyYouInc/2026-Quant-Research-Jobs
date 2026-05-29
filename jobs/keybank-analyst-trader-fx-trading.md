@@ -1,16 +1,16 @@
-# Securities and Derivatives Senior Analyst at Citigroup
+# Analyst Trader, FX Trading at KeyBank
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
+| Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Cleveland, Ohio, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives-Senior-Analyst_26951775-1) |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Analyst-Trader--FX-Trading_R-39790) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-21.
+This corporate finance position at KeyBank was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

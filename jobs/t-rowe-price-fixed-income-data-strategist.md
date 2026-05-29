@@ -1,16 +1,16 @@
-# Securities and Derivatives Senior Analyst at Citigroup
+# Fixed Income Data Strategist at T. Rowe Price
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
+| Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Baltimore, Maryland, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives-Senior-Analyst_26951775-1) |
+| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Fixed-Income-Data-Strategist_81900) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-21.
+This corporate finance position at T. Rowe Price was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

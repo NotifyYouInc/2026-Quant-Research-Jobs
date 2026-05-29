@@ -1,12 +1,12 @@
-# Securities and Derivatives Senior Analyst at Citigroup
+# Security and Derivatives Senior Analyst Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
+| Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives-Senior-Analyst_26951775-1) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Security-and-Derivatives-Senior-Analyst-Assistant-Vice-President_26942538) |
 
 ## About This Role
 
