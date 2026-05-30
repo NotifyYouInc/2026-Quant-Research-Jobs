@@ -1,12 +1,12 @@
-# Portfolio Monitoring Analyst at U.S. Bank
+# eFX Quant Trader at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brea-CA/Portfolio-Monitoring-Analyst_2026-0012356) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/eFX-Quant-Trader_2026-0013439) |
 
 ## About This Role
 

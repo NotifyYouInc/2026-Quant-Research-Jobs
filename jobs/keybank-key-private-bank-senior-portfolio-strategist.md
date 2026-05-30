@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Pittsburgh-PA/Key-Private-Bank-Senior-Portfolio-Strategist_R-38718) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Indianapolis-IN/Key-Private-Bank-Senior-Portfolio-Strategist_R-39657) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-03-30.
+This corporate finance position at KeyBank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

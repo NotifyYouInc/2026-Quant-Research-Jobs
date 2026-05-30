@@ -1,16 +1,16 @@
-# Lead Quantitative Analytics Specialist at Wells Fargo
+# Junior Quantitative Researcher at Schonfeld
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Quant Research |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Quantitative-Analytics-Specialist_R-546869) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/7954714) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-05-22.
+This quant research position at Schonfeld was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Quantitative Analytics Specialist at Wells Fargo
+# US Economist at Vanguard
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Malvern, Arkansas, United States |
 | Category | Quant Research |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Quantitative-Analytics-Specialist_R-546869) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/US-Economist_178227) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-05-22.
+This quant research position at Vanguard was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

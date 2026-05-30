@@ -1,16 +1,16 @@
-# Portfolio Monitoring Analyst at U.S. Bank
+# Technology Portfolio Analyst at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
-| Category | Corporate Finance |
+| Location | Chicago, Illinois, United States |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brea-CA/Portfolio-Monitoring-Analyst_2026-0012356) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Technology-Portfolio-Analyst_2026-0013565) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-22.
+This asset management / portfolio management position at U.S. Bank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

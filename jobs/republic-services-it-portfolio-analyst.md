@@ -5,12 +5,12 @@
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/IT-Portfolio-Analyst_R-173125) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/IT-Portfolio-Analyst_R-175575) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-04-16.
+This corporate finance position at Republic Services was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

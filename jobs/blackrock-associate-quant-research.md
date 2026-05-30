@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Quant Research |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/San-Francisco-CA/Associate--Quant-Research_R264002) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/San-Francisco-CA/Associate--Quant-Research_R264419) |
 
 ## About This Role
 
-This quant research position at Blackrock was posted on 2026-05-01.
+This quant research position at Blackrock was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

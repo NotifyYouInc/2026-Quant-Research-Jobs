@@ -1,16 +1,16 @@
-# Lead Quantitative Analytics Specialist at Wells Fargo
+# Quantitative Analyst at Gresearch
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Gresearch](https://scoutify.ai/companies/gresearch?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Quantitative-Analytics-Specialist_R-546869) |
+| Apply | [View on company site](https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Quantitative-Analyst_R3605) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-05-22.
+This quant research position at Gresearch was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
