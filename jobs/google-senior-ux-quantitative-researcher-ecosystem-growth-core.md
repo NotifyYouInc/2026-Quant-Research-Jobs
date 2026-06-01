@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
 | Category | UX Researcher |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQWDzqem-T_n3FIqPioCvfvfCvk_PpPUq5wi8zC8kSzgEjsACxwdTHmfJ5MN8od6LPg9JVB1TSSRe1QReoG6-nywXkMkxUXit0pyAYh1Xc5GluHxXYWN236I6jRPmg%3D%3D_V2&loc=US&title=Senior+UX+Quantitative+Researcher) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUpWmH0HVAge18Oo9OkoherfHuHz2amHdWF62kCD5-aJEjsACxwdTDxu4MxCz2Ycm-uNwGW3hNWqAhcXtEovA95yUz17u6EiTzurRZMvTJPu9SWc2dwAGWbRhXV6bg%3D%3D_V2&loc=US&title=Senior+UX+Quantitative+Researcher) |
 
 ## About This Role
 
-This ux researcher position at Google was posted on 2026-04-22.
+This ux researcher position at Google was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
