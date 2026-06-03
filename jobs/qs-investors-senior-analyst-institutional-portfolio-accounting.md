@@ -5,12 +5,12 @@
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Senior-Analyst---Institutional-Portfolio-Accounting_866294) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/FTISC-Hyderabad-F3328/Senior-Analyst---Institutional-Portfolio-Accounting_867406-1) |
 
 ## About This Role
 
-This corporate finance position at QS Investors was posted on 2026-02-27.
+This corporate finance position at QS Investors was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
