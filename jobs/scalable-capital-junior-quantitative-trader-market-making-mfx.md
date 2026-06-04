@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Germany |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000123895621-junior-quantitative-trader-market-making-mfx) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000128707155-junior-quantitative-trader-market-making-mfx) |
 
 ## About This Role
 
-This corporate finance position at Scalable Capital was posted on 2026-04-30.
+This corporate finance position at Scalable Capital was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

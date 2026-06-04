@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Quant Research |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Senior-Analyst--Quantitative-Model-Validation--Model-Vetting-_R-5735) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Senior-Analyst--Quantitative-Model-Validation--Model-Vetting-_R-6075) |
 
 ## About This Role
 
-This quant research position at TMX Group was posted on 2026-02-02.
+This quant research position at TMX Group was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

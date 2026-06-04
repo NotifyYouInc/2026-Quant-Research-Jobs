@@ -1,16 +1,16 @@
-# Equity Derivative Operations Analyst at Royal Bank of Canada
+# Vice President – Multi-Asset Systematic Strategies Analytics and Platform Team Lead at Fidelity
 
 | Field | Details |
 |-------|---------|
-| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-05-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-CENTRE-155-WELLINGTON-ST-WTORONTO/Equity-Derivative-Operations-Analyst_R-0000173753-1) |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Vice-President---Multi-Asset-Systematic-Strategies-Analytics-and-Platform-Team-Lead_2128952) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-27.
+This corporate finance position at Fidelity was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

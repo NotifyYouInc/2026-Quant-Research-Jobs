@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Securities and Derivatives Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst_26956922) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Securities-and-Derivatives-Analyst_26962675) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-08.
+This corporate finance position at Citigroup was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

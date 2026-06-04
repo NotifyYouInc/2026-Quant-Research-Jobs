@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Italy |
 | Category | Product Marketing |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121370077-junior-consultant-cs-ad-hoc-quantitative-market-research-brandmedia-area) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000128680119-junior-consultant-cs-ad-hoc-quantitative-market-research-brandmedia-area) |
 
 ## About This Role
 
-This product marketing position at NielsenIQ was posted on 2026-04-17.
+This product marketing position at NielsenIQ was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

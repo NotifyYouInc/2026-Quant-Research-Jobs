@@ -1,0 +1,22 @@
+# Quantitative Analyst at American Century Investments
+
+| Field | Details |
+|-------|---------|
+| Company | [American Century Investments](https://scoutify.ai/companies/americancentury?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Santa Clara, California, United States |
+| Category | Quant Research |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Santa-Clara-California/Quantitative-Analyst_R0005644) |
+
+## About This Role
+
+This quant research position at American Century Investments was posted on 2026-05-27.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
