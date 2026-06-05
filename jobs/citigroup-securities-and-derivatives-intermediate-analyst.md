@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Securities-and-Derivatives-Intermediate-Analyst_26959841) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Securities-and-Derivatives-Intermediate-Analyst_26962680) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-06.
+This corporate finance position at Citigroup was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

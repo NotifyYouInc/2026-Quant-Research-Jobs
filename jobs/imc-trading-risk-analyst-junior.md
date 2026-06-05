@@ -6,7 +6,7 @@
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Financial Analyst |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4697848101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4868942101) |
 
 ## About This Role
 

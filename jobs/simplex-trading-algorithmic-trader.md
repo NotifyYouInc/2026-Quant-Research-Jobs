@@ -5,12 +5,12 @@
 | Company | [Simplex Trading](https://scoutify.ai/companies/simplex-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Quant Developer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/simplextrading/jobs/4996563008) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/simplextrading/jobs/4181846008) |
 
 ## About This Role
 
-This quant developer position at Simplex Trading was posted on 2026-05-14.
+This quant developer position at Simplex Trading was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

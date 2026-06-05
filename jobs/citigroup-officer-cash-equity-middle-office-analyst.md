@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Kowloon, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Cash-Equity-Middle-Office-Analyst_26954930) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Cash-Equity-Middle-Office-Analyst_26966901) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-14.
+This corporate finance position at Citigroup was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

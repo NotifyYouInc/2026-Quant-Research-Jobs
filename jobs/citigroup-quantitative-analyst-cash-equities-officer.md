@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Quant Research |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Quantitative-Analyst---Cash-Equities--Officer_26951887) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Quantitative-Analyst---Cash-Equities--Officer_26967397) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-04-06.
+This quant research position at Citigroup was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
