@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | Quant Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Technical-SETA-SME---Quantum_39641) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Technical-SETA-SME---Quantum_39713) |
 
 ## About This Role
 
-This quant research position at Guidehouse was posted on 2026-05-19.
+This quant research position at Guidehouse was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
