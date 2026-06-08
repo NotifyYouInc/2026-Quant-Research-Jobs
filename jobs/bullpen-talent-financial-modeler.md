@@ -5,12 +5,12 @@
 | Company | [Bullpen Talent](https://scoutify.ai/companies/bullpen-talent?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bullpen-talent/06a353d3-7a92-4f09-a4e1-00f52ea29804) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bullpen-talent/610b0fbf-22e6-408c-9062-58cd6c17887e) |
 
 ## About This Role
 
-This corporate finance position at Bullpen Talent was posted on 2026-05-04.
+This corporate finance position at Bullpen Talent was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

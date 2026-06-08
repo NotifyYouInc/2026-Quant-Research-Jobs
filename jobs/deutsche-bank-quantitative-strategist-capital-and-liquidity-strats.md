@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist---Capital-and-Liquidity-Strats_R0433371) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist---Capital-and-Liquidity-Strats_R0433369) |
 
 ## About This Role
 

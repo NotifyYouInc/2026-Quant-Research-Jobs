@@ -1,16 +1,16 @@
-# Credit Portfolio Senior Analyst at Citigroup
+# Securities Services Operations & Derivatives Intmd Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Portfolio-Senior-Analyst_26959773) |
+| Location | Dhaka, Dhaka Division, Bangladesh |
+| Category | Business Analyst |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dhaka--Bangladesh/Securities-Services-Operations---Derivatives-Intmd-Analyst_26965953) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-05.
+This business analyst position at Citigroup was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

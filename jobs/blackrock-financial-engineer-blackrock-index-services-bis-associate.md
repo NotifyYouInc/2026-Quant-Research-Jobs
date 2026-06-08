@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Financial-Engineer--Blackrock-Index-Services--BIS---Associate_R261518-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Financial-Engineer--Blackrock-Index-Services--BIS---Associate_R264442-1) |
 
 ## About This Role
 
-This software engineer position at Blackrock was posted on 2026-05-19.
+This software engineer position at Blackrock was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
