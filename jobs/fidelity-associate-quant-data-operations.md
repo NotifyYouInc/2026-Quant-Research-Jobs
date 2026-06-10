@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Associate, Quant Data Operations at Fidelity
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Data Analyst |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0433362) |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/London-Great-Britain/Associate--Quant-Data-Operations_2128688-2) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-06-02.
+This data analyst position at Fidelity was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

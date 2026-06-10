@@ -1,16 +1,16 @@
-# Senior Algorithmic Trader at TransMarket Group
+# Prosperity 2026 - Role Interest Form at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [TransMarket Group](https://scoutify.ai/companies/transmarketgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151568007?gh_jid=5151568007) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4880741101) |
 
 ## About This Role
 
-This quant developer position at TransMarket Group was posted on 2026-06-02.
+This quant research position at IMC Trading was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

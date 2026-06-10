@@ -1,12 +1,12 @@
-# Securities & Derivatives Analyst 1 at Citigroup
+# Securities & Derivatives Analyst 2, Officer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Analyst-1_26968345) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Securities---Derivatives-Analyst-2--Officer_26968280) |
 
 ## About This Role
 

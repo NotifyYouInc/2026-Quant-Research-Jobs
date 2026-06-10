@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Quantitative Trader Intern at TransMarket Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [TransMarket Group](https://scoutify.ai/companies/transmarketgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0433362) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-06-02.
+This quant developer position at TransMarket Group was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Associate Quantitative / Systematic Researcher at Aviva
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Aviva](https://scoutify.ai/companies/aviva?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0433362) |
+| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/London-UK/Quantitative---Systematic-Researcher_R-169341-2) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-06-02.
+This quant research position at Aviva was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Assistant Underwriting Portfolio Analyst at Travelers
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Corporate Finance |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0433362) |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/LON---London/Assistant-Underwriting-Portfolio-Analyst_R-50904) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-06-02.
+This corporate finance position at Travelers was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
