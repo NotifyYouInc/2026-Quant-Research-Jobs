@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Credit-Portfolio-Analytics-Intermediate-Analyst_26945163) |
+| Location | 2 locations |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Credit-Portfolio-Analytics-Intermediate-Analyst_26968351) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-17.
+This asset management / portfolio management position at Citigroup was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

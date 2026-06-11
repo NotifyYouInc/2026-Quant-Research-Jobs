@@ -1,12 +1,12 @@
-# Lead Quantitative Analytics Specialist-Market Risk Model Validator at Wells Fargo
+# Securities Quantitative Analytics Associate at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | City of London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Quantitative-Analytics-Specialist-Market-Risk-Model-Validator_R-550823) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CITY-OF-LONDON/Securities-Quantitative-Analytics-Associate_R-523633) |
 
 ## About This Role
 

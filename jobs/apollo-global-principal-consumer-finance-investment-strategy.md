@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | El Segundo, California, United States |
-| Category | Quant Research |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/Principal--Consumer-Finance-Investment-Strategy_R254433) |
+| Location | Woodland Hills, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/Woodland-Hills-California/Principal--Consumer-Finance-Investment-Strategy_R254547) |
 
 ## About This Role
 
-This quant research position at Apollo Global was posted on 2026-04-01.
+This corporate finance position at Apollo Global was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

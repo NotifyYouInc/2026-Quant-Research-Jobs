@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Woodland Hills, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/Principal--Structured-CRE-BPL-Resi-Desk-Strat_R254432) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/Woodland-Hills-California/Principal--Structured-CRE-BPL-Resi-Desk-Strat_R254548) |
 
 ## About This Role
 
-This corporate finance position at Apollo Global was posted on 2026-04-22.
+This corporate finance position at Apollo Global was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

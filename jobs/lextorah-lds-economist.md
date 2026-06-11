@@ -1,16 +1,16 @@
-# Strategist, CIO Office (Equities) at Schonfeld
+# ECONOMIST. at Lextorah LDS
 
 | Field | Details |
 |-------|---------|
-| Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Lextorah LDS](https://scoutify.ai/companies/lextorah-lds?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Lagos, Lagos, Nigeria |
 | Category | Quant Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/7894664) |
+| Posted | 2012-11-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/lextorahlds/70788672-economist) |
 
 ## About This Role
 
-This quant research position at Schonfeld was posted on 2026-05-05.
+This quant research position at Lextorah LDS was posted on 2012-11-16.
 
 ## Get Real-Time Alerts
 
