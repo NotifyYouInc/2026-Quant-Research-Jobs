@@ -1,4 +1,4 @@
-# Senior Quantitative Analyst at TD Bank
+# Senior Quantitative Analyst (US) Retail Model Validation at TD Bank
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mount Laurel, New Jersey, United States |
 | Category | Quant Research |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst_R_1492043) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst--US--Retail-Model-Validation_R_1492389) |
 
 ## About This Role
 

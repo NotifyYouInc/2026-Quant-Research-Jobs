@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst at TD Bank
+# Quant Researcher - Systematic at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mount Laurel, New Jersey, United States |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst_R_1492043) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4880292101) |
 
 ## About This Role
 
-This quant research position at TD Bank was posted on 2026-06-04.
+This quant research position at Man Group was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
