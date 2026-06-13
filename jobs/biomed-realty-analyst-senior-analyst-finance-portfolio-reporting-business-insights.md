@@ -1,16 +1,16 @@
-# Fixed Income Data Strategist at T. Rowe Price
+# Analyst / Senior Analyst, Finance – Portfolio Reporting & Business Insights at BioMed Realty
 
 | Field | Details |
 |-------|---------|
-| Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Company | [BioMed Realty](https://scoutify.ai/companies/biomedrealty?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Fixed-Income-Data-Strategist_82065) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/biomedrealty/jobs/4687084006) |
 
 ## About This Role
 
-This corporate finance position at T. Rowe Price was posted on 2026-06-05.
+This corporate finance position at BioMed Realty was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

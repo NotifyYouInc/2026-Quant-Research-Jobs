@@ -6,7 +6,7 @@
 | Location | Hangzhou, Zhejiang, China |
 | Category | Quant Research |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quantitative-Risk--SrAssc_R-790277) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quantitative-Risk--SrAssc_R-790280) |
 
 ## About This Role
 

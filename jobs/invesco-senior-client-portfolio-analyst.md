@@ -1,16 +1,16 @@
-# Fixed Income Data Strategist at T. Rowe Price
+# Senior Client Portfolio Analyst at Invesco
 
 | Field | Details |
 |-------|---------|
-| Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Fixed-Income-Data-Strategist_82065) |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Singapore-Central-Singapore/Senior-Client-Portfolio-Analyst_R-14329) |
 
 ## About This Role
 
-This corporate finance position at T. Rowe Price was posted on 2026-06-05.
+This corporate finance position at Invesco was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
