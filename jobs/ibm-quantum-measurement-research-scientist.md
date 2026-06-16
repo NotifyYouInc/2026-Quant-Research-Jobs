@@ -1,16 +1,16 @@
-# (Senior) Quantitative Risk Controller (f/m/d) at Raisin
+# Quantum Measurement Research Scientist at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Raisin](https://scoutify.ai/companies/raisin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
-| Category | Accounting |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Yorktown Heights, New York, United States |
+| Category | Quant Research |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/raisin/jobs/4882546101) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119552) |
 
 ## About This Role
 
-This accounting position at Raisin was posted on 2026-06-08.
+This quant research position at IBM was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Market Risk Senior Analyst at Citigroup
+# Quantum Device and Circuit Postdoctoral Researcher at LLNL
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Livermore, California, United States |
 | Category | Quant Research |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Market-Risk-Senior-Analyst_26967955) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013526286-quantum-device-and-circuit-postdoctoral-researcher) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-06-08.
+This quant research position at LLNL was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

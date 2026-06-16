@@ -1,16 +1,16 @@
-# Credit Portfolio Intermediate Analyst at Citigroup
+# Principal Power Portfolio Management (w/m/d) at enpal
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Credit-Portfolio-Intermediate-Analyst_26969607) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/2dce8950-85cb-4552-bc10-ebee01f01c1b) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-08.
+This corporate finance position at enpal was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

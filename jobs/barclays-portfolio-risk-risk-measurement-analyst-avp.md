@@ -1,16 +1,16 @@
-# CIO Strategy - Quantitative Analyst at Barclays
+# Portfolio Risk & Risk Measurement Analyst -AVP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Canary Wharf, England, United Kingdom |
-| Category | Strategy & Operations |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/CIO-Strategy---Quantitative-Analyst_JR-0000114235) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Corporate Finance |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/Portfolio-Risk---Risk-Measurement-Analyst--AVP_JR-0000113078-1) |
 
 ## About This Role
 
-This strategy & operations position at Barclays was posted on 2026-06-09.
+This corporate finance position at Barclays was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# (Senior) Quantitative Risk Controller (f/m/d) at Raisin
+# Junior Quantitative Analyst at WorldQuant
 
 | Field | Details |
 |-------|---------|
-| Company | [Raisin](https://scoutify.ai/companies/raisin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
-| Category | Accounting |
+| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Austin, Texas, United States |
+| Category | Quant Developer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/raisin/jobs/4882546101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4616499006) |
 
 ## About This Role
 
-This accounting position at Raisin was posted on 2026-06-08.
+This quant developer position at WorldQuant was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

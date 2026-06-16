@@ -1,16 +1,16 @@
-# Quantitative Risk, Senior Associate at State Street
+# QUANTITATIVE RESEARCHER INTERN at Mango
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Company | [Mango](https://scoutify.ai/companies/mango?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Catalonia, ES |
 | Category | Quant Research |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quantitative-Risk--Senior-Associate_R-786497-2) |
+| Apply | [View on company site](https://mango.wd3.myworkdayjobs.com/mango_work_your_passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/QUANTITATIVE-RESEARCHER-INTERN_JR135774-1) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-06-09.
+This quant research position at Mango was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

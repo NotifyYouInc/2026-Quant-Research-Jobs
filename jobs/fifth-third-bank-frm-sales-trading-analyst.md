@@ -1,16 +1,16 @@
-# Credit Portfolio Intermediate Analyst at Citigroup
+# FRM Sales & Trading Analyst at Fifth Third Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Credit-Portfolio-Intermediate-Analyst_26969607) |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Chicago-IL/FRM-Sales---Trading-Analyst_R69221) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-08.
+This corporate finance position at Fifth Third Bank was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
