@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | China |
-| Category | Quant Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847709101) |
+| Location | Shanghai, Shanghai, China |
+| Category | Data Scientist |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101) |
 
 ## About This Role
 
-This quant research position at Man Group was posted on 2026-04-22.
+This data scientist position at Man Group was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

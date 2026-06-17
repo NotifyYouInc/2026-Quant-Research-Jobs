@@ -1,16 +1,16 @@
-# Officer, Securities & Derivatives Analyst, Markets Operations at Citigroup
+# Securities & Derivatives Senior Lead Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Japan |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Officer--Securities---Derivatives-Analyst--Markets-Operations_26970759) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | Compliance & Risk Management |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities---Derivatives-Senior-Lead-Analyst_26970916) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-10.
+This compliance & risk management position at Citigroup was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
