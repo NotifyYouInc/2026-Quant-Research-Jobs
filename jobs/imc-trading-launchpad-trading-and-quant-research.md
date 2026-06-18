@@ -1,16 +1,16 @@
-# Research Scientist – Quantum Algorithms for Differential Equations at IBM
+# Launchpad - Trading and Quant Research at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Quant Research |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118888) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4875922101) |
 
 ## About This Role
 
-This quant research position at IBM was posted on 2026-06-10.
+This quant research position at IMC Trading was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

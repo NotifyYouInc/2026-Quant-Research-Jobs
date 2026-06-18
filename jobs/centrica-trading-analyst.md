@@ -1,16 +1,16 @@
-# Research Scientist – Quantum Algorithms for Differential Equations at IBM
+# Trading Analyst at Centrica
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Quant Research |
+| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
+| Category | Data Analyst |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118888) |
+| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Copenhagen/Trading-Analyst_R0086055) |
 
 ## About This Role
 
-This quant research position at IBM was posted on 2026-06-10.
+This data analyst position at Centrica was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

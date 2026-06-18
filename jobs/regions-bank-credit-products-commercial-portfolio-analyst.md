@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mobile, Alabama, United States |
+| Location | Birmingham, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Mobile-AL---RSA-Tower/Credit-Products-Commercial-Portfolio-Analyst_R102914) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Credit-Products-Commercial-Portfolio-Analyst_R101179) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-05-21.
+This corporate finance position at Regions Bank was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

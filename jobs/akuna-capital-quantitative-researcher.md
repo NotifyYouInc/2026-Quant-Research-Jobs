@@ -1,16 +1,16 @@
-# Research Scientist – Quantum Algorithms for Differential Equations at IBM
+# Quantitative Researcher at Akuna Capital
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Quant Research |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118888) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.akunacapital.com/careers/job/1082450/?gh_jid=1082450) |
 
 ## About This Role
 
-This quant research position at IBM was posted on 2026-06-10.
+This quant research position at Akuna Capital was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
