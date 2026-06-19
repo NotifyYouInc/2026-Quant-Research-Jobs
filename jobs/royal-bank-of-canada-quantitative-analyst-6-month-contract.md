@@ -1,16 +1,16 @@
-# Associate Director, Enterprise Model Risk Management at Royal Bank of Canada
+# Quantitative Analyst (6 month contract) at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Compliance & Risk Management |
+| Location | Putrajaya, Putrajaya, Malaysia |
+| Category | Quant Developer |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate-Director--Enterprise-Model-Risk-Management_R-0000175687-1) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Quantitative-Analyst--6-month-contract-_R-0000165272) |
 
 ## About This Role
 
-This compliance & risk management position at Royal Bank of Canada was posted on 2026-06-11.
+This quant developer position at Royal Bank of Canada was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

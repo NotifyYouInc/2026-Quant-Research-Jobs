@@ -1,16 +1,16 @@
-# Securities & Derivatives Lead Analyst at Citigroup
+# Analyst, Supply & Trading at World Kinect
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [World Kinect](https://scoutify.ai/companies/wfscorp?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Securities---Derivatives-Lead-Analyst_26962659) |
+| Apply | [View on company site](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/Analyst--Supply---Trading_R22590) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-11.
+This corporate finance position at World Kinect was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

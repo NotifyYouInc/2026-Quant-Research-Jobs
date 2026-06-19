@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities---Derivatives-Intermediate-Analyst_26954949) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Intermediate-Analyst_26963396-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-12.
+This corporate finance position at Citigroup was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

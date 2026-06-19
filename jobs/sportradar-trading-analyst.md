@@ -1,16 +1,16 @@
-# Associate Director, Quantitative Research at M3
+# Trading Analyst at Sportradar
 
 | Field | Details |
 |-------|---------|
-| Company | [M3](https://scoutify.ai/companies/m3?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Project Manager |
+| Category | Data Analyst |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/M3USA/744000131829575-associate-director-quantitative-research) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000131827312-trading-analyst) |
 
 ## About This Role
 
-This project manager position at M3 was posted on 2026-06-12.
+This data analyst position at Sportradar was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

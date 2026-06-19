@@ -1,16 +1,16 @@
-# Senior Deal Desk Strategist at LinkedIn
+# Senior Treasury Analyst – Derivatives (FCM & Nadex) at Crypto
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Operations |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000131736158-senior-deal-desk-strategist) |
+| Category | Corporate Finance |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.lever.co/crypto/2856cdf1-7bef-4cbc-9451-aa5ceb2940b3) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-06-11.
+This corporate finance position at Crypto was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

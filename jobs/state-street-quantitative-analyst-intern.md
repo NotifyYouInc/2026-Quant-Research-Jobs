@@ -1,16 +1,16 @@
-# Quantitative Risk Analyst, Model Risk Management, Assistant Vice President at State Street
+# Quantitative Analyst Intern at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Compliance & Risk Management |
+| Location | Hangzhou, Zhejiang, China |
+| Category | Quant Research |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Munich-Germany/Quantitative-Risk-Analyst--Model-Risk-Management--Assistant-Vice-President_R-791767) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quantitative-Analyst-Intern_R-792250) |
 
 ## About This Role
 
-This compliance & risk management position at State Street was posted on 2026-06-11.
+This quant research position at State Street was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

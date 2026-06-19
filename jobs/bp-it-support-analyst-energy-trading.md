@@ -1,16 +1,16 @@
-# Securities & Derivatives Lead Analyst at Citigroup
+# IT Support Analyst – Energy Trading at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
+| Category | IT & Systems Administration |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Securities---Derivatives-Lead-Analyst_26962659) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/IT-Support-Analyst---Energy-Trading_RQ111925-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-11.
+This it & systems administration position at BP was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

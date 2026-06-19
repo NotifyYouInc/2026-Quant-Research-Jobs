@@ -1,16 +1,16 @@
-# Associate Director, Quantitative Research at M3
+# Rates & xVA Analyst at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [M3](https://scoutify.ai/companies/m3?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Project Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/M3USA/744000131829575-associate-director-quantitative-research) |
+| Category | Corporate Finance |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Rates---xVA-Analyst_R-00279930-1) |
 
 ## About This Role
 
-This project manager position at M3 was posted on 2026-06-12.
+This corporate finance position at NatWest Group was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
