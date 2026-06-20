@@ -1,16 +1,16 @@
-# Portfolio Analyst at JLL
+# Graduate Quantitative Researcher at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Zug, Zug, Switzerland |
+| Category | Data Scientist |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Portfolio-Analyst_REQ512383-1) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-12.
+This data scientist position at IMC Trading was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

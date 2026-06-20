@@ -1,16 +1,16 @@
-# Portfolio Analyst at JLL
+# Sr Analyst, Prvt Equity Acctng at Northern Trust
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
+| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Portfolio-Analyst_REQ512383-1) |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst--Prvt-Equity-Acctng_R155435) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-12.
+This corporate finance position at Northern Trust was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
