@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Engineers Gate](https://scoutify.ai/companies/engineersgate?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Quant Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/engineersgate/jobs/7925974) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/engineersgate/jobs/7946534) |
 
 ## About This Role
 
-This quant research position at Engineers Gate was posted on 2026-05-14.
+This quant research position at Engineers Gate was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
