@@ -1,16 +1,16 @@
-# Associate Director - Counterparty Credit Risk at Royal Bank of Canada
+# Vice President Quantitative Risk Analytics at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Quant Research |
+| Location | New York City, New York, United States |
+| Category | Quant Developer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate-Director---Counterparty-Credit-Risk_R-0000176956) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/Vice-President-Quantitative-Risk-Analytics_R-0000175492-1) |
 
 ## About This Role
 
-This quant research position at Royal Bank of Canada was posted on 2026-06-15.
+This quant developer position at Royal Bank of Canada was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
