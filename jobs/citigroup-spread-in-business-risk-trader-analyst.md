@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Spread In Business Risk Trader - Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst_26962146-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Spread-In-Business-Risk-Trader---Analyst_26971930) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-18.
+This corporate finance position at Citigroup was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

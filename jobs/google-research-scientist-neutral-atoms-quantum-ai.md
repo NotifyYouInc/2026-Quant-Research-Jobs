@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boulder, Colorado, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRCEA5LpirV5PEzILs_ZKnhCn5YtHjbJusEv32I5lRzXEjsACxwdTL9-H6p7qU8fjLptsmR-zuxHdCbInsXk3rjZhUypGz-Pwi3yubGKH714itiMkBLSRqb6n5_gWA%3D%3D_V2&loc=US&title=Research+Scientist) |
+| Category | Quant Research |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRt2rl_AXPdZp3jdgntLkgN3v1LOtSszO9QIYeadozdOEjsA1Ny_i92DOWuX2bNirJU0pyEM62mbYn0rUuM74uAgX3QKTg6a8CLjTm8B8Ot8IzP3aMIJApFLNr0P0w%3D%3D_V2&loc=US&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-11.
+This quant research position at Google was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

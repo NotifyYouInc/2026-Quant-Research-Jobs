@@ -1,16 +1,16 @@
-# Manager, Model Risk (L09) at Synchrony Financial
+# Senior Quantitative Valuation Analyst at QS Investors
 
 | Field | Details |
 |-------|---------|
-| Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Quant Research |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Manager--Model-Risk--L09-_2601738-4) |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/FTISC-Hyderabad-F3328/Senior-Quantitative-Valuation-Analyst_868089) |
 
 ## About This Role
 
-This quant research position at Synchrony Financial was posted on 2026-06-16.
+This quant research position at QS Investors was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
