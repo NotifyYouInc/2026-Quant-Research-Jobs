@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Intermediate-Analyst_26963396-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Securities---Derivatives-Intermediate-Analyst_26965105) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-18.
+This corporate finance position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

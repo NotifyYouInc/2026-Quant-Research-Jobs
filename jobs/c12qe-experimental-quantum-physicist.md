@@ -1,16 +1,16 @@
-# BRAIN AI Researcher at WorldQuant
+# Experimental Quantum Physicist at C12Qe
 
 | Field | Details |
 |-------|---------|
-| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Yerevan, Yerevan, Armenia |
-| Category | AI / ML Research |
+| Company | [C12Qe](https://scoutify.ai/companies/c12qe?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | Quant Research |
 | Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4581366006) |
+| Apply | [View on company site](https://jobs.lever.co/c12qe/d4cf40e8-279a-47f9-8d24-0b75d63ec4e0) |
 
 ## About This Role
 
-This ai / ml research position at WorldQuant was posted on 2026-06-17.
+This quant research position at C12Qe was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

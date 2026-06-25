@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Quantitative-Risk-Analyst--Advanced-Analytics---Credit-Modelling_R-0000163999-1) |
+| Category | Data Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Quantitative-Risk-Analyst--Advanced-Analytics---Credit-Modelling_R-0000176557) |
 
 ## About This Role
 
-This compliance & risk management position at Royal Bank of Canada was posted on 2026-04-14.
+This data analyst position at Royal Bank of Canada was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

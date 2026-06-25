@@ -1,16 +1,16 @@
-# Securities & Derivatives  Sr Analyst Hybrid at Citigroup
+# Loss Forecasting and Stress Testing Analytics - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives--Sr-Analyst-Hybrid_26963032-1) |
+| Location | 2 locations |
+| Category | Quant Research |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Loss-Forecasting-and-Stress-Testing-Analytics---Vice-President_26965495) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-19.
+This quant research position at Citigroup was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
