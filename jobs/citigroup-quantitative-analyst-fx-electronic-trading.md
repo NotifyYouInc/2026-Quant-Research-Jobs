@@ -1,16 +1,16 @@
-# Securities and Derivatives Senior Analyst at Citigroup
+# Quantitative Analyst FX Electronic Trading at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Securities-and-Derivatives-Senior-Analyst_26962672-1) |
+| Location | London, England, United Kingdom |
+| Category | Quant Developer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst-FX-Electronic-Trading_26972675) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-27.
+This quant developer position at Citigroup was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

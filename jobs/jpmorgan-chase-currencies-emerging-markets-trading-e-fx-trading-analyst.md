@@ -1,16 +1,16 @@
-# Securities & Derivatives Intermediate Analyst at Citigroup
+# Currencies Emerging Markets Trading, e-FX Trading – Analyst at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Securities---Derivatives-Intermediate-Analyst_26965058) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736642) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-25.
+This corporate finance position at JPMorgan Chase was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

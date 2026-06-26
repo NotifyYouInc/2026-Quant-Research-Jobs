@@ -1,16 +1,16 @@
-# Post Doctoral Scholar at The Ohio State University
+# Post Doctoral Scholar  at The Ohio State University
 
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Quant Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Post-Doctoral-Scholar-_R152742-1) |
 
 ## About This Role
 
-This quant research position at The Ohio State University was posted on 2026-05-21.
+This quant research position at The Ohio State University was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

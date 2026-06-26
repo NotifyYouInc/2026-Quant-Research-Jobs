@@ -1,16 +1,16 @@
-# Securities & Derivatives  Sr Analyst Hybrid at Citigroup
+# 2026 Commodities Trading Internship Program at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives--Sr-Analyst-Hybrid_26966281) |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752778) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-01.
+This corporate finance position at JPMorgan Chase was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

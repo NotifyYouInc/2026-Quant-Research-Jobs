@@ -1,16 +1,16 @@
-# Quantitative Analyst at Citigroup
+# Senior Economist at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Quant Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Quantitative-Analyst_26950423) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426946/senior-economist) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-05-28.
+This quant research position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

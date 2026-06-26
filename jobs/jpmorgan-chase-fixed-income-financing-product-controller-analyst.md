@@ -1,16 +1,16 @@
-# Securities and Derivatives Senior Analyst at Citigroup
+# Fixed Income Financing Product Controller – Analyst at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Poland |
 | Category | Corporate Finance |
 | Posted | 2026-05-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Securities-and-Derivatives-Senior-Analyst_26962672-1) |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731820) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-27.
+This corporate finance position at JPMorgan Chase was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
