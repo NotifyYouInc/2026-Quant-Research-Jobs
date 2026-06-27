@@ -1,16 +1,16 @@
-# Quantitative Research Analyst at PIMCO
+# Quant Research at Kalshi
 
 | Field | Details |
 |-------|---------|
-| Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Kalshi](https://scoutify.ai/companies/kalshi?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106487) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kalshi/a0a953d6-3769-4254-8381-d98c647c078f) |
 
 ## About This Role
 
-This quant research position at PIMCO was posted on 2026-06-19.
+This quant research position at Kalshi was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

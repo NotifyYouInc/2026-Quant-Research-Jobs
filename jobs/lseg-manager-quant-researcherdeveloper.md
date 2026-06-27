@@ -1,16 +1,16 @@
-# Quantitative Research Analyst at PIMCO
+# Manager, Quant Researcher/Developer at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106487) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Manager--Quant-Researcher-Developer_R0120568-1) |
 
 ## About This Role
 
-This quant research position at PIMCO was posted on 2026-06-19.
+This quant developer position at LSEG was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
