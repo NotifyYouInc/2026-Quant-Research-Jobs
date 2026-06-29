@@ -5,12 +5,12 @@
 | Company | [University of Sydney](https://scoutify.ai/companies/university-of-sydney?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Camperdown, New South Wales, Australia |
 | Category | Quant Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Camperdown-Campus/Postdoctoral-Research-Associate_0151614-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Camperdown-Campus/Postdoctoral-Research-Associate_0152888-1) |
 
 ## About This Role
 
-This quant research position at University of Sydney was posted on 2026-05-19.
+This quant research position at University of Sydney was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
