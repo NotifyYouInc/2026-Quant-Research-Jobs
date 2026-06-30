@@ -1,16 +1,16 @@
-# Strategist at Schonfeld
+# Quant Strategist / Researcher - FX Volatility at Schonfeld
 
 | Field | Details |
 |-------|---------|
 | Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8020496) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8020673) |
 
 ## About This Role
 
-This quant research position at Schonfeld was posted on 2026-06-22.
+This quant developer position at Schonfeld was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

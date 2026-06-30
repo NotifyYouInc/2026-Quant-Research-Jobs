@@ -1,16 +1,16 @@
-# Risk Management - Model Risk Program Associate at JPMorgan Chase
+# Quant Model Risk Analyst at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700616) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Quant Research |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702811) |
 
 ## About This Role
 
-This compliance & risk management position at JPMorgan Chase was posted on 2026-02-26.
+This quant research position at JPMorgan Chase was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

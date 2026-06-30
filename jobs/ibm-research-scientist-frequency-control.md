@@ -1,16 +1,16 @@
-# Strategist at Schonfeld
+# Research Scientist (Frequency Control) at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Yorktown Heights, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8020496) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120531) |
 
 ## About This Role
 
-This quant research position at Schonfeld was posted on 2026-06-22.
+This quant research position at IBM was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

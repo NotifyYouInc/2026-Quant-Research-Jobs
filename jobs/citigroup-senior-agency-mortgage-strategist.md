@@ -1,16 +1,16 @@
-# Strategist at Schonfeld
+# Senior Agency Mortgage Strategist at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8020496) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Senior-Agency-Mortgage-Strategist_26973795) |
 
 ## About This Role
 
-This quant research position at Schonfeld was posted on 2026-06-22.
+This quant research position at Citigroup was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

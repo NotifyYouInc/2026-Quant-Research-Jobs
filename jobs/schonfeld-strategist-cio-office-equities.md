@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/7894664) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8020498) |
 
 ## About This Role
 
-This quant research position at Schonfeld was posted on 2026-05-05.
+This quant research position at Schonfeld was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
