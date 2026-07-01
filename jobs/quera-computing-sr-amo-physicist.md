@@ -1,16 +1,16 @@
-# Quantitative Analytics Professional at Freddie Mac
+# Sr. AMO Physicist at QuEra Computing
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [QuEra Computing](https://scoutify.ai/companies/queracomputinginc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Harwell, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional_JR17335) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5277505008) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-06-23.
+This quant research position at QuEra Computing was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

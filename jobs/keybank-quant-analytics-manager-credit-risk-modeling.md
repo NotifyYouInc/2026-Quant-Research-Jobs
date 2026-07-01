@@ -1,16 +1,16 @@
-# Quantitative Analytics Professional at Freddie Mac
+# Quant Analytics Manager - Credit Risk Modeling at KeyBank
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Quant Research |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional_JR17335) |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quant-Analytics-Manager---Credit-Risk-Modeling_R-40421) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-06-23.
+This quant research position at KeyBank was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
