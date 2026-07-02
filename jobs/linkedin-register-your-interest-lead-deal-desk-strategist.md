@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Operations |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000128239759-register-your-interest-lead-deal-desk-strategist) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000128446539-register-your-interest-lead-deal-desk-strategist) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-05-25.
+This operations position at LinkedIn was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

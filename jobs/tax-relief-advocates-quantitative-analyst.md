@@ -1,16 +1,16 @@
-# Quantitative Analytics Senior at Freddie Mac
+# Quantitative Analyst at Tax Relief Advocates
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Tax Relief Advocates](https://scoutify.ai/companies/taxreliefadvocates?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Irvine, California, United States |
 | Category | Quant Research |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Senior_JR17364) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/taxreliefadvocates/jobs/5277890008) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-06-24.
+This quant research position at Tax Relief Advocates was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Securities---Derivatives-Intermediate-Analyst_26965058) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | Business Analyst |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities---Derivatives-Intermediate-Analyst_26967637) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-25.
+This business analyst position at Citigroup was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
