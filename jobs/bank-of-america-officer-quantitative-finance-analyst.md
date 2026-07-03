@@ -1,16 +1,16 @@
-# Quantitative Analytics Specialist at Wells Fargo
+# Officer; Quantitative Finance Analyst at Bank of America
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Plano, Texas, United States |
 | Category | Quant Research |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Specialist_R-551875) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Officer--Quantitative-Finance-Analyst_26021777) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-06-25.
+This quant research position at Bank of America was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

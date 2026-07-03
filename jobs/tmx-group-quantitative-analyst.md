@@ -1,16 +1,16 @@
-# Quantitative Analytics Specialist at Wells Fargo
+# Quantitative Analyst at TMX Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Quant Research |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Specialist_R-551875) |
+| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Quantitative-Analyst_R-6120) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-06-25.
+This quant research position at TMX Group was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

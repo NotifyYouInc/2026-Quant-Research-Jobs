@@ -5,12 +5,12 @@
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mount Laurel, New Jersey, United States |
 | Category | Quant Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst--US----PPNR-Model-Validation_R_1493230) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst--US----PPNR-Model-Validation_R_1496930-1) |
 
 ## About This Role
 
-This quant research position at TD Bank was posted on 2026-06-09.
+This quant research position at TD Bank was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

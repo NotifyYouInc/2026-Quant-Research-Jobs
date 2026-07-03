@@ -1,16 +1,16 @@
-# Quantitative Analytics Specialist at Wells Fargo
+# Quantitative Researcher  at Forge Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Forge Global](https://scoutify.ai/companies/forgeglobal?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Specialist_R-551875) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/forgeglobal/jobs/6102055004) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-06-25.
+This quant research position at Forge Global was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

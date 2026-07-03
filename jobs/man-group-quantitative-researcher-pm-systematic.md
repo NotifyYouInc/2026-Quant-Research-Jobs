@@ -1,16 +1,16 @@
-# Quantitative Analytics Specialist at Wells Fargo
+# Quantitative Researcher  / PM - Systematic at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Quant Research |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Specialist_R-551875) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4882442101) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-06-25.
+This quant research position at Man Group was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
