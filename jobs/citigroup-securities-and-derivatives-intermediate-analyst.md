@@ -1,16 +1,16 @@
-# Securities and Derivatives Intermediate Analyst at Citigroup
+# Securities and derivatives Intermediate Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Securities-and-Derivatives-Intermediate-Analyst_26962680) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities-and-derivatives-Intermediate-Analyst_26962952) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-27.
+This corporate finance position at Citigroup was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
