@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Whippany, New Jersey, United States |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Equity-Derivatives-Business-Analyst_JR-0000118591) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-06-15.
+This quant research position at Barclays was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

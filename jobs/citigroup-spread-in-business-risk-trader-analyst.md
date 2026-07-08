@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-16 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Spread-In-Business-Risk-Trader---Analyst_26971930) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-16.
+This quant research position at Citigroup was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Maplewood, Minnesota, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Equity-Compensation-Analyst_R01166249) |
 
 ## About This Role
 
-This corporate finance position at 3M Company was posted on 2026-06-05.
+This quant research position at 3M Company was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

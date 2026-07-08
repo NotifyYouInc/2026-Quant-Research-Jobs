@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
+| Category | Quant Research |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/New-York-New-York/Associate--Quantitative-Strategist_R260059) |
 
 ## About This Role
 
-This ai / ml research position at Apollo Global was posted on 2026-06-23.
+This quant research position at Apollo Global was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

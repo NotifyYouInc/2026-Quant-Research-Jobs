@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-08 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754690) |
 
 ## About This Role
 
-This corporate finance position at JPMorgan Chase was posted on 2026-06-08.
+This quant research position at JPMorgan Chase was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

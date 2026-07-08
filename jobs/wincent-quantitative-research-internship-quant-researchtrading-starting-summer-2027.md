@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wincent](https://scoutify.ai/companies/wincent?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-06-08 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99) |
 
 ## About This Role
 
-This quant developer position at Wincent was posted on 2026-06-08.
+This quant research position at Wincent was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-12 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Portfolio-Analyst_REQ512383-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-12.
+This quant research position at JLL was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

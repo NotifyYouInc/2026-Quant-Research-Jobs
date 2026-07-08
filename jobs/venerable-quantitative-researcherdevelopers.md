@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Venerable](https://scoutify.ai/companies/venerable?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | West Chester, Pennsylvania, United States |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Quantitative-Researcher-Developers_REQ748) |
 
 ## About This Role
 
-This quant developer position at Venerable was posted on 2026-06-23.
+This quant research position at Venerable was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

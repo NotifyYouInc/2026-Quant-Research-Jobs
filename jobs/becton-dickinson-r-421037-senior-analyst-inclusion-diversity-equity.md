@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Becton Dickinson](https://scoutify.ai/companies/becton-dickinson?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Franklin Lakes, New Jersey, United States |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2021-12-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/bectondickinson2/743999791907109-r-421037-senior-analyst-inclusion-diversity-equity) |
 
 ## About This Role
 
-This data analyst position at Becton Dickinson was posted on 2021-12-09.
+This quant research position at Becton Dickinson was posted on 2021-12-09.
 
 ## Get Real-Time Alerts
 

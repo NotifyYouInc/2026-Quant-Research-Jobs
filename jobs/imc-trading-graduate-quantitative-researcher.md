@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Zug, Zug, Switzerland |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-06-12 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) |
 
 ## About This Role
 
-This data scientist position at IMC Trading was posted on 2026-06-12.
+This quant research position at IMC Trading was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

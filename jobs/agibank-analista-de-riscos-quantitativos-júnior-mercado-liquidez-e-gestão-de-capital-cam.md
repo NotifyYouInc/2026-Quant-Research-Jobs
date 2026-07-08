@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Agibank](https://scoutify.ai/companies/agibank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5250424008) |
 
 ## About This Role
 
-This corporate finance position at Agibank was posted on 2026-06-17.
+This quant research position at Agibank was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Statkraft](https://scoutify.ai/companies/statkraft?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000130552460-senior-commercial-analyst-automated-flexibility-trading-mfd) |
 
 ## About This Role
 
-This business analyst position at Statkraft was posted on 2026-06-05.
+This quant research position at Statkraft was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

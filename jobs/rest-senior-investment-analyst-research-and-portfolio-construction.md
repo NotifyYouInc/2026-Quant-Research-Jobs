@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rest](https://scoutify.ai/companies/rest?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/rest1/744000131553089-senior-investment-analyst-research-and-portfolio-construction) |
 
 ## About This Role
 
-This corporate finance position at Rest was posted on 2026-06-11.
+This quant research position at Rest was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

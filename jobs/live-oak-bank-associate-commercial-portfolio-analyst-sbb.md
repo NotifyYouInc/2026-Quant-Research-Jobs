@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Live Oak Bank](https://scoutify.ai/companies/liveoakbancshares?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Wilmington, North Carolina, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-08 |
 | Apply | [View on company site](https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Associate-Commercial-Portfolio-Analyst--SBB_R-002514) |
 
 ## About This Role
 
-This corporate finance position at Live Oak Bank was posted on 2026-06-08.
+This quant research position at Live Oak Bank was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

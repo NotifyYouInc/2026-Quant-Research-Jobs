@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brookfield](https://scoutify.ai/companies/brookfield?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Human Resources / People Ops |
+| Category | Quant Research |
 | Posted | 2026-06-08 |
 | Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/Senior-Analyst--Equity-Compensation_R2050829-1) |
 
 ## About This Role
 
-This human resources / people ops position at Brookfield was posted on 2026-06-08.
+This quant research position at Brookfield was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

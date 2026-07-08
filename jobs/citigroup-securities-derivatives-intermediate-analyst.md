@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-06-04 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities---Derivatives-Intermediate-Analyst_26967637) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-04.
+This quant research position at Citigroup was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

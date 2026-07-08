@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-06-16 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Senior-Quantitative-Researcher---Fixed-Income-Markets-Research--Director_R264497) |
 
 ## About This Role
 
-This data scientist position at Blackrock was posted on 2026-06-16.
+This quant research position at Blackrock was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

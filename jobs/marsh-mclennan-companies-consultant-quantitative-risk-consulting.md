@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Rome, Lazio, Italy |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-06-22 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Rome---Villa-Grazio/Consultant---Quantitative-Risk-Consulting-_R_355757) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-06-22.
+This quant research position at Marsh & McLennan Companies was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

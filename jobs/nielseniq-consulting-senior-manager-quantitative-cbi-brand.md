@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Strategy / Management Consulting |
+| Category | Quant Research |
 | Posted | 2026-06-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132395811-consulting-senior-manager-quantitative-cbi-brand) |
 
 ## About This Role
 
-This strategy / management consulting position at NielsenIQ was posted on 2026-06-16.
+This quant research position at NielsenIQ was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-04-07 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733414) |
 
 ## About This Role
 
-This data scientist position at JPMorgan Chase was posted on 2026-04-07.
+This quant research position at JPMorgan Chase was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

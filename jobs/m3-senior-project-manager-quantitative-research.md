@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M3](https://scoutify.ai/companies/m3?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Project Manager |
+| Category | Quant Research |
 | Posted | 2026-06-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/M3USA/744000131951899-senior-project-manager-quantitative-research) |
 
 ## About This Role
 
-This project manager position at M3 was posted on 2026-06-12.
+This quant research position at M3 was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

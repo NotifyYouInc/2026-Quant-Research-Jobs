@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-04-16 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394079/colocation-portfolio-analyst-portfolio-asset-management-colocation-portfolio-management) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-04-16.
+This quant research position at Amazon was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Talent Acquisition / Recruiting |
+| Category | Quant Research |
 | Posted | 2026-06-08 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4885477101) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at IMC Trading was posted on 2026-06-08.
+This quant research position at IMC Trading was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

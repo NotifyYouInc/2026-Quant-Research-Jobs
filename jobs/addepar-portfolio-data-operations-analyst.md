@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Asset Management / Portfolio Management |
+| Category | Data Analyst |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8569182002) |
 
 ## About This Role
 
-This asset management / portfolio management position at Addepar was posted on 2026-06-03.
+This data analyst position at Addepar was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

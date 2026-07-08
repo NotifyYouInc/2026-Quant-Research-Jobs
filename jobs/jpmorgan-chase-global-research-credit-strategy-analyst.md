@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
+| Category | Strategy & Operations |
 | Posted | 2026-06-09 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752531) |
 
 ## About This Role
 
-This corporate finance position at JPMorgan Chase was posted on 2026-06-09.
+This strategy & operations position at JPMorgan Chase was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

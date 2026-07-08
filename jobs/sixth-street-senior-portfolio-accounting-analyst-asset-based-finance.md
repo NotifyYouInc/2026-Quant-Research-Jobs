@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixth Street](https://scoutify.ai/companies/sixthstreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sixthstreet/jobs/7761417003) |
 
 ## About This Role
 
-This corporate finance position at Sixth Street was posted on 2026-06-02.
+This quant research position at Sixth Street was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

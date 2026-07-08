@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Credit-Research-Analyst--EMEA---Portfolio-Management-Group--Associate_R264563-1) |
 
 ## About This Role
 
-This corporate finance position at Blackrock was posted on 2026-06-05.
+This quant research position at Blackrock was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

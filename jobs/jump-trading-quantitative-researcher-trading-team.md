@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jump Trading](https://scoutify.ai/companies/jump-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://www.jumptrading.com/hr/job?gh_jid=7294191) |
 
 ## About This Role
 
-This data scientist position at Jump Trading was posted on 2026-06-03.
+This quant research position at Jump Trading was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

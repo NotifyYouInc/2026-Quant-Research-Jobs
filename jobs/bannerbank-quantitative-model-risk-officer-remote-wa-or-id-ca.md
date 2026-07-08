@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bannerbank](https://scoutify.ai/companies/bannerbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://jobs.lever.co/bannerbank/ef6d4906-6e57-4769-b1c1-d9af02eea11f) |
 
 ## About This Role
 
-This compliance & risk management position at Bannerbank was posted on 2026-06-23.
+This quant research position at Bannerbank was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

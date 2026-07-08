@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Non-Agency-CMBS-Trading---Fixed-Income-Division---Analyst-Associate_JR038427) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-05.
+This quant research position at Morgan Stanley was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

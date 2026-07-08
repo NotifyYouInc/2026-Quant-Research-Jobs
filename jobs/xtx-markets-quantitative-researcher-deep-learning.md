@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [XTX Markets](https://scoutify.ai/companies/xtxmarketstechnologies?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / ML Research |
+| Category | Quant Research |
 | Posted | 2026-06-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7770152003) |
 
 ## About This Role
 
-This ai / ml research position at XTX Markets was posted on 2026-06-12.
+This quant research position at XTX Markets was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

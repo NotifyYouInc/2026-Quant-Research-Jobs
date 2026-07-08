@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Putrajaya, Putrajaya, Malaysia |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-06-11 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Quantitative-Analyst--6-month-contract-_R-0000165272) |
 
 ## About This Role
 
-This quant developer position at Royal Bank of Canada was posted on 2026-06-11.
+This quant research position at Royal Bank of Canada was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

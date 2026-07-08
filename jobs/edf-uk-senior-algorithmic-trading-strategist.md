@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-06-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000131500244-senior-algorithmic-trading-strategist) |
 
 ## About This Role
 
-This data scientist position at EDF UK was posted on 2026-06-10.
+This quant research position at EDF UK was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

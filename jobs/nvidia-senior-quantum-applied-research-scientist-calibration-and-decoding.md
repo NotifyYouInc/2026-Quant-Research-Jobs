@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-06-08 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Quantum-Applied-Research-Scientist--Calibration-and-Decoding_JR2019517) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-06-08.
+This data scientist position at Nvidia was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

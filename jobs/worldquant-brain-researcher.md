@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-06-08 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4250853006) |
 
 ## About This Role
 
-This data scientist position at WorldQuant was posted on 2026-06-08.
+This quant research position at WorldQuant was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

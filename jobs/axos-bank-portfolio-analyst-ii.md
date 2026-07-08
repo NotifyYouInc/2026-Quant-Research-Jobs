@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Diego, California, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-02 |
 | Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Portfolio-Analyst-II_JR4789) |
 
 ## About This Role
 
-This corporate finance position at Axos Bank was posted on 2026-06-02.
+This quant research position at Axos Bank was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Newark, New Jersey, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754824) |
+| Location | London, England, United Kingdom |
+| Category | Quant Research |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759427) |
 
 ## About This Role
 
-This business analyst position at JPMorgan Chase was posted on 2026-06-17.
+This quant research position at JPMorgan Chase was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

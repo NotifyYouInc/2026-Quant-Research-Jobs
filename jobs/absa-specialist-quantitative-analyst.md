@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Quant Developer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Specialist--Quantitative-Analyst_R-15987869-1) |
+| Category | Quant Research |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Specialist--Quantitative-Analyst_R-15988804-1) |
 
 ## About This Role
 
-This quant developer position at Absa was posted on 2026-06-05.
+This quant research position at Absa was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

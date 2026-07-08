@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000129973889-project-programme-portfolio-manager-consultant-analyst-defence-government) |
 
 ## About This Role
 
-This asset management / portfolio management position at PA Consulting was posted on 2026-06-03.
+This quant research position at PA Consulting was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

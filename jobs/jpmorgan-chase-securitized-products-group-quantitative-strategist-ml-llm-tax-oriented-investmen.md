@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Venture Capital / Private Equity |
+| Category | Quant Research |
 | Posted | 2026-05-26 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750656) |
 
 ## About This Role
 
-This venture capital / private equity position at JPMorgan Chase was posted on 2026-05-26.
+This quant research position at JPMorgan Chase was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

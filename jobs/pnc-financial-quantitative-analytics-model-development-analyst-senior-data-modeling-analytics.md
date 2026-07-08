@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-06-02 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Development-Analyst-Senior---Data--Modeling---Analytics_R224859-2) |
 
 ## About This Role
 
-This data analyst position at PNC Financial was posted on 2026-06-02.
+This quant research position at PNC Financial was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

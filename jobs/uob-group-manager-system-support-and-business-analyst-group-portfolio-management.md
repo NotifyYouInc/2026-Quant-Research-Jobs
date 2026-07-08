@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore |
-| Category | IT & Systems Administration |
+| Category | Quant Research |
 | Posted | 2026-06-11 |
 | Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/Manager--System-Support-and-Business-Analyst--Group-Portfolio-Management_JR88740) |
 
 ## About This Role
 
-This it & systems administration position at UOB Group was posted on 2026-06-11.
+This quant research position at UOB Group was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

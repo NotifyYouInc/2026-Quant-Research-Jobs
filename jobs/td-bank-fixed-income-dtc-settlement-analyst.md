@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Fixed-Income-DTC-Settlement-Analyst_R_1492834) |
 
 ## About This Role
 
-This corporate finance position at TD Bank was posted on 2026-06-03.
+This quant research position at TD Bank was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

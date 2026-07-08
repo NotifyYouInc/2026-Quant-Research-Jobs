@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AXQ Capital](https://scoutify.ai/companies/axq-capital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-06-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/axq/jobs/6010042004) |
 
 ## About This Role
 
-This quant developer position at AXQ Capital was posted on 2026-06-01.
+This quant research position at AXQ Capital was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BioMed Realty](https://scoutify.ai/companies/biomedrealty?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Diego, California, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/biomedrealty/jobs/4687084006) |
 
 ## About This Role
 
-This corporate finance position at BioMed Realty was posted on 2026-06-05.
+This quant research position at BioMed Realty was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

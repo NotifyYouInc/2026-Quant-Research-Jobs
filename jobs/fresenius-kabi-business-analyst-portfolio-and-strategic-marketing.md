@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresenius Kabi](https://scoutify.ai/companies/fresenius-kabi?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Lake Zurich, Illinois, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Business-Analyst--Portfolio-and-Strategic-Marketing_R-01023465) |
 
 ## About This Role
 
-This asset management / portfolio management position at Fresenius Kabi was posted on 2026-06-05.
+This quant research position at Fresenius Kabi was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

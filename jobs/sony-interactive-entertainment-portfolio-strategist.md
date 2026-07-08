@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | United States |
-| Category | Strategy / Management Consulting |
+| Category | Quant Research |
 | Posted | 2026-06-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6017896004) |
 
 ## About This Role
 
-This strategy / management consulting position at Sony Interactive Entertainment was posted on 2026-06-12.
+This quant research position at Sony Interactive Entertainment was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

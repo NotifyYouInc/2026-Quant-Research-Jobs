@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Taiwan |
-| Category | Strategy & Operations |
+| Category | Quant Research |
 | Posted | 2026-06-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129702859-strategic-analytics-insights-quantitative-senior-analyst-analyst) |
 
 ## About This Role
 
-This strategy & operations position at NielsenIQ was posted on 2026-06-02.
+This quant research position at NielsenIQ was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trading212](https://scoutify.ai/companies/trading212?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/trading212/f95fc459-2306-4f32-9e04-8c706a99ea54) |
 
 ## About This Role
 
-This corporate finance position at Trading212 was posted on 2026-06-02.
+This quant research position at Trading212 was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

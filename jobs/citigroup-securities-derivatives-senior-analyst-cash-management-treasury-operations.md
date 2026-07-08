@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Corporate Finance |
+| Category | Data Analyst |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Securities---Derivatives-Senior-Analyst---Cash-Management-Treasury-Operations_26970362) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-15.
+This data analyst position at Citigroup was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

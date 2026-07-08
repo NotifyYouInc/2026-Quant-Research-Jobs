@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Shanghai-Azia-Centre-30F/Senior-Research-Analyst_R0119734-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-06-05.
+This quant research position at LSEG was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

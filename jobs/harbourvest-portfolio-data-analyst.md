@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Asset Management / Portfolio Management |
+| Category | Data Analyst |
 | Posted | 2026-06-01 |
 | Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Bogot/Analyst--Portfolio-Data_R2382) |
 
 ## About This Role
 
-This asset management / portfolio management position at HarbourVest was posted on 2026-06-01.
+This data analyst position at HarbourVest was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

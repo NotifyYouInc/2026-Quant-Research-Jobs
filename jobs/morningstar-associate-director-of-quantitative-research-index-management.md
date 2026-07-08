@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Engineering Manager |
+| Category | Quant Research |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Associate-Director-of-Quantitative-Research--Index-Management_REQ-057109) |
 
 ## About This Role
 
-This engineering manager position at Morningstar was posted on 2026-06-25.
+This quant research position at Morningstar was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Limerick, Munster, Ireland |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Limerick-Ireland/Senior-Analyst--Derivatives--2-of-2-_R152389) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-15.
+This quant research position at Northern Trust was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

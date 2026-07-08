@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Operations |
+| Category | Quant Research |
 | Posted | 2026-06-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000131736158-senior-deal-desk-strategist) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-06-11.
+This quant research position at LinkedIn was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

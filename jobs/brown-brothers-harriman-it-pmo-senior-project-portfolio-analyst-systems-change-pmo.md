@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-06-09 |
 | Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Krakow/IT-PMO---Senior-Project-Portfolio-Analyst---Systems-Change-PMO_71409) |
 
 ## About This Role
 
-This asset management / portfolio management position at Brown Brothers Harriman was posted on 2026-06-09.
+This quant research position at Brown Brothers Harriman was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

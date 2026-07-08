@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-12 |
 | Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Analyst--Prvt-Equity-Acctng_R156035) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-12.
+This quant research position at Northern Trust was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

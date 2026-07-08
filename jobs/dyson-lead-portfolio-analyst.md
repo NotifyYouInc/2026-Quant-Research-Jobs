@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-06-09 |
 | Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Lead-Portfolio-Analyst_JR36515-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Dyson was posted on 2026-06-09.
+This quant research position at Dyson was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

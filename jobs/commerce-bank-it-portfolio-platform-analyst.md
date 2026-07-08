@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | IT & Systems Administration |
+| Category | Quant Research |
 | Posted | 2026-06-09 |
 | Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/IT-Portfolio-Platform-Analyst_38051) |
 
 ## About This Role
 
-This it & systems administration position at Commerce Bank was posted on 2026-06-09.
+This quant research position at Commerce Bank was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Keppel](https://scoutify.ai/companies/keppel?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://keppel.wd3.myworkdayjobs.com/keppelcareers/job/Singapore/Analyst--Portfolio-Management_10016113) |
 
 ## About This Role
 
-This asset management / portfolio management position at Keppel was posted on 2026-06-03.
+This quant research position at Keppel was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

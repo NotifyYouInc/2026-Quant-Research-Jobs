@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-GE2/Senior-Analyst---Lead-Analyst---Credit-Risk-Modelling--Risk-Portfolio-Management_JR00008366) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-06-05.
+This quant research position at OCBC was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

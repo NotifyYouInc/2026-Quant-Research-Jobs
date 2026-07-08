@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Collabera](https://scoutify.ai/companies/collabera?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2016-02-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/collabera2/89473025-business-analyst-otcderivatives) |
 
 ## About This Role
 
-This business analyst position at Collabera was posted on 2016-02-15.
+This quant research position at Collabera was posted on 2016-02-15.
 
 ## Get Real-Time Alerts
 

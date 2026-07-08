@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Operations |
+| Category | Quant Research |
 | Posted | 2026-03-10 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703564) |
 
 ## About This Role
 
-This operations position at JPMorgan Chase was posted on 2026-03-10.
+This quant research position at JPMorgan Chase was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

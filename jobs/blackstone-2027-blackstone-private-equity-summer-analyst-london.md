@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackstone](https://scoutify.ai/companies/blackstone?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Private-Equity-Summer-Analyst--London-_43186) |
 
 ## About This Role
 
-This corporate finance position at Blackstone was posted on 2026-06-15.
+This quant research position at Blackstone was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

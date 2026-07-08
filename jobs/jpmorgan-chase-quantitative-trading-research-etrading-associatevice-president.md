@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-05-20 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748007) |
 
 ## About This Role
 
-This quant developer position at JPMorgan Chase was posted on 2026-05-20.
+This quant research position at JPMorgan Chase was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

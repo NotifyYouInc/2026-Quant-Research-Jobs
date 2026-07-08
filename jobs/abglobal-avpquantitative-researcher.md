@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-06-12 |
 | Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/London-UK/AVP-Quantitative-Researcher_R0019116) |
 
 ## About This Role
 
-This data scientist position at Abglobal was posted on 2026-06-12.
+This quant research position at Abglobal was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

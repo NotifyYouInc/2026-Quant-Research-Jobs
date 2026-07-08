@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Newport Beach, California, United States |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-06-02 |
 | Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst---Client-Analytics_R106268) |
 
 ## About This Role
 
-This data scientist position at PIMCO was posted on 2026-06-02.
+This quant research position at PIMCO was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

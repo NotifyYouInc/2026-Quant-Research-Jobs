@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Collabera](https://scoutify.ai/companies/collabera?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Account Manager |
+| Category | Quant Research |
 | Posted | 2016-04-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/collabera2/91760905-business-development-portfolio-analyst) |
 
 ## About This Role
 
-This account manager position at Collabera was posted on 2016-04-27.
+This quant research position at Collabera was posted on 2016-04-27.
 
 ## Get Real-Time Alerts
 

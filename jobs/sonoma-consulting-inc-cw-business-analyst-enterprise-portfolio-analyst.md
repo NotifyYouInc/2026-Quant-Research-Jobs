@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sonoma Consulting Inc.](https://scoutify.ai/companies/sonoma-consulting-inc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2017-04-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/sonomaconsultinginc/113963979-cw-business-analyst-enterprise-portfolio-analyst) |
 
 ## About This Role
 
-This asset management / portfolio management position at Sonoma Consulting Inc. was posted on 2017-04-20.
+This quant research position at Sonoma Consulting Inc. was posted on 2017-04-20.
 
 ## Get Real-Time Alerts
 

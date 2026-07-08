@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4890008101) |
 
 ## About This Role
 
-This asset management / portfolio management position at Man Group was posted on 2026-06-15.
+This quant research position at Man Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

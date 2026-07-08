@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-06-11 |
 | Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London-33-Old-Broad-Street/Assistant-Manager--Model-Validation-Quant_157106-2) |
 
 ## About This Role
 
-This quant developer position at Lloyds Bank was posted on 2026-06-11.
+This quant research position at Lloyds Bank was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

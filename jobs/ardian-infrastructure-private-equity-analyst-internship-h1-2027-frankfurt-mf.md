@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ardian](https://scoutify.ai/companies/ardian?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Germany |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Infrastructure-Private-Equity-Analyst-Internship---H1-2027---Frankfurt--M-F-_JR1002073) |
 
 ## About This Role
 
-This corporate finance position at Ardian was posted on 2026-06-03.
+This quant research position at Ardian was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

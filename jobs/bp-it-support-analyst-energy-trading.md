@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | IT & Systems Administration |
+| Category | Quant Research |
 | Posted | 2026-06-11 |
 | Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/IT-Support-Analyst---Energy-Trading_RQ111925-1) |
 
 ## About This Role
 
-This it & systems administration position at BP was posted on 2026-06-11.
+This quant research position at BP was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

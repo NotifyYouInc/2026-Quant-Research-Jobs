@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-06-10 |
 | Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Philadelphia-Pennsylvania-United-States-of-America/Portfolio-Construction-Analyst--Fixed-Income---Portfolio-Risk-Analysis-_868248) |
 
 ## About This Role
 
-This corporate finance position at QS Investors was posted on 2026-06-10.
+This quant research position at QS Investors was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
