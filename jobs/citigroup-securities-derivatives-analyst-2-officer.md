@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2, Officer at Citigroup
+# Securities & Derivatives Analyst 2 - Officer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Quant Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Securities---Derivatives-Analyst-2--Officer_26968280) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Securities---Derivatives-Analyst-2---Officer_26966407) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-06-03.
+This quant research position at Citigroup was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
