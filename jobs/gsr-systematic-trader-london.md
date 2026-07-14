@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst at Fil
+# Systematic Trader - London at GSR
 
 | Field | Details |
 |-------|---------|
-| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [GSR](https://scoutify.ai/companies/gsrmarkets?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Senior-Quantitative-Analyst_J69177) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gsrmarkets/jobs/4711057101) |
 
 ## About This Role
 
-This quant research position at Fil was posted on 2026-07-06.
+This quant research position at GSR was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

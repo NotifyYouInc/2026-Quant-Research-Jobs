@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst at Fil
+# Vice President, QIS Structuring at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Senior-Quantitative-Analyst_J69177) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Vice-President--QIS-Structuring_R-550411) |
 
 ## About This Role
 
-This quant research position at Fil was posted on 2026-07-06.
+This quant research position at Wells Fargo was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

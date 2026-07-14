@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
 | Category | Quant Research |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Model-Analyst---Treasury_2026-0006177) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Model-Analyst---Treasury_2026-0019508) |
 
 ## About This Role
 
-This quant research position at U.S. Bank was posted on 2026-03-19.
+This quant research position at U.S. Bank was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

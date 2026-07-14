@@ -1,16 +1,16 @@
-# Quantitative Researcher at Jane Street
+# Model Risk (Risk Management) : Job Level - Vice President at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
-| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Model-Risk--Risk-Management----Job-Level---Vice-President_PT-JR039963) |
 
 ## About This Role
 
-This quant research position at Jane Street was posted on 2026-07-06.
+This quant research position at Morgan Stanley was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

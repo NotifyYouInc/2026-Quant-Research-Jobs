@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst at Fil
+# Quantitative Business Strategist at Radix Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Radix Trading](https://scoutify.ai/companies/radixexperienced?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Quant Research |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Senior-Quantitative-Analyst_J69177) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/radixexperienced/jobs/7997102002) |
 
 ## About This Role
 
-This quant research position at Fil was posted on 2026-07-06.
+This quant research position at Radix Trading was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
