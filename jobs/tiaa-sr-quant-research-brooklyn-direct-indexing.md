@@ -1,16 +1,16 @@
-# Quantitative MBS Research Analyst at Vanguard
+# Sr. Quant Research, Brooklyn Direct Indexing at TIAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Quantitative-MBS-Research-Analyst_180052) |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Sr-Quant-Research--Brooklyn-Direct-Indexing_R260600611) |
 
 ## About This Role
 
-This quant research position at Vanguard was posted on 2026-07-07.
+This quant research position at TIAA was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

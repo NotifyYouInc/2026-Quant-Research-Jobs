@@ -1,16 +1,16 @@
-# Quantitative MBS Research Analyst at Vanguard
+# Equity Product Strategist at Vanguard
 
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Malvern, Arkansas, United States |
-| Category | Quant Research |
+| Category | Product Manager |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Quantitative-MBS-Research-Analyst_180052) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Equity-Product-Strategist_179745-1) |
 
 ## About This Role
 
-This quant research position at Vanguard was posted on 2026-07-07.
+This product manager position at Vanguard was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

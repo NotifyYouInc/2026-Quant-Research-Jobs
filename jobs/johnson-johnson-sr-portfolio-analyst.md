@@ -1,16 +1,16 @@
-# Quantitative MBS Research Analyst at Vanguard
+# Sr. Portfolio Analyst at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 5 locations |
 | Category | Quant Research |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Quantitative-MBS-Research-Analyst_180052) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Sr-Portfolio-Analyst_R-085630) |
 
 ## About This Role
 
-This quant research position at Vanguard was posted on 2026-07-07.
+This quant research position at Johnson & Johnson was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

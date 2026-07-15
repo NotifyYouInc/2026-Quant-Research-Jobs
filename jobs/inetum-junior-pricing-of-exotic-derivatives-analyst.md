@@ -1,16 +1,16 @@
-# Quantitative MBS Research Analyst at Vanguard
+# Junior Pricing of Exotic Derivatives Analyst at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Quant Research |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Quantitative-MBS-Research-Analyst_180052) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136207590-junior-pricing-of-exotic-derivatives-analyst) |
 
 ## About This Role
 
-This quant research position at Vanguard was posted on 2026-07-07.
+This quant research position at Inetum was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
