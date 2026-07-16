@@ -5,12 +5,12 @@
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Livermore, California, United States |
 | Category | Quant Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013526286-quantum-device-and-circuit-postdoctoral-researcher) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013570582-quantum-device-and-circuit-postdoctoral-researcher) |
 
 ## About This Role
 
-This quant research position at LLNL was posted on 2026-06-08.
+This quant research position at LLNL was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

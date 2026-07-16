@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Operations |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000128446539-register-your-interest-lead-deal-desk-strategist) |
+| Category | Quant Research |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000136479598-register-your-interest-lead-deal-desk-strategist) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-05-26.
+This quant research position at LinkedIn was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Assistant Vice President: Quantitative Finance Analyst at Bank of America
+# Assistant Vice President; Quantitative Finance Analyst at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Quant Research |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Assistant-Vice-President--Quantitative-Finance-Analyst_26022407) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Assistant-Vice-President--Quantitative-Finance-Analyst_26022897) |
 
 ## About This Role
 
-This quant research position at Bank of America was posted on 2026-06-30.
+This quant research position at Bank of America was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

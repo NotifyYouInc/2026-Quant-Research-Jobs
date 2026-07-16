@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Quant Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000130826565-senior-equity-analyst-reporter) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131960329-senior-equity-analyst-reporter) |
 
 ## About This Role
 
-This quant research position at Versant was posted on 2026-06-08.
+This quant research position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
