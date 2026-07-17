@@ -6,7 +6,7 @@
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Quant Research |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131960329-senior-equity-analyst-reporter) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131962935-senior-equity-analyst-reporter) |
 
 ## About This Role
 

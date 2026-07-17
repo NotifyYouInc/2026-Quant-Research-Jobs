@@ -1,16 +1,16 @@
-# Trading Operations Analyst  at DV Trading
+# Trading - Quant Trader (Junior/Mid Level) - Brazil at B2C2
 
 | Field | Details |
 |-------|---------|
-| Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Data Analyst |
+| Company | [B2C2](https://scoutify.ai/companies/b2c2?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Brazil |
+| Category | Quant Research |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4713581005) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/b2c2/jobs/4922889101) |
 
 ## About This Role
 
-This data analyst position at DV Trading was posted on 2026-07-09.
+This quant research position at B2C2 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

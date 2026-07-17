@@ -1,16 +1,16 @@
-# Trading Operations Analyst  at DV Trading
+# Senior Product Analyst - Live Games Portfolio at Scopely
 
 | Field | Details |
 |-------|---------|
-| Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4713581005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5314088008?gh_jid=5314088008) |
 
 ## About This Role
 
-This data analyst position at DV Trading was posted on 2026-07-09.
+This data analyst position at Scopely was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
