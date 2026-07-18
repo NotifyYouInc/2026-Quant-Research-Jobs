@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Bridgewater Associates](https://scoutify.ai/companies/bwaltpostings?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Bridgewater Associates](https://scoutify.ai/companies/bridgewater89?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Quant Research |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bwaltpostings/jobs/8406844002) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bridgewater89/jobs/8406845002) |
 
 ## About This Role
 
-This quant research position at Bridgewater Associates was posted on 2026-02-12.
+This quant research position at Bridgewater Associates was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
