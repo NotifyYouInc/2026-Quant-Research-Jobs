@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000131827312-trading-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000131843176-trading-analyst) |
 
 ## About This Role
 
