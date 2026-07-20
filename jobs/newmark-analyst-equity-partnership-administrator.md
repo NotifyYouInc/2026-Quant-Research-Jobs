@@ -1,16 +1,16 @@
-# Quantitative Trading Analyst at DRW
+# Analyst, Equity & Partnership Administrator at Newmark
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Newmark](https://scoutify.ai/companies/us6-cx-oj75140?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Jacksonville, Florida, United States |
 | Category | Quant Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8014946) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://hdow.fa.us6.oraclecloud.com/jobs/#247623) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-07-13.
+This quant research position at Newmark was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Quantitative Trading Analyst at DRW
+# Quantitative Research Intern  at DRW
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Quant Research |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8014946) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8014915) |
 
 ## About This Role
 

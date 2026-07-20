@@ -1,16 +1,16 @@
-# Quantitative Trading Analyst at DRW
+# Quant Analytics - Analyst at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Quant Research |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8014946) |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768128) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-07-13.
+This quant research position at JPMorgan Chase was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
