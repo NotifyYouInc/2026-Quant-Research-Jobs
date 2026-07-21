@@ -1,16 +1,16 @@
-# Quantitative Analytics Specialist at Wells Fargo
+# Portfolio Analyst - TBC Asset Management Company at TBC Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Tbilisi, Tbilisi, Georgia |
 | Category | Quant Research |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quantitative-Analytics-Specialist_R-558954-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000137499489-portfolio-analyst-tbc-asset-management-company) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-07-13.
+This quant research position at TBC Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

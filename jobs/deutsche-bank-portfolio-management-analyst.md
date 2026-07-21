@@ -1,16 +1,16 @@
-# Senior Research Executive - Quantitative at NielsenIQ
+# Portfolio Management, Analyst at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137607259-senior-research-executive-quantitative) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Portfolio-Management--Analyst_R0441937) |
 
 ## About This Role
 
-This quant research position at NielsenIQ was posted on 2026-07-14.
+This quant research position at Deutsche Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

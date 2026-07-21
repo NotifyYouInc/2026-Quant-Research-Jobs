@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Securities-and-Derivatives-Senior-Analyst_26962672-1) |
+| Location | Jersey City, New Jersey, United States |
+| Category | Quant Research |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Securities-and-Derivatives-Senior-Analyst_26978044) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-27.
+This quant research position at Citigroup was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

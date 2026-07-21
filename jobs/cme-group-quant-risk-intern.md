@@ -1,16 +1,16 @@
-# Senior Research Executive - Quantitative at NielsenIQ
+# Quant Risk Intern at CME Group
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137607259-senior-research-executive-quantitative) |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Quant-Risk-Intern_34590) |
 
 ## About This Role
 
-This quant research position at NielsenIQ was posted on 2026-07-14.
+This quant research position at CME Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

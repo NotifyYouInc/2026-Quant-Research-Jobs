@@ -1,16 +1,16 @@
-# Quantitative Analytics Specialist at Wells Fargo
+# Campus Quantitative Researcher (Full-Time) at Jump Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Jump Trading](https://scoutify.ai/companies/jump-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Quant Research |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quantitative-Analytics-Specialist_R-558954-1) |
+| Apply | [View on company site](https://www.jumptrading.com/hr/job?gh_jid=8050796) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-07-13.
+This quant research position at Jump Trading was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

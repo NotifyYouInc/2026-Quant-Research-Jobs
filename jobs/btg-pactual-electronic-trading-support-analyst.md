@@ -1,16 +1,16 @@
-# Quantitative Analytics Specialist at Wells Fargo
+# Electronic Trading Support Analyst at BTG Pactual
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Quant Research |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quantitative-Analytics-Specialist_R-558954-1) |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6114675004) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-07-13.
+This quant research position at BTG Pactual was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

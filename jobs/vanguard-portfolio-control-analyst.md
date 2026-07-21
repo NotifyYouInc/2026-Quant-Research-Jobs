@@ -1,16 +1,16 @@
-# Senior Research Executive - Quantitative at NielsenIQ
+# Portfolio Control Analyst at Vanguard
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137607259-senior-research-executive-quantitative) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Dublin-Ireland/Portfolio-Control-Analyst_180213-2) |
 
 ## About This Role
 
-This quant research position at NielsenIQ was posted on 2026-07-14.
+This quant research position at Vanguard was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

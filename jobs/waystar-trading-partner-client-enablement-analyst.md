@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Trading-Partner-Client-Enablement-Analyst_R3226) |
+| Category | Quant Research |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Trading-Partner-Client-Enablement-Analyst_R3291) |
 
 ## About This Role
 
-This business analyst position at Waystar was posted on 2026-05-27.
+This quant research position at Waystar was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Researcher at DRW
+# Quantitative Researcher at Kuru Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
+| Company | [Kuru Labs](https://scoutify.ai/companies/kuru-labs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Not specified |
 | Category | Quant Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8030406) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kuru-labs/145ae2f6-4a6a-4aff-ba20-5ef0684a0fca) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-07-13.
+This quant research position at Kuru Labs was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
