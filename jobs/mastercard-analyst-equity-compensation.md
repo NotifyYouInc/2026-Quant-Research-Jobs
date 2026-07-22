@@ -1,16 +1,16 @@
-# IT Portfolio Analyst at Xcel Energy
+# Analyst, Equity Compensation at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Roseville, California, United States |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Portfolio-Analyst_JR115181-1) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Analyst--Equity-Compensation_R-281815) |
 
 ## About This Role
 
-This quant research position at Xcel Energy was posted on 2026-07-14.
+This quant research position at Mastercard was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IT Portfolio Analyst at Xcel Energy
+# 2027 Internship - Quantitative Strategist and Research Intern at Virtu
 
 | Field | Details |
 |-------|---------|
-| Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Roseville, California, United States |
+| Company | [Virtu](https://scoutify.ai/companies/virtu?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Portfolio-Analyst_JR115181-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/virtu/jobs/8631180002) |
 
 ## About This Role
 
-This quant research position at Xcel Energy was posted on 2026-07-14.
+This quant research position at Virtu was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

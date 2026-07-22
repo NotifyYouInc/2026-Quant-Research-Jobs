@@ -1,12 +1,12 @@
-# Securities and Derivatives Associate Analyst at Citigroup
+# Quantitative Analyst - C13 - NEW YORK at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Securities-and-Derivatives-Associate-Analyst_26978049) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst---C13---NEW-YORK_26975264) |
 
 ## About This Role
 

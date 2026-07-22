@@ -1,12 +1,12 @@
-# IT Portfolio Analyst at Xcel Energy
+# Trading Analyst - Denver, CO at Xcel Energy
 
 | Field | Details |
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Roseville, California, United States |
+| Location | Denver, Colorado, United States |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Portfolio-Analyst_JR115181-1) |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Trading-Analyst---Denver--CO_JR115283-1) |
 
 ## About This Role
 

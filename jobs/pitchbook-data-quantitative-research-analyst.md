@@ -1,16 +1,16 @@
-# IT Portfolio Analyst at Xcel Energy
+# Quantitative Research Analyst at PitchBook Data
 
 | Field | Details |
 |-------|---------|
-| Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Roseville, California, United States |
+| Company | [PitchBook Data](https://scoutify.ai/companies/pitchbook-data?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Portfolio-Analyst_JR115181-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pitchbookdata/jobs/4695174006) |
 
 ## About This Role
 
-This quant research position at Xcel Energy was posted on 2026-07-14.
+This quant research position at PitchBook Data was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

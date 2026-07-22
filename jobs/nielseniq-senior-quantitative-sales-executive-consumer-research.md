@@ -1,16 +1,16 @@
-# IT Portfolio Analyst at Xcel Energy
+# Senior Quantitative Sales Executive - Consumer Research at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Roseville, California, United States |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Portfolio-Analyst_JR115181-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137648449-senior-quantitative-sales-executive-consumer-research) |
 
 ## About This Role
 
-This quant research position at Xcel Energy was posted on 2026-07-14.
+This quant research position at NielsenIQ was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IT Portfolio Analyst at Xcel Energy
+# Portfolio Analyst at Wintrust
 
 | Field | Details |
 |-------|---------|
-| Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Roseville, California, United States |
+| Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Menomonee Falls, Wisconsin, United States |
 | Category | Quant Research |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Portfolio-Analyst_JR115181-1) |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Portfolio-Analyst_261307-1) |
 
 ## About This Role
 
-This quant research position at Xcel Energy was posted on 2026-07-14.
+This quant research position at Wintrust was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
