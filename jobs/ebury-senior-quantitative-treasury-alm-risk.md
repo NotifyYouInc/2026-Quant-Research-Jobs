@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Senior Quantitative Treasury & ALM Risk at Ebury
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Málaga, Andalusia, Spain |
 | Category | Quant Research |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26976982) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4928752101) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-15.
+This quant research position at Ebury was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

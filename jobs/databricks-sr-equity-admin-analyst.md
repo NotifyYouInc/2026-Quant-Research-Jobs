@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Sr. Equity Admin Analyst at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26976982) |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8570001002) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-15.
+This quant research position at Databricks was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

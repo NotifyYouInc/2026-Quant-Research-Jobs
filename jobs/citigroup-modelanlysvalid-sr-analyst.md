@@ -1,12 +1,12 @@
-# Securities & Derivatives Analyst at Citigroup
+# Model/Anlys/Valid Sr Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26976982) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Model-Anlys-Valid-Sr-Analyst_26972170) |
 
 ## About This Role
 

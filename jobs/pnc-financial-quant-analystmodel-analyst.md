@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Quant Analyst/Model Analyst at PNC Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Quant Research |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26976982) |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/VA---Tysons-Corner/Quant-Analyst-Model-Analyst_R228827-2) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-15.
+This quant research position at PNC Financial was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
