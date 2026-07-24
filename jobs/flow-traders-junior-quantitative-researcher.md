@@ -1,16 +1,16 @@
-# Portfolio Analyst at Intrum
+# Junior Quantitative Researcher  at Flow Traders
 
 | Field | Details |
 |-------|---------|
-| Company | [Intrum](https://scoutify.ai/companies/intrum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Gent, Flanders, Belgium |
+| Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Quant Research |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://intrum.wd3.myworkdayjobs.com/external/job/Gent/Portfolio-Analyst_R10448) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/6492219) |
 
 ## About This Role
 
-This quant research position at Intrum was posted on 2026-07-16.
+This quant research position at Flow Traders was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

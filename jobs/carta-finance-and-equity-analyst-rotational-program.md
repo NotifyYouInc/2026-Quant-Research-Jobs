@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carta](https://scoutify.ai/companies/carta?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7143172003) |
+| Location | Toronto, Ontario, Canada |
+| Category | Quant Research |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7807641003) |
 
 ## About This Role
 
-This corporate finance position at Carta was posted on 2026-01-23.
+This quant research position at Carta was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

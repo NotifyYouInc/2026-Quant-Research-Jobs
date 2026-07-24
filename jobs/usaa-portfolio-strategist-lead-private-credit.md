@@ -1,16 +1,16 @@
-# Portfolio Analyst at Intrum
+# Portfolio Strategist Lead – Private Credit at USAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Intrum](https://scoutify.ai/companies/intrum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Gent, Flanders, Belgium |
+| Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | San Antonio, Texas, United States |
 | Category | Quant Research |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://intrum.wd3.myworkdayjobs.com/external/job/Gent/Portfolio-Analyst_R10448) |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Portfolio-Strategist-Lead---Private-Credit_R0118767) |
 
 ## About This Role
 
-This quant research position at Intrum was posted on 2026-07-16.
+This quant research position at USAA was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Portfolio Analyst at Intrum
+# Senior Trading Analyst at Vistra
 
 | Field | Details |
 |-------|---------|
-| Company | [Intrum](https://scoutify.ai/companies/intrum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Gent, Flanders, Belgium |
+| Company | [Vistra](https://scoutify.ai/companies/vst?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Irving, Texas, United States |
 | Category | Quant Research |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://intrum.wd3.myworkdayjobs.com/external/job/Gent/Portfolio-Analyst_R10448) |
+| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Senior-Trading-Analyst_40016303-1) |
 
 ## About This Role
 
-This quant research position at Intrum was posted on 2026-07-16.
+This quant research position at Vistra was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

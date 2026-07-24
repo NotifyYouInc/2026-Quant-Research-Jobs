@@ -1,16 +1,16 @@
-# Portfolio Analyst at Intrum
+# Sr. Portfolio Strategist- Akron/Canton Area at KeyBank
 
 | Field | Details |
 |-------|---------|
-| Company | [Intrum](https://scoutify.ai/companies/intrum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Gent, Flanders, Belgium |
+| Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Canton, Michigan, United States |
 | Category | Quant Research |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://intrum.wd3.myworkdayjobs.com/external/job/Gent/Portfolio-Analyst_R10448) |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Canton-OH/Sr-Portfolio-Strategist--Akron-Canton-Area_R-41021) |
 
 ## About This Role
 
-This quant research position at Intrum was posted on 2026-07-16.
+This quant research position at KeyBank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

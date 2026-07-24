@@ -1,12 +1,12 @@
-# Credit Risk Portfolio Senior Analyst at Barclays
+# Mortgage Research VP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Credit-Risk-Portfolio-Senior-Analyst_JR-0000120262) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Mortgage-Research-VP_JR-0000122333) |
 
 ## About This Role
 
