@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Quant Research |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000133001379-thesis-intern-financial-risk-management-banking) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000133895139-thesis-intern-financial-risk-management-banking) |
 
 ## About This Role
 
-This quant research position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-19.
+This quant research position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
