@@ -1,16 +1,16 @@
-# Quantitative Trader at Jane Street
+# Lead Deal Desk Strategist  at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Quant Research |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8623733002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000138821469-lead-deal-desk-strategist) |
 
 ## About This Role
 
-This quant research position at Jane Street was posted on 2026-07-21.
+This quant research position at LinkedIn was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

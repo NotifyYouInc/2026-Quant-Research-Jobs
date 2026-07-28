@@ -1,16 +1,16 @@
-# Quantitative Trader at Jane Street
+# Analyst, Portfolio Management at Capitaland
 
 | Field | Details |
 |-------|---------|
-| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Company | [Capitaland](https://scoutify.ai/companies/capitaland?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Singapore, Singapore |
 | Category | Quant Research |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8623733002) |
+| Apply | [View on company site](https://capitaland.wd3.myworkdayjobs.com/capitalandgroup/job/Singapore-Central-Singapore/Analyst--Portfolio-Management_JR004816-2) |
 
 ## About This Role
 
-This quant research position at Jane Street was posted on 2026-07-21.
+This quant research position at Capitaland was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

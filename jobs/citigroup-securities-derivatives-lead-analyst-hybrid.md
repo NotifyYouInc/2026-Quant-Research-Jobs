@@ -1,12 +1,12 @@
-# Quantitative Analyst, Equities Algorithmic Trading, VP at Citigroup
+# Securities & Derivatives Lead Analyst Hybrid at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
+| Location | New York, US |
 | Category | Quant Research |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst--Equities-Algorithmic-Trading--VP_26976393) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives-Lead-Analyst-Hybrid_26979318) |
 
 ## About This Role
 

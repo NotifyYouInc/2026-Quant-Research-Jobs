@@ -1,16 +1,16 @@
-# Commodities Quantitative Strategist at Deutsche Bank
+# Lead Alpha Researcher, Systematic Equities at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Commodities-Quantitative-Strategist_R0435720-1) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4904726101) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-20.
+This quant research position at IMC Trading was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

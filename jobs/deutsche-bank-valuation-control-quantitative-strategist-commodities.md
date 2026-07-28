@@ -1,4 +1,4 @@
-# Commodities Quantitative Strategist at Deutsche Bank
+# Valuation Control Quantitative Strategist – Commodities at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Commodities-Quantitative-Strategist_R0435720-1) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Valuation-Control-Quantitative-Strategist---Commodities_R0441653) |
 
 ## About This Role
 
