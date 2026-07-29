@@ -1,16 +1,16 @@
-# LNG Trading Analyst at Centrica
+# Analista Pleno | Quant Research at XP Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
+| Company | [XP Inc.](https://scoutify.ai/companies/xpinc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Quant Research |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Singapore/LNG-Trading-Analyst_R0087421) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xpinc/jobs/8643198002) |
 
 ## About This Role
 
-This quant research position at Centrica was posted on 2026-07-21.
+This quant research position at XP Inc. was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# LNG Trading Analyst at Centrica
+# Quantitative Analyst: Electricity Markets at Pjm
 
 | Field | Details |
 |-------|---------|
-| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Pjm](https://scoutify.ai/companies/pjm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Audubon, New Jersey, United States |
 | Category | Quant Research |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Singapore/LNG-Trading-Analyst_R0087421) |
+| Apply | [View on company site](https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Quantitative-Analyst--Electricity-Markets_REQ-2026-4208) |
 
 ## About This Role
 
-This quant research position at Centrica was posted on 2026-07-21.
+This quant research position at Pjm was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

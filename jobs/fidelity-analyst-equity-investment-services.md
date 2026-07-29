@@ -1,16 +1,16 @@
-# LNG Trading Analyst at Centrica
+# Analyst, Equity Investment Services at Fidelity
 
 | Field | Details |
 |-------|---------|
-| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Quant Research |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Singapore/LNG-Trading-Analyst_R0087421) |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Analyst--Equity-Investment-Services_2131193) |
 
 ## About This Role
 
-This quant research position at Centrica was posted on 2026-07-21.
+This quant research position at Fidelity was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# LNG Trading Analyst at Centrica
+# Analyst - Real Estate Portfolio at Dollar Tree
 
 | Field | Details |
 |-------|---------|
-| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Dollar Tree](https://scoutify.ai/companies/dollar-tree?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chesapeake, Virginia, United States |
 | Category | Quant Research |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Singapore/LNG-Trading-Analyst_R0087421) |
+| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Analyst---Real-Estate-Portfolio_R-298488) |
 
 ## About This Role
 
-This quant research position at Centrica was posted on 2026-07-21.
+This quant research position at Dollar Tree was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

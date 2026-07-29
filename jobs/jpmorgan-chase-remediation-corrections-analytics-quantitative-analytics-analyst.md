@@ -1,16 +1,16 @@
-# Senior Quantitative Analytics Specialist at Wells Fargo
+# Remediation & Corrections Analytics - Quantitative Analytics - Analyst at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Quant Research |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Quantitative-Analytics-Specialist_R-560635) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771956) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-07-16.
+This quant research position at JPMorgan Chase was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Quant Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quantitative-Analytics-Specialist_R-558954-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Specialist_R-558818) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-07-13.
+This quant research position at Wells Fargo was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

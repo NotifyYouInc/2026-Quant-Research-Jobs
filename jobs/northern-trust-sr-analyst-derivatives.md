@@ -1,16 +1,16 @@
-# Senior Quantitative Analytics Specialist at Wells Fargo
+# Sr Analyst, Derivatives at Northern Trust
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Quant Research |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Quantitative-Analytics-Specialist_R-560635) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Sr-Analyst--Derivatives_R158351-1) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-07-16.
+This quant research position at Northern Trust was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# LNG Trading Analyst at Centrica
+# Senior Specialist, IWM Portfolio Analyst - BNY Wealth at BNY
 
 | Field | Details |
 |-------|---------|
-| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
+| Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Quant Research |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Singapore/LNG-Trading-Analyst_R0087421) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79873) |
 
 ## About This Role
 
-This quant research position at Centrica was posted on 2026-07-21.
+This quant research position at BNY was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
