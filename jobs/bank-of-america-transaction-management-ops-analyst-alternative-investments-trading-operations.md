@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Jacksonville, Florida, United States |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Transaction-Management-Ops-Analyst---Alternative-Investments-Trading---Operations_25045194) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Transaction-Management-Ops-Analyst---Alternative-Investments-Trading---Operations_26024870-2) |
 
 ## About This Role
 
-This operations position at Bank of America was posted on 2026-02-11.
+This data analyst position at Bank of America was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

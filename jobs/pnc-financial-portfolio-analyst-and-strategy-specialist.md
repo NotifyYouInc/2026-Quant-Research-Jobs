@@ -1,12 +1,12 @@
-# Quantitative Analytics Development Program Analyst/Associate at PNC Financial
+# Portfolio Analyst and Strategy Specialist at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | 6 locations |
 | Category | Quant Research |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Development-Program-Analyst-Associate_R196778) |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Portfolio-Analyst-and-Strategy-Specialist_R229622-2) |
 
 ## About This Role
 

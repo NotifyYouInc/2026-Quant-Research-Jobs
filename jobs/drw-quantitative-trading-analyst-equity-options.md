@@ -1,16 +1,16 @@
-# Quantitative Analyst at Gresearch
+# Quantitative Trading Analyst - Equity Options at DRW
 
 | Field | Details |
 |-------|---------|
-| Company | [Gresearch](https://scoutify.ai/companies/gresearch?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Quantitative-Analyst_R2633) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8079406) |
 
 ## About This Role
 
-This quant research position at Gresearch was posted on 2026-07-22.
+This quant research position at DRW was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

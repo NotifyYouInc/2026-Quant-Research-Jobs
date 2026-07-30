@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Fixed-Income-Analyst_R-0000168267-1) |
+| Location | Toronto, Ontario, Canada |
+| Category | Quant Research |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Fixed-Income-Analyst_R-0000181355-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-20.
+This quant research position at Royal Bank of Canada was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

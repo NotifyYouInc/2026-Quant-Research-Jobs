@@ -1,16 +1,16 @@
-# Quantitative Analyst at Gresearch
+# 2027 Internship - Quantitative Researcher (PhD) at Virtu
 
 | Field | Details |
 |-------|---------|
-| Company | [Gresearch](https://scoutify.ai/companies/gresearch?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Virtu](https://scoutify.ai/companies/virtu?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Quantitative-Analyst_R2633) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
 
 ## About This Role
 
-This quant research position at Gresearch was posted on 2026-07-22.
+This quant research position at Virtu was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

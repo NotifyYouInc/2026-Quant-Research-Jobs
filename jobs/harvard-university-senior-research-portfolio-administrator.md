@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012019486-senior-research-portfolio-administrator) |
+| Category | Quant Research |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014240386-senior-research-portfolio-administrator) |
 
 ## About This Role
 
-This corporate finance position at Harvard University was posted on 2026-03-06.
+This quant research position at Harvard University was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

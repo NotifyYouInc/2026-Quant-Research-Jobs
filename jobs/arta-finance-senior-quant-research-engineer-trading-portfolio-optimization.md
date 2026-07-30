@@ -1,16 +1,16 @@
-# SENIOR QUANTITATIVE RESEARCHER (F/M/D) at Ignitis Grupe
+# Senior Quant Research Engineer, Trading & Portfolio Optimization at Arta Finance
 
 | Field | Details |
 |-------|---------|
-| Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Company | [Arta Finance](https://scoutify.ai/companies/artafinance?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | United States |
 | Category | Quant Research |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000139214290-senior-quantitative-researcher-fmd) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/artafinance/1af1122d-10df-4d16-a286-750f6cf990b6) |
 
 ## About This Role
 
-This quant research position at Ignitis Grupe was posted on 2026-07-23.
+This quant research position at Arta Finance was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
