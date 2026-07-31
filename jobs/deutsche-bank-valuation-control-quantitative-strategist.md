@@ -1,4 +1,4 @@
-# Quantitative Strategist at Deutsche Bank
+# Valuation Control Quantitative Strategist at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0442402-1) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Valuation-Control-Quantitative-Strategist_R0423562) |
 
 ## About This Role
 

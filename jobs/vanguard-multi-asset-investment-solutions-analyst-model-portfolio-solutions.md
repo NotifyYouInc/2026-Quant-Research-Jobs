@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Multi-Asset Investment Solutions Analyst - Model Portfolio Solutions at Vanguard
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0442402-1) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Multi-Asset-Investment-Solutions-Analyst---Model-Portfolio-Solutions_180666-2) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-23.
+This quant research position at Vanguard was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

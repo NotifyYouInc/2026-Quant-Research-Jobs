@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Portfolio Analyst at KeyBank
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Brooklyn, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0442402-1) |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Portfolio-Analyst_R-41117) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-23.
+This quant research position at KeyBank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

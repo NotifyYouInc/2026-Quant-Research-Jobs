@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Quantitative Analysis Intern at Group 1001
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Group 1001](https://scoutify.ai/companies/group1001wd?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Stamford, Connecticut, United States |
 | Category | Quant Research |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0442402-1) |
+| Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-23.
+This quant research position at Group 1001 was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

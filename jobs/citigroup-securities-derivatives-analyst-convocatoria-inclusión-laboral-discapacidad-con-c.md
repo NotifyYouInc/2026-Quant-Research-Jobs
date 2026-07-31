@@ -1,16 +1,16 @@
-# Officer, Securities & Derivatives Analyst, Markets Operations at Citigroup
+# Securities & Derivatives Analyst- Convocatoria Inclusión Laboral (Discapacidad con Certificación Oficial) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chiyoda, Tokyo, Japan |
-| Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Officer--Securities---Derivatives-Analyst--Markets-Operations_26980232) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Quant Research |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Securities---Derivatives-Analyst--Convocatoria-Inclusin-Laboral--Discapacidad-con-Certificacin-Oficial-_26980090) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-24.
+This quant research position at Citigroup was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

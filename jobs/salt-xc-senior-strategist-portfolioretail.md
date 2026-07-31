@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Senior Strategist (Portfolio/Retail)  at Salt XC
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Salt XC](https://scoutify.ai/companies/saltxc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Quant Research |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0442402-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/saltxc/jobs/5194585007) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-23.
+This quant research position at Salt XC was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
