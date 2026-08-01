@@ -1,16 +1,16 @@
-# Quantitative Analytics & Model Development Analyst - Data, Modeling & Analytics at PNC Financial
+# Portfolio Analytics & Strategy Analyst Senior - Decision Science at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Quant Research |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Development-Analyst---Data--Modeling---Analytics_R229308-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Decision-Science_R228372-1) |
 
 ## About This Role
 
-This quant research position at PNC Financial was posted on 2026-07-25.
+This quant research position at PNC Financial was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
