@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Sr-Systems-Analyst-Project-Portfolio-Management-_R17341) |
 
 ## About This Role
 
-This quant research position at Pacific Life was posted on 2026-07-21.
+This business analyst position at Pacific Life was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

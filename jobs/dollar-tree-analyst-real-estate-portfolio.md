@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dollar Tree](https://scoutify.ai/companies/dollar-tree?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chesapeake, Virginia, United States |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Analyst---Real-Estate-Portfolio_R-298488) |
 
 ## About This Role
 
-This quant research position at Dollar Tree was posted on 2026-07-21.
+This business analyst position at Dollar Tree was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

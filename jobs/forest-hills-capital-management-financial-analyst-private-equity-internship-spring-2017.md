@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Forest Hills Capital Management](https://scoutify.ai/companies/foresthillscapitalmanagement?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Venture Capital / Private Equity |
 | Posted | 2017-01-22 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ForestHillsCapitalManagement/106323328-financial-analyst-private-equity-internship-spring-2017) |
 
 ## About This Role
 
-This quant research position at Forest Hills Capital Management was posted on 2017-01-22.
+This venture capital / private equity position at Forest Hills Capital Management was posted on 2017-01-22.
 
 ## Get Real-Time Alerts
 

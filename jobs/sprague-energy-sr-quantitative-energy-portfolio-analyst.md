@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sprague Energy](https://scoutify.ai/companies/recruiting-ultipro-com-oj100558?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-06-12 |
 | Apply | [View on company site](https://recruiting.ultipro.com/spr1005/JobBoard/17902b3d-1500-1fbc-82f1-12a85d5288ed/OpportunityDetail?opportunityId=3bd93b19-264a-4b32-9b4b-495ea97bc322) |
 
 ## About This Role
 
-This quant research position at Sprague Energy was posted on 2026-06-12.
+This asset management / portfolio management position at Sprague Energy was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

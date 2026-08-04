@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York, US |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Sr-Business-Associate---Equity-and-Global-Macro-Strategy-Research--Vice-President-_26980112) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-21.
+This business analyst position at Citigroup was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

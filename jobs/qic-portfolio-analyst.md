@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QIC](https://scoutify.ai/companies/ap1-cx-oj88415?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Brisbane, Queensland, Australia |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ejbe.fa.ap1.oraclecloud.com/jobs/#1001252) |
 
 ## About This Role
 
-This quant research position at QIC was posted on 2026-07-24.
+This asset management / portfolio management position at QIC was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

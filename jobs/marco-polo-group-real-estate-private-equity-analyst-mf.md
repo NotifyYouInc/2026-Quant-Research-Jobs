@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marco Polo Group](https://scoutify.ai/companies/marcopologroup1?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Quant Research |
+| Category | Venture Capital / Private Equity |
 | Posted | 2019-09-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/MarcoPoloGroup1/743999694980645-real-estate-private-equity-analyst-mf) |
 
 ## About This Role
 
-This quant research position at Marco Polo Group was posted on 2019-09-12.
+This venture capital / private equity position at Marco Polo Group was posted on 2019-09-12.
 
 ## Get Real-Time Alerts
 

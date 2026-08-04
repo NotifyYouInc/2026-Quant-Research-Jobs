@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Germany |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000137691139-junior-quantitative-trader-market-making-mfx) |
 
 ## About This Role
 
-This quant research position at Scalable Capital was posted on 2026-07-14.
+This quant developer position at Scalable Capital was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

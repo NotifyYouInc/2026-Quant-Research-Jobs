@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000136867546-cards-portfolio-analyst) |
 
 ## About This Role
 
-This quant research position at Blend360 was posted on 2026-07-09.
+This asset management / portfolio management position at Blend360 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

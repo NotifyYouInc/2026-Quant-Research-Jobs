@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mayo Clinic](https://scoutify.ai/companies/ocs-cx-oj67819?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Jacksonville, Florida, United States |
-| Category | Quant Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#384919) |
 
 ## About This Role
 
-This quant research position at Mayo Clinic was posted on 2026-06-15.
+This machine learning engineer position at Mayo Clinic was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

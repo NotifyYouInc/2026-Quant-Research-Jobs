@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Valuation-Control-Quantitative-Strategist_R0423562) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-23.
+This quant developer position at Deutsche Bank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

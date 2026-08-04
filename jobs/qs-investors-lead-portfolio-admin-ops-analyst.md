@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/FTISC-Hyderabad-F3328/Lead-Portfolio-Admin-Ops-Analyst_868430) |
 
 ## About This Role
 
-This quant research position at QS Investors was posted on 2026-07-14.
+This business analyst position at QS Investors was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

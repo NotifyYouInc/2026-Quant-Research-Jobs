@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Quant Research |
+| Category | Operations |
 | Posted | 2026-07-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000136862139-lead-deal-desk-strategist-people-with-disabilities-pcd-english-portuguese) |
 
 ## About This Role
 
-This quant research position at LinkedIn was posted on 2026-07-09.
+This operations position at LinkedIn was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

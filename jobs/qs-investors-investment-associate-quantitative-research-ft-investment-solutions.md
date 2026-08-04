@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Venture Capital |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-1) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_868815) |
 
 ## About This Role
 
-This venture capital position at QS Investors was posted on 2026-02-13.
+This venture capital / private equity position at QS Investors was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

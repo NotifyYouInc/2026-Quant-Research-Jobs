@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Quant Research |
+| Category | Treasury & Capital Markets |
 | Posted | 2026-07-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136175849-pricing-of-exotic-derivatives-analyst) |
 
 ## About This Role
 
-This quant research position at Inetum was posted on 2026-07-07.
+This treasury & capital markets position at Inetum was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

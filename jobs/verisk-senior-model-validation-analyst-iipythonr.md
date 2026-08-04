@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verisk](https://scoutify.ai/companies/ocs-cx-oj114447?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Quant Research |
+| Category | Data Scientist |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3177) |
 
 ## About This Role
 
-This quant research position at Verisk was posted on 2026-06-25.
+This data scientist position at Verisk was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Investpsp](https://scoutify.ai/companies/investpsp?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Data Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Analyst--Portfolio-Management-and-Operations--Temporary---12-months-_R4882) |
 
 ## About This Role
 
-This data analyst position at Investpsp was posted on 2026-07-24.
+This asset management / portfolio management position at Investpsp was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

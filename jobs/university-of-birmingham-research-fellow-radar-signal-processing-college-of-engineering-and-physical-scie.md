@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Birmingham](https://scoutify.ai/companies/em3-cx-oj14063?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Birmingham, England, United Kingdom |
-| Category | Quant Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-09 |
 | Apply | [View on company site](https://edzz.fa.em3.oraclecloud.com/jobs/#9563) |
 
 ## About This Role
 
-This quant research position at University of Birmingham was posted on 2026-07-09.
+This machine learning engineer position at University of Birmingham was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

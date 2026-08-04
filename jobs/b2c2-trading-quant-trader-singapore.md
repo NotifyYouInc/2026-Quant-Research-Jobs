@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [B2C2](https://scoutify.ai/companies/b2c2?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Quant Research |
+| Category | Sales & Trading |
 | Posted | 2026-04-23 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/b2c2/jobs/4849372101) |
 
 ## About This Role
 
-This quant research position at B2C2 was posted on 2026-04-23.
+This sales & trading position at B2C2 was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

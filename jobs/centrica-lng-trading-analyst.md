@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Singapore/LNG-Trading-Analyst_R0087421) |
 
 ## About This Role
 
-This quant research position at Centrica was posted on 2026-07-21.
+This corporate finance position at Centrica was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

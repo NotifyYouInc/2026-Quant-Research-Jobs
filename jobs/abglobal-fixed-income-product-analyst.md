@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Nashville, Tennessee, United States |
-| Category | Data Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Fixed-Income-Product-Analyst_R0019396-2) |
 
 ## About This Role
 
-This data analyst position at Abglobal was posted on 2026-07-23.
+This asset management / portfolio management position at Abglobal was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

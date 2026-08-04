@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Quant Research |
+| Category | Data Scientist |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NC---Raleigh-27601/Quantitative-Analytics-and-Model-Development-Analyst-Senior_R229271) |
 
 ## About This Role
 
-This quant research position at PNC Financial was posted on 2026-07-13.
+This data scientist position at PNC Financial was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

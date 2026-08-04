@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Quant Research |
+| Category | Customer Success |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000137886779-trading-incidents-analyst) |
 
 ## About This Role
 
-This quant research position at Entain was posted on 2026-07-15.
+This customer success position at Entain was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

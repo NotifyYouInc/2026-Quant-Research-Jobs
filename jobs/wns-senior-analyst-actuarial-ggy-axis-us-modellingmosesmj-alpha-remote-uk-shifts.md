@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Quant Research |
+| Category | Actuary / Insurance Analytics |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000137637224-senior-analyst-actuarial-ggy-axis-us-modellingmosesmj-alpha-remote-uk-shifts) |
 
 ## About This Role
 
-This quant research position at WNS was posted on 2026-07-14.
+This actuary / insurance analytics position at WNS was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

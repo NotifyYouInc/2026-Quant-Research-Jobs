@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Radix Trading](https://scoutify.ai/companies/radixuniversity?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-05-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/radixuniversity/jobs/8080910002) |
 
 ## About This Role
 
-This quant research position at Radix Trading was posted on 2026-05-20.
+This business analyst position at Radix Trading was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

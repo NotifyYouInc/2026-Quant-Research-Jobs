@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stantec](https://scoutify.ai/companies/us6-cx-oj100858?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-05-26 |
 | Apply | [View on company site](https://hdhl.fa.us6.oraclecloud.com/jobs/#1005941) |
 
 ## About This Role
 
-This quant research position at Stantec was posted on 2026-05-26.
+This asset management / portfolio management position at Stantec was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

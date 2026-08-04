@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Quant Research |
+| Category | Sales & Trading |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Trading-Analyst_JR040921) |
 
 ## About This Role
 
-This quant research position at Morgan Stanley was posted on 2026-07-22.
+This sales & trading position at Morgan Stanley was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

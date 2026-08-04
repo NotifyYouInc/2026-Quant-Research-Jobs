@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Investpsp](https://scoutify.ai/companies/investpsp?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-09 |
 | Apply | [View on company site](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Senior-Analyst---Associate--Global-Alpha--Fundamental-Research-Platform_R4873) |
 
 ## About This Role
 
-This quant research position at Investpsp was posted on 2026-07-09.
+This asset management / portfolio management position at Investpsp was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FirstEnergy](https://scoutify.ai/companies/ocs-cx-oj39340?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Akron, Ohio, United States |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-05-26 |
 | Apply | [View on company site](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#104370) |
 
 ## About This Role
 
-This quant research position at FirstEnergy was posted on 2026-05-26.
+This business analyst position at FirstEnergy was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

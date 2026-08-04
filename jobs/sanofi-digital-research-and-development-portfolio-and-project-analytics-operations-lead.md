@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Quant Research |
+| Category | Operations |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Digital-Research-and-Development-Portfolio-and-Project-Analytics-Operations-Lead_R2865323-1) |
 
 ## About This Role
 
-This quant research position at Sanofi was posted on 2026-07-24.
+This operations position at Sanofi was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

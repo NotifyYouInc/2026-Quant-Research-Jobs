@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2026-07-19 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/Associate--Systematic-Credit-Research-Quant_10077420-WD-1) |
 
 ## About This Role
 
-This quant research position at Mitsubishi UFG was posted on 2026-07-19.
+This quant developer position at Mitsubishi UFG was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

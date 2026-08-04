@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Tbilisi, Tbilisi, Georgia |
-| Category | Data Analyst |
+| Category | Sales & Trading |
 | Posted | 2026-07-08 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000136465293-sales-and-trading-analyst) |
 
 ## About This Role
 
-This data analyst position at TBC Bank was posted on 2026-07-08.
+This sales & trading position at TBC Bank was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

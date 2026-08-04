@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/Associate-Client-Portfolio-Analyst--Clark-Capital_R-0012117) |
 
 ## About This Role
 
-This quant research position at Raymond James Financial was posted on 2026-07-22.
+This asset management / portfolio management position at Raymond James Financial was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

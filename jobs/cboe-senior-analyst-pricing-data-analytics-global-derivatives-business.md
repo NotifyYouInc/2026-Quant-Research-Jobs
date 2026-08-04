@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cboe](https://scoutify.ai/companies/cboe?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Senior-Analyst--Pricing---Data-Analytics-Global-Derivatives-Business_R-4540) |
 
 ## About This Role
 
-This quant research position at Cboe was posted on 2026-07-23.
+This data analyst position at Cboe was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

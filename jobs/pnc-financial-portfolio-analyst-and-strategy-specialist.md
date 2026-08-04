@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 6 locations |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Portfolio-Analyst-and-Strategy-Specialist_R229622-2) |
 
 ## About This Role
 
-This quant research position at PNC Financial was posted on 2026-07-22.
+This asset management / portfolio management position at PNC Financial was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

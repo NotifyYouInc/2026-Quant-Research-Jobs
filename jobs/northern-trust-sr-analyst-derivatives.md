@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Sr-Analyst--Derivatives_R158351-1) |
 
 ## About This Role
 
-This quant research position at Northern Trust was posted on 2026-07-22.
+This corporate finance position at Northern Trust was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Credit-Quantitative-Analyst--Investment-Professional_099379) |
 
 ## About This Role
 
-This quant research position at Nationwide was posted on 2026-07-23.
+This asset management / portfolio management position at Nationwide was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

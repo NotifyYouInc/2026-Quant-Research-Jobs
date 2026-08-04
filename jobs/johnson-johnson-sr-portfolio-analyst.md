@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 5 locations |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-07-07 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Sr-Portfolio-Analyst_R-085630) |
 
 ## About This Role
 
-This quant research position at Johnson & Johnson was posted on 2026-07-07.
+This business analyst position at Johnson & Johnson was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

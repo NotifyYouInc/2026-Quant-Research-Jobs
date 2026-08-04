@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---New-York/Sr-Quant-Product-Manager_R11522-1) |
 
 ## About This Role
 
-This quant research position at Clearwateranalytics was posted on 2026-07-13.
+This business analyst position at Clearwateranalytics was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

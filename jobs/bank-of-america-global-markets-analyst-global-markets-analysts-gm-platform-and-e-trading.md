@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Sales & Trading |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Global-Markets-Analyst---Global-Markets-Analysts---GM-PLATFORM-AND-E-TRADING_26025239) |
 
 ## About This Role
 
-This quant research position at Bank of America was posted on 2026-07-21.
+This sales & trading position at Bank of America was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

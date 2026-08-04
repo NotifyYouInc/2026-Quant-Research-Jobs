@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Superior, Wisconsin, United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/1000-South-McCaslin-Blvd-Superior-CO/Analyst--Portfolio-Management--Support-Key-s-Equipment-Finance-Portfolio-Monitoring-Group-and-Underwriting-Group-_R-40895) |
 
 ## About This Role
 
-This quant research position at KeyBank was posted on 2026-07-24.
+This asset management / portfolio management position at KeyBank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

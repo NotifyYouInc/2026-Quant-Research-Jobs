@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Portfolio-Management--Analyst_R0441937) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-14.
+This asset management / portfolio management position at Deutsche Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

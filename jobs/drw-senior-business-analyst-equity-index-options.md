@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8079536) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-07-24.
+This business analyst position at DRW was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

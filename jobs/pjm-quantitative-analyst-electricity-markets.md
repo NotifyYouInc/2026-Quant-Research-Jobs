@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pjm](https://scoutify.ai/companies/pjm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Audubon, New Jersey, United States |
-| Category | Quant Research |
+| Category | Data Scientist |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Quantitative-Analyst--Electricity-Markets_REQ-2026-4208) |
 
 ## About This Role
 
-This quant research position at Pjm was posted on 2026-07-21.
+This data scientist position at Pjm was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

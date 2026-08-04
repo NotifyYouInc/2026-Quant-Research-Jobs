@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Quant Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-10 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768512) |
 
 ## About This Role
 
-This quant research position at JPMorgan Chase was posted on 2026-07-10.
+This machine learning engineer position at JPMorgan Chase was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

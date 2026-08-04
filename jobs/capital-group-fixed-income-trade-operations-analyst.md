@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/London/Fixed-Income-Trade-Operations-Analyst_JR6908-1) |
 
 ## About This Role
 
-This data analyst position at Capital Group was posted on 2026-07-13.
+This asset management / portfolio management position at Capital Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

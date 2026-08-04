@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banz Capital](https://scoutify.ai/companies/banzcapital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2018-06-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BanzCapital/743999672107919-quantitative-analyst-engineer) |
 
 ## About This Role
 
-This quant research position at Banz Capital was posted on 2018-06-15.
+This quant developer position at Banz Capital was posted on 2018-06-15.
 
 ## Get Real-Time Alerts
 

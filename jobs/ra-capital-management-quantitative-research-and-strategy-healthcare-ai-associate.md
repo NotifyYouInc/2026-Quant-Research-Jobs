@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RA Capital Management](https://scoutify.ai/companies/racapitalmanagementllc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Quant Research |
+| Category | Data Scientist |
 | Posted | 2026-06-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/5192268008) |
 
 ## About This Role
 
-This quant research position at RA Capital Management was posted on 2026-06-02.
+This data scientist position at RA Capital Management was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
