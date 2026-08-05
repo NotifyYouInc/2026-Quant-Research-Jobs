@@ -1,16 +1,16 @@
-# Desk Strategist – Metals & Mining: North America Equities at Jefferies
+# 2027 Summer Intern, Investment Global Macro  at DFO Referrals
 
 | Field | Details |
 |-------|---------|
-| Company | [Jefferies](https://scoutify.ai/companies/us2-cx-oj59972?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [DFO Referrals](https://scoutify.ai/companies/dfo-referrals?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales & Trading |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://hdid.fa.us2.oraclecloud.com/jobs/#4380) |
+| Category | Quant Research |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dforeferrals/jobs/6127933004) |
 
 ## About This Role
 
-This sales & trading position at Jefferies was posted on 2026-05-27.
+This quant research position at DFO Referrals was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

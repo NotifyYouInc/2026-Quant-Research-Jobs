@@ -1,16 +1,16 @@
-# Desk Strategist – Metals & Mining: North America Equities at Jefferies
+# CIB Markets Fixed Income, Analyst at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Jefferies](https://scoutify.ai/companies/us2-cx-oj59972?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
 | Category | Sales & Trading |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://hdid.fa.us2.oraclecloud.com/jobs/#4380) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Markets-Fixed-Income--Analyst_Req1596371) |
 
 ## About This Role
 
-This sales & trading position at Jefferies was posted on 2026-05-27.
+This sales & trading position at Santander was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

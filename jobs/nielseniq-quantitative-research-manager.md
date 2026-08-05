@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Karachi, Sindh, Pakistan |
-| Category | UX Researcher |
+| Category | Data Scientist |
 | Posted | 2026-07-17 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138298529-quantitative-research-manager) |
 
 ## About This Role
 
-This ux researcher position at NielsenIQ was posted on 2026-07-17.
+This data scientist position at NielsenIQ was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Core One](https://scoutify.ai/companies/core-one?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-07-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/coreone/jobs/8638308002) |
 
 ## About This Role
 
-This data analyst position at Core One was posted on 2026-07-17.
+This data scientist position at Core One was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

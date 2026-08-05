@@ -1,16 +1,16 @@
-# Senior Research Portfolio Administrator at Harvard University
+# Quantitative Analyst (Putnam) at QS Investors
 
 | Field | Details |
 |-------|---------|
-| Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Quant Research |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014240386-senior-research-portfolio-administrator) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Boston-Massachusetts-United-States-of-America/Risk-Analyst--Putnam-_867788) |
 
 ## About This Role
 
-This quant research position at Harvard University was posted on 2026-07-23.
+This quant research position at QS Investors was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

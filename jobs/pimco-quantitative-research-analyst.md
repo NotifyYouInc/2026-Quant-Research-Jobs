@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Newport Beach, California, United States |
 | Category | Quant Research |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106487) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst_R106562) |
 
 ## About This Role
 
-This quant research position at PIMCO was posted on 2026-06-19.
+This quant research position at PIMCO was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

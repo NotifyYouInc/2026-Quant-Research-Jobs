@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 3 locations |
-| Category | Quant Developer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Model-Analyst-2_2026-0013756-1) |
+| Location | 4 locations |
+| Category | Quant Research |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Quantitative-Model-Analyst-2_2026-0014257) |
 
 ## About This Role
 
-This quant developer position at U.S. Bank was posted on 2026-05-21.
+This quant research position at U.S. Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

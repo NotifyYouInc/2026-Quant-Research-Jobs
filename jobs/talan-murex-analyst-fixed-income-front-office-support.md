@@ -1,16 +1,16 @@
-# Desk Strategist – Metals & Mining: North America Equities at Jefferies
+# Murex Analyst - Fixed Income - Front Office Support at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [Jefferies](https://scoutify.ai/companies/us2-cx-oj59972?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales & Trading |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://hdid.fa.us2.oraclecloud.com/jobs/#4380) |
+| Category | Quant Research |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140255189-murex-analyst-fixed-income-front-office-support) |
 
 ## About This Role
 
-This sales & trading position at Jefferies was posted on 2026-05-27.
+This quant research position at Talan was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

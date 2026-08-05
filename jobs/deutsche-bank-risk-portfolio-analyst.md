@@ -1,16 +1,16 @@
-# Risk Methodology Senior Specialist (f/m/x) at Deutsche Bank
+# Risk Portfolio Analyst at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Quant Research |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Otto-Suhr-Allee-16/Risk-Methodology-Senior-Specialist--f-m-x-_R0439822-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Risk-Portfolio-Analyst_R0431742-1) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-29.
+This asset management / portfolio management position at Deutsche Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

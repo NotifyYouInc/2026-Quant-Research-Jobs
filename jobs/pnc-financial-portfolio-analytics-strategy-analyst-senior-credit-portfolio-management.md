@@ -1,16 +1,16 @@
-# Portfolio Analyst and Strategy Specialist at PNC Financial
+# Portfolio Analytics & Strategy Analyst Senior - Credit Portfolio Management at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 6 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Portfolio-Analyst-and-Strategy-Specialist_R229622-2) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Credit-Portfolio-Management_R230867-2) |
 
 ## About This Role
 
-This strategy & operations position at PNC Financial was posted on 2026-07-22.
+This strategy & operations position at PNC Financial was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

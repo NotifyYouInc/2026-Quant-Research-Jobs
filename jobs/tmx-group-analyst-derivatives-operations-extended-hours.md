@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Data Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Analyst--Derivatives-Operations---Extended-Hours_R-6270) |
 
 ## About This Role
 
-This data analyst position at TMX Group was posted on 2026-07-22.
+This corporate finance position at TMX Group was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
