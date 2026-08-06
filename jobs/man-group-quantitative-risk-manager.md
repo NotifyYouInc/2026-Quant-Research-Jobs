@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-07-08 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4922234101) |
 
 ## About This Role
 
-This compliance & risk management position at Man Group was posted on 2026-07-08.
+This quant research position at Man Group was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

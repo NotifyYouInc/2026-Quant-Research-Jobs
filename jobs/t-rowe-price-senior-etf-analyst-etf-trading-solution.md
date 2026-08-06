@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Baltimore, Maryland, United States |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-07-16 |
 | Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-ETF-Analyst---ETF-Trading-Solution_82617) |
 
 ## About This Role
 
-This quant developer position at T. Rowe Price was posted on 2026-07-16.
+This quant research position at T. Rowe Price was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

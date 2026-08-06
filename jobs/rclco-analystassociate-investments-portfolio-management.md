@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RCLCO](https://scoutify.ai/companies/rclco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/rclco/jobs/6774491) |
 
 ## About This Role
 
-This asset management / portfolio management position at RCLCO was posted on 2026-06-24.
+This quant research position at RCLCO was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

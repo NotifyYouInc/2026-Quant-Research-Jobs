@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-07-10 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alpha-Account-Services-Data-Analyst--Officer_R-793988) |
 
 ## About This Role
 
-This data analyst position at State Street was posted on 2026-07-10.
+This quant research position at State Street was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

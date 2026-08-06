@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Sales |
+| Category | Quant Research |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137648449-senior-quantitative-sales-executive-consumer-research) |
 
 ## About This Role
 
-This sales position at NielsenIQ was posted on 2026-07-14.
+This quant research position at NielsenIQ was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

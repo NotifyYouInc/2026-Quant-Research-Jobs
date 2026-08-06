@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rock Bund Capital](https://scoutify.ai/companies/rockbund?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Sales & Trading |
+| Category | Quant Research |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/rockbund/jobs/4864296101) |
 
 ## About This Role
 
-This sales & trading position at Rock Bund Capital was posted on 2026-06-15.
+This quant research position at Rock Bund Capital was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

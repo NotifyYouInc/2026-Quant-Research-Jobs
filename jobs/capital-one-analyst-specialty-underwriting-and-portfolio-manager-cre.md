@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-10 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Analyst--Specialty-Underwriting-and-Portfolio-Manager---CRE_R246300-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Capital One was posted on 2026-07-10.
+This quant research position at Capital One was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

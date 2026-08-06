@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Asset Management / Portfolio Management |
+| Category | Product Manager |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Vice-President--Product-Strategist---Global-Fixed-Income_R265436) |
 
 ## About This Role
 
-This asset management / portfolio management position at Blackrock was posted on 2026-07-27.
+This product manager position at Blackrock was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

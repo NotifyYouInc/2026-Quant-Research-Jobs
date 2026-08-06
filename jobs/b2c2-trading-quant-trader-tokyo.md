@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [B2C2](https://scoutify.ai/companies/b2c2?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Sales & Trading |
+| Category | Quant Research |
 | Posted | 2026-05-05 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/b2c2/jobs/4846456101) |
 
 ## About This Role
 
-This sales & trading position at B2C2 was posted on 2026-05-05.
+This quant research position at B2C2 was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Repsol](https://scoutify.ai/companies/repsol?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-07-17 |
 | Apply | [View on company site](https://repsol.wd3.myworkdayjobs.com/ref_ext/job/Campus-Repsol-Madrid/LNG-Trading-Analyst_83574-1) |
 
 ## About This Role
 
-This data analyst position at Repsol was posted on 2026-07-17.
+This quant research position at Repsol was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

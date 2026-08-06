@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ipsos](https://scoutify.ai/companies/em2-cx-oj54720?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bulgaria |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-05-18 |
 | Apply | [View on company site](https://ecqf.fa.em2.oraclecloud.com/jobs/#8622) |
 
 ## About This Role
 
-This data analyst position at Ipsos was posted on 2026-05-18.
+This quant research position at Ipsos was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

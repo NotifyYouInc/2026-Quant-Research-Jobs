@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-West/Investment-Portfolio-Operations-Analyst_R_347607-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Marsh & McLennan Companies was posted on 2026-07-23.
+This quant research position at Marsh & McLennan Companies was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

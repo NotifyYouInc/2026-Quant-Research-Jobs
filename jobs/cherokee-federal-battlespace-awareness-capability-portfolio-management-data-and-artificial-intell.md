@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cherokee Federal](https://scoutify.ai/companies/ocs-cx-oj21208?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-07 |
 | Apply | [View on company site](https://ibtcjb.fa.ocs.oraclecloud.com/jobs/#42959) |
 
 ## About This Role
 
-This asset management / portfolio management position at Cherokee Federal was posted on 2026-07-07.
+This quant research position at Cherokee Federal was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

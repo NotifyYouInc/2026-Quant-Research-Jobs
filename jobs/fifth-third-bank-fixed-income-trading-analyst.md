@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales & Trading |
+| Category | Quant Research |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/New-York-NY/Fixed-Income-Trading-Analyst_R71008) |
 
 ## About This Role
 
-This sales & trading position at Fifth Third Bank was posted on 2026-07-24.
+This quant research position at Fifth Third Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

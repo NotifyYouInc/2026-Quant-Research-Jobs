@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Asia, Western Visayas, Philippines |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://jobs.lever.co/binance/e92d8b5f-0f0a-4569-884f-4f45c8ad024c) |
 
 ## About This Role
 
-This data analyst position at Binance was posted on 2026-07-21.
+This quant research position at Binance was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

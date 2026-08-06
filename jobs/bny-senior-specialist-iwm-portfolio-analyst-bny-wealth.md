@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79873) |
 
 ## About This Role
 
-This asset management / portfolio management position at BNY was posted on 2026-07-22.
+This quant research position at BNY was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

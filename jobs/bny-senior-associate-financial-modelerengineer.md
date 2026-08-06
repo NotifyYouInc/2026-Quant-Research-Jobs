@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Manchester, England, United Kingdom |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-03-25 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#70279) |
 
 ## About This Role
 
-This corporate finance position at BNY was posted on 2026-03-25.
+This quant research position at BNY was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

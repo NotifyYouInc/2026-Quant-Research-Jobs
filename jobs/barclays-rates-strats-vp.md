@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-07-01 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Rates-Strats-VP_JR-0000113841) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-07-01.
+This quant research position at Barclays was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

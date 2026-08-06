@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Singapore/LNG-Trading-Analyst-Intern_R0087696) |
 
 ## About This Role
 
-This data analyst position at Centrica was posted on 2026-07-24.
+This quant research position at Centrica was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

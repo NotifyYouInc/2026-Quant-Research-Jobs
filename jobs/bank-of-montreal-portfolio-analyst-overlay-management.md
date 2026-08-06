@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Portfolio-Analyst--Overlay-Management_R260021356) |
 
 ## About This Role
 
-This asset management / portfolio management position at Bank of Montreal was posted on 2026-07-20.
+This quant research position at Bank of Montreal was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

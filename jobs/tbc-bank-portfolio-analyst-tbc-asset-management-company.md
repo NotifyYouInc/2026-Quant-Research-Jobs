@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Tbilisi, Tbilisi, Georgia |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000137499489-portfolio-analyst-tbc-asset-management-company) |
 
 ## About This Role
 
-This asset management / portfolio management position at TBC Bank was posted on 2026-07-13.
+This quant research position at TBC Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

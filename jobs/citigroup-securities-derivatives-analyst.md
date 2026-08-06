@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Treasury & Capital Markets |
+| Category | Quant Research |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26976982) |
 
 ## About This Role
 
-This treasury & capital markets position at Citigroup was posted on 2026-07-15.
+This quant research position at Citigroup was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

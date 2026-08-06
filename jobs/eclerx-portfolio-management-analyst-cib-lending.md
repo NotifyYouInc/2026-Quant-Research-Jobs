@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83867) |
 
 ## About This Role
 
-This asset management / portfolio management position at eClerx was posted on 2026-06-23.
+This quant research position at eClerx was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PGIM](https://scoutify.ai/companies/pgim?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 5 locations |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-19 |
 | Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634) |
 
 ## About This Role
 
-This asset management / portfolio management position at PGIM was posted on 2026-07-19.
+This quant research position at PGIM was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

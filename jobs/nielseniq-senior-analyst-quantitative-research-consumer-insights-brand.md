@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138791550-senior-analyst-quantitative-research-consumer-insights-brand) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-21.
+This quant research position at NielsenIQ was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

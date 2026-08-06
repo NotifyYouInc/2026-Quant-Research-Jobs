@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coppel](https://scoutify.ai/companies/ocs-cx-oj24460?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#252052) |
 
 ## About This Role
 
-This corporate finance position at Coppel was posted on 2026-02-06.
+This quant research position at Coppel was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

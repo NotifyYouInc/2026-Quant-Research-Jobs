@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768128) |
 
 ## About This Role
 
-This data analyst position at JPMorgan Chase was posted on 2026-07-13.
+This quant research position at JPMorgan Chase was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

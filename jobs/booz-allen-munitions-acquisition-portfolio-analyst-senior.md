@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-17 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Munitions-Acquisition-Portfolio-Analyst--Senior_R0244761) |
 
 ## About This Role
 
-This asset management / portfolio management position at Booz Allen was posted on 2026-07-17.
+This quant research position at Booz Allen was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

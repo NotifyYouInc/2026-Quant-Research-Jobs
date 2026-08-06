@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 6 locations |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Credit-Risk-Model-Development-Quantitative-Analyst-II---Consumer-Portfolio--Hybrid---see-job-description-for-potential-work-locations-_R88165) |
 
 ## About This Role
 
-This asset management / portfolio management position at M&T Bank was posted on 2026-07-27.
+This quant research position at M&T Bank was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

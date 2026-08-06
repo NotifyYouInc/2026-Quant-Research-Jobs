@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grupo Oricteropo Tropical](https://scoutify.ai/companies/gotropical?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | United States |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gotropical/jobs/5151586007) |
 
 ## About This Role
 
-This quant developer position at Grupo Oricteropo Tropical was posted on 2026-06-03.
+This quant research position at Grupo Oricteropo Tropical was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

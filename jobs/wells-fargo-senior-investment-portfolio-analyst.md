@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Investment-Portfolio-Analyst_R-559338-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Wells Fargo was posted on 2026-07-27.
+This quant research position at Wells Fargo was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

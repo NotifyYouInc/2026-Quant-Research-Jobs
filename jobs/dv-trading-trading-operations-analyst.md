@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales & Trading |
+| Category | Quant Research |
 | Posted | 2026-07-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4713581005) |
 
 ## About This Role
 
-This sales & trading position at DV Trading was posted on 2026-07-09.
+This quant research position at DV Trading was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

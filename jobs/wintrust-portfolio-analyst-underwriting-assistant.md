@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Menomonee Falls, Wisconsin, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Portfolio-Analyst---Underwriting-Assistant_261410) |
 
 ## About This Role
 
-This asset management / portfolio management position at Wintrust was posted on 2026-07-28.
+This quant research position at Wintrust was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

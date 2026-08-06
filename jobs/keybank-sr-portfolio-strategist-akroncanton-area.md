@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Canton, Michigan, United States |
-| Category | Wealth Management / Private Banking |
+| Category | Quant Research |
 | Posted | 2026-07-16 |
 | Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Canton-OH/Sr-Portfolio-Strategist--Akron-Canton-Area_R-41021) |
 
 ## About This Role
 
-This wealth management / private banking position at KeyBank was posted on 2026-07-16.
+This quant research position at KeyBank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

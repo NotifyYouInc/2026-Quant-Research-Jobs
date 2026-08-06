@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Wealth Management / Private Banking |
+| Category | Product Manager |
 | Posted | 2026-07-10 |
 | Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Product-Analyst--Digital-Assets---Wealth-Management---Trading-Solutions--Hybrid---NYC-_JR1084118) |
 
 ## About This Role
 
-This wealth management / private banking position at Broadridge was posted on 2026-07-10.
+This product manager position at Broadridge was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

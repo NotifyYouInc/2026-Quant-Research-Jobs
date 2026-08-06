@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CBIZ](https://scoutify.ai/companies/us2-cx-oj18566?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Memphis, Tennessee, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-06 |
 | Apply | [View on company site](https://ebez.fa.us2.oraclecloud.com/jobs/#5894) |
 
 ## About This Role
 
-This asset management / portfolio management position at CBIZ was posted on 2026-07-06.
+This quant research position at CBIZ was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

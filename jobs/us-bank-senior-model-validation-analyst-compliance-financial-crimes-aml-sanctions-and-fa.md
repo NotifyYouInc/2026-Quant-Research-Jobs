@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 4 locations |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-07-11 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-Model-Validation-Analyst---Compliance---Financial-Crimes--AML--Sanctions-and-Fair-Lending-_2026-0020172-1) |
 
 ## About This Role
 
-This compliance & risk management position at U.S. Bank was posted on 2026-07-11.
+This quant research position at U.S. Bank was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
