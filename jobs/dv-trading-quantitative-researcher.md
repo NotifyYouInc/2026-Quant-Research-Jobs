@@ -1,16 +1,16 @@
-# Capital Quantitative Strategist at Deutsche Bank
+# Quantitative Researcher at DV Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Singapore, Singapore |
 | Category | Quant Research |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Capital-Quantitative-Strategist_R0440000-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4718028005) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-30.
+This quant research position at DV Trading was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

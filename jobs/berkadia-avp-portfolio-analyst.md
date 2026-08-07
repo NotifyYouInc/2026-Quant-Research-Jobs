@@ -1,16 +1,16 @@
-# Capital Quantitative Strategist at Deutsche Bank
+# AVP - Portfolio Analyst at Berkadia
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Berkadia](https://scoutify.ai/companies/berkadia?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Ambler, Pennsylvania, United States |
 | Category | Quant Research |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Capital-Quantitative-Strategist_R0440000-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/berkadia/jobs/7813886003?gh_jid=7813886003) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-30.
+This quant research position at Berkadia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

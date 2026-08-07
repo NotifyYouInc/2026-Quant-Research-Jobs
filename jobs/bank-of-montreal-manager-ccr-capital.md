@@ -1,16 +1,16 @@
-# Capital Quantitative Strategist at Deutsche Bank
+# Manager, CCR Capital at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Quant Research |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Capital-Quantitative-Strategist_R0440000-1) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--CCR-Capital_R260021640) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-30.
+This quant research position at Bank of Montreal was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
