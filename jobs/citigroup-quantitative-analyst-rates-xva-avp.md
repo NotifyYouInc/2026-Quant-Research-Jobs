@@ -1,16 +1,16 @@
-# Sr Business Associate - Equity and Global Macro Strategy Research (Vice President) at Citigroup
+# Quantitative Analyst - Rates XVA, AVP at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
-| Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Sr-Business-Associate---Equity-and-Global-Macro-Strategy-Research--Vice-President-_26980112) |
+| Location | New York City, New York, United States |
+| Category | Quant Research |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst---Rates-XVA--AVP_26970983-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-07-21.
+This quant research position at Citigroup was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

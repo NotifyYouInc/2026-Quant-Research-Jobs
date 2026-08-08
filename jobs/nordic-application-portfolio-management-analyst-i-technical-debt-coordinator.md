@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nordic](https://scoutify.ai/companies/nordic?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mexico |
-| Category | Quant Research |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/Mexico/Application-Portfolio-Management-Analyst-I---Technical-Debt-Coordinator_R5788) |
 
 ## About This Role
 
-This quant research position at Nordic was posted on 2026-07-20.
+This it & systems administration position at Nordic was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Modelling---Forecasting-Senior-Analyst--Quants-_R_1495453) |
+| Category | Quant Research |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Modelling---Forecasting-Senior-Analyst--Quants--1_R_1501354) |
 
 ## About This Role
 
-This data analyst position at TD Bank was posted on 2026-06-19.
+This quant research position at TD Bank was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

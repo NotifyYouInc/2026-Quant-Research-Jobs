@@ -1,16 +1,16 @@
-# Quantitative Analytics Development Program Analyst/Associate at PNC Financial
+# Portfolio Analytics & Strategy Analyst Senior - Retail Banking at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Leadership Development Program |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Development-Program-Analyst-Associate_R196778) |
+| Location | 3 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Retail-Banking_R231248-1) |
 
 ## About This Role
 
-This leadership development program position at PNC Financial was posted on 2026-07-22.
+This strategy & operations position at PNC Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
