@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Sales & Trading |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Markets-Fixed-Income--Analyst_Req1596371) |
 
 ## About This Role
 
-This quant research position at Santander was posted on 2026-07-28.
+This sales & trading position at Santander was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

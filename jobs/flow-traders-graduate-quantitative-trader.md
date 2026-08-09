@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Sales & Trading |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) |
 
 ## About This Role
 
-This quant research position at Flow Traders was posted on 2026-07-29.
+This sales & trading position at Flow Traders was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

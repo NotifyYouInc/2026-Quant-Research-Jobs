@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jefferies](https://scoutify.ai/companies/us2-cx-oj59972?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Sales & Trading |
 | Posted | 2026-05-27 |
 | Apply | [View on company site](https://hdid.fa.us2.oraclecloud.com/jobs/#4380) |
 
 ## About This Role
 
-This quant research position at Jefferies was posted on 2026-05-27.
+This sales & trading position at Jefferies was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
