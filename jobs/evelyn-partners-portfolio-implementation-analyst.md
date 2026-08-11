@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evelyn Partners](https://scoutify.ai/companies/evelynpartners?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bristol, England, United Kingdom |
-| Category | Quant Research |
+| Category | Customer Success |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000138839589-portfolio-implementation-analyst) |
 
 ## About This Role
 
-This quant research position at Evelyn Partners was posted on 2026-07-21.
+This customer success position at Evelyn Partners was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

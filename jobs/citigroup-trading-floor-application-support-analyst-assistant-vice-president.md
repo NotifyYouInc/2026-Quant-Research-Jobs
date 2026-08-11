@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Quant Research |
+| Category | Customer Success |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Trading-Floor-Application-Support-Analyst---Assistant-Vice-President_26980571) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-27.
+This customer success position at Citigroup was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

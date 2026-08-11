@@ -1,16 +1,16 @@
-# Treasury Finance AI and Quantitative Analytics, Americas at Stripe
+# Quant Associate at Blackrock
 
 | Field | Details |
 |-------|---------|
-| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8079132) |
+| Category | Quant Research |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Quant-Associate_R265915) |
 
 ## About This Role
 
-This ai / llm engineer position at Stripe was posted on 2026-07-24.
+This quant research position at Blackrock was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

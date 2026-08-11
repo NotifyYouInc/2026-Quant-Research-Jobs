@@ -1,16 +1,16 @@
-# Repo Trading Support Analyst at Bank of Montreal
+# Analyst, Trading Operations at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Repo-Trading-Support-Analyst_R260017121) |
+| Category | Quant Research |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Trading-Operations_R260022740) |
 
 ## About This Role
 
-This customer success position at Bank of Montreal was posted on 2026-07-14.
+This quant research position at Bank of Montreal was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
