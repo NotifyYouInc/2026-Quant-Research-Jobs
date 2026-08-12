@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [enercity](https://scoutify.ai/companies/enercity?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Analyst-in-Regulatory-Affairs-Energy-Trading_J2026412-1) |
 
 ## About This Role
 
-This quant research position at enercity was posted on 2026-07-28.
+This compliance & risk management position at enercity was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

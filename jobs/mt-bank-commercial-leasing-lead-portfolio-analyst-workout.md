@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bridgeport, Connecticut, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Bridgeport-CT/Commercial-Leasing-Lead-Portfolio-Analyst_R88658-1) |
 
 ## About This Role
 
-This quant research position at M&T Bank was posted on 2026-07-28.
+This corporate finance position at M&T Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

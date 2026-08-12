@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Investpsp](https://scoutify.ai/companies/investpsp?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Analyst--Portfolio-Management-and-Operations--Temporary---12-months-_R4882) |
 
 ## About This Role
 
-This quant research position at Investpsp was posted on 2026-07-24.
+This data analyst position at Investpsp was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

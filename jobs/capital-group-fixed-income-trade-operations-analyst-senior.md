@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/London/Fixed-Income-Trade-Operations-Analyst-Senior_JR6907-1) |
 
 ## About This Role
 
-This quant research position at Capital Group was posted on 2026-07-13.
+This data analyst position at Capital Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

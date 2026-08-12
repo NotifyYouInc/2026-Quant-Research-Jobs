@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mesirow](https://scoutify.ai/companies/recruiting2-ultipro-com-oj69019?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=8da3a29e-ec8c-41b5-840a-738bda7848c9) |
 
 ## About This Role
 
-This quant research position at Mesirow was posted on 2026-07-22.
+This data analyst position at Mesirow was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

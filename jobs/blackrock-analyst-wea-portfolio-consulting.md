@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-08 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Analyst--WEA-Portfolio-Consulting_R265023) |
 
 ## About This Role
 
-This quant research position at Blackrock was posted on 2026-07-08.
+This corporate finance position at Blackrock was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dublin-Leinster/FOO-Analyst-I--ETF---Index-Equity-EMEA_R-14719) |
 
 ## About This Role
 
-This quant research position at Invesco was posted on 2026-07-31.
+This corporate finance position at Invesco was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

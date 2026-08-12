@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hong Kong Exchanges & Clearing](https://scoutify.ai/companies/hong-kong-exchanges-clearing?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://hkex.wd3.myworkdayjobs.com/hkexcareerpage/job/HK-ONE-ES-24F/Assistant-Vice-President--Market-Risk-Management_R004183) |
 
 ## About This Role
 
-This quant research position at Hong Kong Exchanges & Clearing was posted on 2026-07-15.
+This compliance & risk management position at Hong Kong Exchanges & Clearing was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

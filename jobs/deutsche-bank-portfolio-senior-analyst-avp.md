@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Portfolio-Senior-Analyst---AVP_R0442640-1) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-15.
+This corporate finance position at Deutsche Bank was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

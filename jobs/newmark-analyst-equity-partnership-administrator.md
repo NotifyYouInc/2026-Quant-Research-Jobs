@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Newmark](https://scoutify.ai/companies/us6-cx-oj75140?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Jacksonville, Florida, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-02-21 |
 | Apply | [View on company site](https://hdow.fa.us6.oraclecloud.com/jobs/#247623) |
 
 ## About This Role
 
-This quant research position at Newmark was posted on 2026-02-21.
+This corporate finance position at Newmark was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

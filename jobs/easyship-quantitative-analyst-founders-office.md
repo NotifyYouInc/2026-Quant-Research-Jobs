@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Easyship](https://scoutify.ai/companies/easyship?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Milan, Lombardy, Italy |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://boards.greenhouse.io/easyship/jobs/4697171006?gh_jid=4697171006) |
 
 ## About This Role
 
-This quant research position at Easyship was posted on 2026-07-15.
+This data analyst position at Easyship was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

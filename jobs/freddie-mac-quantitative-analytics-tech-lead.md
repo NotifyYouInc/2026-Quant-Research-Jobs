@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Quant Research |
+| Category | Software Engineer |
 | Posted | 2026-07-08 |
 | Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Tech-Lead_JR17333) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-07-08.
+This software engineer position at Freddie Mac was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

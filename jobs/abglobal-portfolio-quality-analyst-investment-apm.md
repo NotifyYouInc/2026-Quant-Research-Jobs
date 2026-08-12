@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Product Manager |
+| Category | QA Engineer |
 | Posted | 2026-07-09 |
 | Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Pune-India/Portfolio-Quality-Analyst---Investment-APM_R0017103) |
 
 ## About This Role
 
-This product manager position at Abglobal was posted on 2026-07-09.
+This qa engineer position at Abglobal was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

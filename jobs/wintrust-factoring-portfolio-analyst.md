@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Chicago-IL/Factoring-Portfolio-Analyst_261436) |
 
 ## About This Role
 
-This quant research position at Wintrust was posted on 2026-07-29.
+This corporate finance position at Wintrust was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

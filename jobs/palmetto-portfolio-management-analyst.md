@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5324645008) |
 
 ## About This Role
 
-This quant research position at Palmetto was posted on 2026-07-13.
+This corporate finance position at Palmetto was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

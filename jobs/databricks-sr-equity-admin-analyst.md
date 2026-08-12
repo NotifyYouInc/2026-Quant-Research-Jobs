@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8570001002) |
 
 ## About This Role
 
-This quant research position at Databricks was posted on 2026-07-15.
+This corporate finance position at Databricks was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

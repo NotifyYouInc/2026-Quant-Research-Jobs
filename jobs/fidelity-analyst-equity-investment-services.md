@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Analyst--Equity-Investment-Services_2131193) |
 
 ## About This Role
 
-This quant research position at Fidelity was posted on 2026-07-21.
+This data analyst position at Fidelity was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

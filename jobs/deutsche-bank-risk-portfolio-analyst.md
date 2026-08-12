@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Risk-Portfolio-Analyst_R0431742-1) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-28.
+This corporate finance position at Deutsche Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

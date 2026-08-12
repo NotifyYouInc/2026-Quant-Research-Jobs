@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
-| Category | Quant Research |
+| Category | Investment Banking |
 | Posted | 2026-07-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000138465639-senior-equity-research-analyst-ai) |
 
 ## About This Role
 
-This quant research position at Versant was posted on 2026-07-19.
+This investment banking position at Versant was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

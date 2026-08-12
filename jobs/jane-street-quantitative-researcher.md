@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Quant Research |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8623868002) |
 
 ## About This Role
 
-This quant research position at Jane Street was posted on 2026-07-06.
+This quant research position at Jane Street was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

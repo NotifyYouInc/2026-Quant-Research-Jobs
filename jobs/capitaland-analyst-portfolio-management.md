@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capitaland](https://scoutify.ai/companies/capitaland?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://capitaland.wd3.myworkdayjobs.com/capitalandgroup/job/Singapore-Central-Singapore/Analyst--Portfolio-Management_JR004816-2) |
 
 ## About This Role
 
-This quant research position at Capitaland was posted on 2026-07-21.
+This corporate finance position at Capitaland was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4815419101) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4933777101) |
 
 ## About This Role
 
-This corporate finance position at Man Group was posted on 2026-03-18.
+This corporate finance position at Man Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

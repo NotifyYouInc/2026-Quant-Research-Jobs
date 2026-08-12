@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ugam](https://scoutify.ai/companies/ugamsolutions1?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2019-08-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/UgamSolutions1/743999692656155-onsite-analyst-business-analytics-sql-r-python-quant) |
 
 ## About This Role
 
-This quant research position at Ugam was posted on 2019-08-01.
+This data analyst position at Ugam was posted on 2019-08-01.
 
 ## Get Real-Time Alerts
 

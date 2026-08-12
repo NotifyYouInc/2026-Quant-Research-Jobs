@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | UX Researcher |
 | Posted | 2026-07-17 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Institutional-Equity--MSET-Quantitative-Research---Client-Analytics_JR040144) |
 
 ## About This Role
 
-This quant research position at Morgan Stanley was posted on 2026-07-17.
+This ux researcher position at Morgan Stanley was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
