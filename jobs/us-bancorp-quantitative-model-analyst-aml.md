@@ -1,16 +1,16 @@
-# FX & Derivatives Sales Analyst at U.S. Bancorp
+# Quantitative Model Analyst - AML at U.S. Bancorp
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/FX---Derivatives-Sales-Analyst_2026-0021967) |
+| Location | 5 locations |
+| Category | Quant Research |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Quantitative-Model-Analyst---AML_2026-0023207) |
 
 ## About This Role
 
-This data analyst position at U.S. Bancorp was posted on 2026-07-23.
+This quant research position at U.S. Bancorp was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

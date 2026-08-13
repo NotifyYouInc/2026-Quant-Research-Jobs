@@ -1,12 +1,12 @@
-# AI and Trading Analytics Researcher, AVP at State Street
+# eFX Quant Analyst - VP at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--AVP_R-795656-1) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/eFX-Quant-Analyst---VP_R-795646-1) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Quantitative and Qualitative Analyst SME/ORSA at Core One
+# Junior Trading Operations Analyst  at DV Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Core One](https://scoutify.ai/companies/core-one?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Tampa, Florida, United States |
+| Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/coreone/jobs/8638308002) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005) |
 
 ## About This Role
 
-This data analyst position at Core One was posted on 2026-07-17.
+This data analyst position at DV Trading was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

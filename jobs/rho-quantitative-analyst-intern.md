@@ -1,16 +1,16 @@
-# FX & Derivatives Sales Analyst at U.S. Bancorp
+# Quantitative Analyst Intern at Rho
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Rho](https://scoutify.ai/companies/rho?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/FX---Derivatives-Sales-Analyst_2026-0021967) |
+| Category | Data Scientist |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf) |
 
 ## About This Role
 
-This data analyst position at U.S. Bancorp was posted on 2026-07-23.
+This data scientist position at Rho was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

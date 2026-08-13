@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Midpoint Markets](https://scoutify.ai/companies/midpointmarkets?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2026-04-30 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/midpointmarkets/jobs/4955615008) |
 
 ## About This Role
 
-This quant research position at Midpoint Markets was posted on 2026-04-30.
+This quant developer position at Midpoint Markets was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

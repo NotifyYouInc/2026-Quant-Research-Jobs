@@ -5,12 +5,12 @@
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Venture Capital / Private Equity |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_869086) |
 
 ## About This Role
 
-This venture capital / private equity position at Franklin Templeton was posted on 2026-02-23.
+This venture capital / private equity position at Franklin Templeton was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

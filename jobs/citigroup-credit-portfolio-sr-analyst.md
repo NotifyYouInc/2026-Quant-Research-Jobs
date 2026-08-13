@@ -1,16 +1,16 @@
-# Markets – Sales and Trading, Summer Analyst, Singapore - 2027 at Citigroup
+# Credit Portfolio Sr Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Singapore, Singapore |
-| Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Markets---Sales-and-Trading--Summer-Analyst--Singapore---2027_26978287) |
+| Location | New York City, New York, United States |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Credit-Portfolio-Sr-Analyst_26979274) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-10.
+This compliance & risk management position at Citigroup was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

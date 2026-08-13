@@ -1,16 +1,16 @@
-# Portfolio Analyst at Man Group
+# Assistant Portfolio Manager at WorldQuant
 
 | Field | Details |
 |-------|---------|
-| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Singapore, Singapore |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4943310101) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4702147006) |
 
 ## About This Role
 
-This asset management / portfolio management position at Man Group was posted on 2026-08-05.
+This asset management / portfolio management position at WorldQuant was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

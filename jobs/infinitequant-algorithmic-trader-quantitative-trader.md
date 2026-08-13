@@ -1,16 +1,16 @@
-# Algo Strategy Developer / Quantitative Trader at InfiniteQuant
+# Algorithmic Trader / Quantitative Trader at InfiniteQuant
 
 | Field | Details |
 |-------|---------|
 | Company | [InfiniteQuant](https://scoutify.ai/companies/infinitequant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Quant Developer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000138723229-algo-strategy-developer-quantitative-trader) |
+| Category | Quant Research |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000141735949-algorithmic-trader-quantitative-trader) |
 
 ## About This Role
 
-This quant developer position at InfiniteQuant was posted on 2026-07-20.
+This quant research position at InfiniteQuant was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

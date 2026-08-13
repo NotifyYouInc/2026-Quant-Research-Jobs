@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citco](https://scoutify.ai/companies/ocs-cx-oj22087?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Philippines |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-07-06 |
 | Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#17401) |
 
 ## About This Role
 
-This data engineer position at Citco was posted on 2026-07-06.
+This data analyst position at Citco was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
