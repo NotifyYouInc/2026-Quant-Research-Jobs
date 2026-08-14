@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Menomonee Falls, Wisconsin, United States |
-| Category | Corporate Finance |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Portfolio-Analyst_261307-1) |
 
 ## About This Role
 
-This corporate finance position at Wintrust was posted on 2026-07-14.
+This asset management / portfolio management position at Wintrust was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

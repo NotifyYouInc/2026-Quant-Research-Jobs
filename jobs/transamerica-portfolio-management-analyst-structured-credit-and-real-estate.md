@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Corporate Finance |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Portfolio-Management-Analyst--Structured-Credit-and-Real-Estate_R20061982) |
 
 ## About This Role
 
-This corporate finance position at Transamerica was posted on 2026-07-28.
+This asset management / portfolio management position at Transamerica was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-05-12 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#76635) |
 
 ## About This Role
 
-This corporate finance position at BNY was posted on 2026-05-12.
+This asset management / portfolio management position at BNY was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

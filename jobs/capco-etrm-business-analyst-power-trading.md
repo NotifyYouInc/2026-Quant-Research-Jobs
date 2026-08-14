@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7918890) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8110275) |
 
 ## About This Role
 
-This business analyst position at Capco was posted on 2026-05-15.
+This business analyst position at Capco was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

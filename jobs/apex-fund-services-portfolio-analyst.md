@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Valencia, Valencia, Spain |
-| Category | Corporate Finance |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Valencia/Portfolio-Analyst_JR-0025206) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-07-27.
+This asset management / portfolio management position at Apex Fund Services was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

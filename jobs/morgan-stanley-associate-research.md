@@ -1,16 +1,16 @@
-# Associate, Research at Morgan Stanley
+# Associate Research at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Research_JR027327-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate-Research_JR033708) |
 
 ## About This Role
 
-This quant research position at Morgan Stanley was posted on 2026-05-05.
+This quant research position at Morgan Stanley was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

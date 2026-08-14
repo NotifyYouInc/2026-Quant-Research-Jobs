@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dublin-Leinster/FOO-Analyst-I--ETF---Index-Equity-EMEA_R-14719) |
 
 ## About This Role
 
-This corporate finance position at Invesco was posted on 2026-07-31.
+This asset management / portfolio management position at Invesco was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

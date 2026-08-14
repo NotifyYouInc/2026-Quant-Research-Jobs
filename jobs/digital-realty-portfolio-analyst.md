@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Digital Realty](https://scoutify.ai/companies/us2-cx-oj30015?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Japan |
-| Category | Corporate Finance |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-05-04 |
 | Apply | [View on company site](https://hdep.fa.us2.oraclecloud.com/jobs/#7853) |
 
 ## About This Role
 
-This corporate finance position at Digital Realty was posted on 2026-05-04.
+This asset management / portfolio management position at Digital Realty was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

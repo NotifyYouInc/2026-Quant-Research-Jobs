@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
-| Category | Strategy & Operations |
+| Category | Sales & Trading |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Strategic-Equity-Solutions-Analyst-I--Cuauhtmoc--Ciudad-de-Mxico-_JR00110106) |
 
 ## About This Role
 
-This strategy & operations position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-04.
+This sales & trading position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

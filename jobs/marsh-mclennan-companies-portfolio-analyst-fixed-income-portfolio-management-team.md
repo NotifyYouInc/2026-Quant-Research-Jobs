@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-West/Portfolio-Analyst---Fixed-Income--Portfolio-Management-Team_R_358994) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-08-05.
+This asset management / portfolio management position at Marsh & McLennan Companies was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

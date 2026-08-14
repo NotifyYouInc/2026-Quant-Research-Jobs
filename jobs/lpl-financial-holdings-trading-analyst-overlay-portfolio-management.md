@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Trading-Analyst--Overlay-Portfolio-Management_R-052422-2) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-08-05.
+This asset management / portfolio management position at LPL Financial Holdings was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
