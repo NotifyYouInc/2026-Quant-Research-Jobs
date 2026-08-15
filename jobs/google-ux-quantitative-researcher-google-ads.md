@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfPX0m0nyPLaxuyV5xjrU5e-V3kwFyv-8PrWhGvGtOhAEjoACxwdTHeoqNmlY2jcjqNcXMONkOYhREZyZ84BwJeWE7UVxg_t_nt_u0msmrnCm7khWfwCmbahuHfO_V2&loc=IN&title=UX+Quantitative+Researcher) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfZu1dQiGO61yQC9YLDD15odvUunpszKiiLXf_s9FAncEjoA1Ny_i-nInkA7vCbGOuN-8neTTs14zePHx9JQw4o-1Xv8ajmVCwlR2k8c1UGvPAurwLyCXNi4Zy0m_V2&loc=IN&title=UX+Quantitative+Researcher) |
 
 ## About This Role
 
-This digital / performance marketing position at Google was posted on 2026-05-11.
+This digital / performance marketing position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Analyst at Citigroup
+# Cross Asset XVA Quantitative Analyst - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Quant Research |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Quantitative-Analyst_26979897) |
+| Location | London, England, United Kingdom |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Cross-Asset-XVA-Quantitative-Analyst---Assistant-Vice-President_26983067) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-23.
+This asset management / portfolio management position at Citigroup was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Healthcare Portfolio Manager - Analyst at Wells Fargo
+# Analyst, Corporate Banking - Banking Portfolio Strategy at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Asset Management / Portfolio Management |
+| Location | New York City, New York, United States |
+| Category | Strategy & Operations |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Healthcare-Portfolio-Manager---Analyst_R-566826) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Analyst--Corporate-Banking---Banking-Portfolio-Strategy_R-564962) |
 
 ## About This Role
 
-This asset management / portfolio management position at Wells Fargo was posted on 2026-08-07.
+This strategy & operations position at Wells Fargo was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Analytics Professional A at Freddie Mac
+# Model Developer Predictive Analytics at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Quant Research |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional-A_JR17494) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Model-Developer-Predictive-Analytics_REQ-10116632-2) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-08-07.
+This quant research position at ING was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

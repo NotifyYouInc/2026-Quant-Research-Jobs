@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000136573259-card-portfolio-strategist) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000136867409-card-portfolio-strategist) |
 
 ## About This Role
 
-This data analyst position at Blend360 was posted on 2026-07-08.
+This data analyst position at Blend360 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

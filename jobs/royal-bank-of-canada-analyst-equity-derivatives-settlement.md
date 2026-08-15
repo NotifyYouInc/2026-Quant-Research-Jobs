@@ -1,16 +1,16 @@
-# Manager Enterprise Model Risk management at Royal Bank of Canada
+# Analyst, Equity Derivatives Settlement at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Compliance & Risk Management |
+| Location | Halifax, Nova Scotia, Canada |
+| Category | Treasury & Capital Markets |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager-Enterprise-Model-Risk-management_R-0000183183) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Analyst--Equity-Derivatives-Settlement_R-0000183580) |
 
 ## About This Role
 
-This compliance & risk management position at Royal Bank of Canada was posted on 2026-08-07.
+This treasury & capital markets position at Royal Bank of Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

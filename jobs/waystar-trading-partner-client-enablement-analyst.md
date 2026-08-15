@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
+| Category | Quant Research |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Trading-Partner-Client-Enablement-Analyst_R3291) |
 
 ## About This Role
 
-This customer success position at Waystar was posted on 2026-07-13.
+This quant research position at Waystar was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

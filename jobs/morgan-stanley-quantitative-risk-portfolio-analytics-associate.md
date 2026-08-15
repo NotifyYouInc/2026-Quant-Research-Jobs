@@ -1,16 +1,16 @@
-# Assoc, P2, Technical Specialist : Job Level - Associate at Morgan Stanley
+# Quantitative Risk & Portfolio Analytics - Associate at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Assoc--P2--Technical-Specialist---Job-Level---Associate_PT-JR040506) |
+| Location | New York City, New York, United States |
+| Category | Quant Research |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Quantitative-Risk---Portfolio-Analytics---Associate_JR041882) |
 
 ## About This Role
 
-This sales engineer position at Morgan Stanley was posted on 2026-07-27.
+This quant research position at Morgan Stanley was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

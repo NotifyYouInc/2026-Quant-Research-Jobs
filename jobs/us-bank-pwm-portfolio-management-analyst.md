@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Cincinnati, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/PWM-Portfolio-Management-Analyst_2026-0005428) |
+| Location | Clayton, North Carolina, United States |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Clayton-MO/PWM-Portfolio-Management-Analyst_2026-0023291) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-09.
+This asset management / portfolio management position at U.S. Bank was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

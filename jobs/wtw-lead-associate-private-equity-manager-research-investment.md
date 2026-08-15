@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WTW](https://scoutify.ai/companies/em3-cx-oj120216?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Venture Capital / Private Equity |
+| Category | Venture Capital |
 | Posted | 2026-02-19 |
 | Apply | [View on company site](https://eedu.fa.em3.oraclecloud.com/jobs/#202601091) |
 
 ## About This Role
 
-This venture capital / private equity position at WTW was posted on 2026-02-19.
+This venture capital position at WTW was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

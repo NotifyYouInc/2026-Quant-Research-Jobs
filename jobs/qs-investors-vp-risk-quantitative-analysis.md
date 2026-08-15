@@ -1,16 +1,16 @@
-# Investment Associate (Quantitative Research – FT Investment Solutions) at QS Investors
+# VP Risk & Quantitative Analysis at QS Investors
 
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Quant Research |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_868815) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Stamford-Connecticut-United-States-of-America/VP-Risk---Quantitative-Analysis_868970) |
 
 ## About This Role
 
-This quant research position at QS Investors was posted on 2026-07-27.
+This quant research position at QS Investors was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

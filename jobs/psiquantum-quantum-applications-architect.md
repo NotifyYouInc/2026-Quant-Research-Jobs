@@ -1,16 +1,16 @@
-# Quantitative Analyst at Citigroup
+# Quantum Applications Architect at PsiQuantum
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [PsiQuantum](https://scoutify.ai/companies/psiquantum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Quant Research |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Quantitative-Analyst_26979897) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.psiquantum.com/apply?gh_jid=7836098003) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-23.
+This quant research position at PsiQuantum was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

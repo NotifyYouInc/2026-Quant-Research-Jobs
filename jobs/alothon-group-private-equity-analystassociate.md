@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alothon Group](https://scoutify.ai/companies/alothongroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Venture Capital / Private Equity |
+| Category | Venture Capital |
 | Posted | 2016-01-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AlothonGroup/88474158-private-equity-analystassociate) |
 
 ## About This Role
 
-This venture capital / private equity position at Alothon Group was posted on 2016-01-14.
+This venture capital position at Alothon Group was posted on 2016-01-14.
 
 ## Get Real-Time Alerts
 
