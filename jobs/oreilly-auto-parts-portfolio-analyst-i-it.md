@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [O'Reilly Auto Parts](https://scoutify.ai/companies/oreillyauto?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Springfield, Missouri, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Business Analyst |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Portfolio-Analyst-I---IT_R187453) |
 
 ## About This Role
 
-This asset management / portfolio management position at O'Reilly Auto Parts was posted on 2026-07-14.
+This business analyst position at O'Reilly Auto Parts was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

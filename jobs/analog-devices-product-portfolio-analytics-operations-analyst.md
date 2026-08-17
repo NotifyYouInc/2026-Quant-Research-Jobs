@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Limerick, Munster, Ireland |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Product-Portfolio-Analytics---Operations-Analyst_R264469) |
 
 ## About This Role
 
-This data analyst position at Analog Devices was posted on 2026-08-04.
+This business analyst position at Analog Devices was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

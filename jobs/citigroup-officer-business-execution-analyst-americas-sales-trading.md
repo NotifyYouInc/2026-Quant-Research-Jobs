@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Officer-Business-Execution-Analyst---Americas-Sales---Trading_26980117) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-22.
+This business analyst position at Citigroup was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

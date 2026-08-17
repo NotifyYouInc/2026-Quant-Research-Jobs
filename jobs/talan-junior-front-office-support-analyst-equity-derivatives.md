@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Customer Success |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140064059-junior-front-office-support-analyst-equity-derivatives) |
 
 ## About This Role
 
-This quant research position at Talan was posted on 2026-07-27.
+This customer success position at Talan was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

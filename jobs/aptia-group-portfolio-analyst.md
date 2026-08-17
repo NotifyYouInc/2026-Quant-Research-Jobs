@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aptia Group](https://scoutify.ai/companies/aptia-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Asset Management / Portfolio Management |
+| Category | Business Analyst |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Gurgaon/Portfolio-Analyst_JR105955) |
 
 ## About This Role
 
-This asset management / portfolio management position at Aptia Group was posted on 2026-08-03.
+This business analyst position at Aptia Group was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
