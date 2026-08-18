@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005) |
 
 ## About This Role
 
-This business analyst position at DV Trading was posted on 2026-08-05.
+This data analyst position at DV Trading was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

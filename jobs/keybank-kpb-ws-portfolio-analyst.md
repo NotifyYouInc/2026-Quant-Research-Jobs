@@ -1,16 +1,16 @@
-# Lead Portfolio Admin Ops Analyst at QS Investors
+# KPB WS Portfolio Analyst at KeyBank
 
 | Field | Details |
 |-------|---------|
-| Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/FTISC-Hyderabad-F3328/Lead-Portfolio-Admin-Ops-Analyst_868430) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/KPB-WS-Portfolio-Analyst_R-41410) |
 
 ## About This Role
 
-This asset management / portfolio management position at QS Investors was posted on 2026-07-14.
+This asset management / portfolio management position at KeyBank was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

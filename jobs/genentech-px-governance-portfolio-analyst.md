@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/PX-Governance---Portfolio-Analyst_202607-119230-1) |
 
 ## About This Role
 
-This operations position at Genentech was posted on 2026-08-05.
+This strategy & operations position at Genentech was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

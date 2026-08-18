@@ -1,16 +1,16 @@
-# Securities & Derivatives Sr Analyst Hyrbid at Citigroup
+# Securities & Derivatives Analyst 2 - C10 - MUMBAI at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Quant Research |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Securities---Derivatives-Sr-Analyst-Hyrbid_26976378) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---MUMBAI_26977242) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-16.
+This treasury & capital markets position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

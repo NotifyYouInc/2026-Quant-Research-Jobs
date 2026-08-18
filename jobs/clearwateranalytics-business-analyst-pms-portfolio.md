@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---New-York/Business-Analyst---PMS-Portfolio_R11936-1) |
 
 ## About This Role
 
-This business analyst position at Clearwateranalytics was posted on 2026-07-14.
+This asset management / portfolio management position at Clearwateranalytics was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

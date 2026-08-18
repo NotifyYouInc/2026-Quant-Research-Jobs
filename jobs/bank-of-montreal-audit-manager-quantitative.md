@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Accounting |
+| Category | Quant Research |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Audit-Manager--Quantitative_R260022083) |
 
 ## About This Role
 
-This accounting position at Bank of Montreal was posted on 2026-07-27.
+This quant research position at Bank of Montreal was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

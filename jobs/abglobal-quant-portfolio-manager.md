@@ -1,16 +1,16 @@
-# Trading and Settlements Analyst at Fnz
+# Quant Portfolio Manager at Abglobal
 
 | Field | Details |
 |-------|---------|
-| Company | [Fnz](https://scoutify.ai/companies/fnz?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Taiwan |
 | Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Kuala-Lumpur---Malaysia/Trading-and-Settlements-Analyst_REQ-17329) |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Taipei-City-Taiwan/Quant-Portfolio-Manager_R0019471) |
 
 ## About This Role
 
-This asset management / portfolio management position at Fnz was posted on 2026-08-10.
+This asset management / portfolio management position at Abglobal was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

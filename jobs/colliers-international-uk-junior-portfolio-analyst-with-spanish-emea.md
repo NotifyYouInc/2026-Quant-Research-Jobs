@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Poland |
-| Category | Business Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000139316680-junior-portfolio-analyst-with-spanish-emea) |
 
 ## About This Role
 
-This business analyst position at Colliers International UK was posted on 2026-07-23.
+This asset management / portfolio management position at Colliers International UK was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

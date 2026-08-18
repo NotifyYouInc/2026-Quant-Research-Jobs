@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RaceTrac](https://scoutify.ai/companies/racetrac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Portfolio-Analyst_R10015693) |
 
 ## About This Role
 
-This business analyst position at RaceTrac was posted on 2026-07-31.
+This asset management / portfolio management position at RaceTrac was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst, Real Estate Portfolio Analytics & Reporting, PFS at Blackrock
+# Associate, Quantitative Researcher - Systematic Active Equity at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Research |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Analyst--Real-Estate-Portfolio-Analytics---Reporting--PFS_R265359) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate--Quantitative-Researcher---Systematic-Active-Equity_R265940) |
 
 ## About This Role
 
-This quant research position at Blackrock was posted on 2026-08-07.
+This quant research position at Blackrock was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

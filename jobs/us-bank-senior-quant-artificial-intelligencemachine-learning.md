@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Category | Quant Research |
 | Posted | 2026-07-17 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-Quant--Artificial-Intelligence-Machine-Learning_2026-0020567) |
 
 ## About This Role
 
-This machine learning engineer position at U.S. Bank was posted on 2026-07-17.
+This quant research position at U.S. Bank was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
