@@ -1,16 +1,16 @@
-# Credit Portfolio Analyst at Citigroup
+# Quantitative Analyst – AI & Next-Gen Algorithmic Trading Platforms at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Asset Management / Portfolio Management |
+| Location | London, England, United Kingdom |
+| Category | Quant Research |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Credit-Portfolio-Analyst_26985197) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst---AI---Next-Gen-Algorithmic-Trading-Platforms_26984548) |
 
 ## About This Role
 
-This asset management / portfolio management position at Citigroup was posted on 2026-08-11.
+This quant research position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

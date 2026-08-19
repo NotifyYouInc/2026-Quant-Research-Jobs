@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cambridgeassociates](https://scoutify.ai/companies/cambridgeassociates?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Venture Capital |
+| Category | Corporate Finance |
 | Posted | 2026-07-14 |
 | Apply | [View on company site](https://cambridgeassociates.wd5.myworkdayjobs.com/cambridge_associates/job/Boston/Investment-Analyst--Private-Equity_JR0000342-1) |
 
 ## About This Role
 
-This venture capital position at Cambridgeassociates was posted on 2026-07-14.
+This corporate finance position at Cambridgeassociates was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

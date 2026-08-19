@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Investment Banking |
+| Category | Corporate Finance |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Analyst--Tax-Equity_Req1595540-1) |
 
 ## About This Role
 
-This investment banking position at Santander was posted on 2026-07-23.
+This corporate finance position at Santander was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

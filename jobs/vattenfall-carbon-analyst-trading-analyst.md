@@ -1,16 +1,16 @@
-# Portfolio Analyst - Claims at Rac WA
+# Carbon Analyst | Trading Analyst at Vattenfall
 
 | Field | Details |
 |-------|---------|
-| Company | [Rac WA](https://scoutify.ai/companies/rac-wa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | West Perth, Western Australia, Australia |
+| Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Data Analyst |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://racwa.wd3.myworkdayjobs.com/rac-wa/job/West-Perth/Portfolio-Analyst---Claims_JR106599) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000142846230-carbon-analyst-trading-analyst) |
 
 ## About This Role
 
-This data analyst position at Rac WA was posted on 2026-08-11.
+This data analyst position at Vattenfall was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

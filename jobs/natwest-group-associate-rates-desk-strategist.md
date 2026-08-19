@@ -1,16 +1,16 @@
-# Quantitative Trading Analyst at DRW
+# Associate Rates Desk Strategist at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7957241) |
+| Category | Sales & Trading |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Associate-Rates-Desk-Strategist_R-00283174-2) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-08-07.
+This sales & trading position at NatWest Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

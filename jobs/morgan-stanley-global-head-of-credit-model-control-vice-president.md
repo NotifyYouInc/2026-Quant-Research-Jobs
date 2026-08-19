@@ -1,16 +1,16 @@
-# Quantitative Trading Analyst at DRW
+# Global Head of Credit Model Control - Vice President at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7957241) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Global-Head-of-Credit-Model-Control---Vice-President_PT-JR042040) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-08-07.
+This quant research position at Morgan Stanley was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

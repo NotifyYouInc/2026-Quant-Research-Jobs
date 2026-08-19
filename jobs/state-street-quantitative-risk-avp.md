@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Quantitative-Risk--AVP_R-790219) |
+| Location | 3 locations |
+| Category | Quant Research |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Quantitative-Risk--AVP_R-795487) |
 
 ## About This Role
 
-This compliance & risk management position at State Street was posted on 2026-05-18.
+This quant research position at State Street was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

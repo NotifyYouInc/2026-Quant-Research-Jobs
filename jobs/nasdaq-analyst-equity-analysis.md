@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Richmond---Virginia/Analyst---Equity-Analysis_R0023468) |
 
 ## About This Role
 
-This quant research position at Nasdaq was posted on 2026-08-07.
+This corporate finance position at Nasdaq was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

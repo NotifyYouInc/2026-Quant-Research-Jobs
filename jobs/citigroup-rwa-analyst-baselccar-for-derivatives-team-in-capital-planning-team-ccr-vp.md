@@ -1,16 +1,16 @@
-# Credit Portfolio Analyst at Citigroup
+# RWA Analyst (Basel/CCAR) for Derivatives team in Capital Planning Team (CCR) - VP at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Asset Management / Portfolio Management |
+| Location | Tampa, Florida, United States |
+| Category | Corporate Finance |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Credit-Portfolio-Analyst_26985197) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/RWA-Analyst--Basel-CCAR--for-Derivatives-team-in-Capital-Planning-Team--CCR----VP_26985299-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Citigroup was posted on 2026-08-11.
+This corporate finance position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Portfolio Analyst - Claims at Rac WA
+# Associate Director (Quantitative Research) at Research Partnership
 
 | Field | Details |
 |-------|---------|
-| Company | [Rac WA](https://scoutify.ai/companies/rac-wa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | West Perth, Western Australia, Australia |
+| Company | [Research Partnership](https://scoutify.ai/companies/researchpartnership?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://racwa.wd3.myworkdayjobs.com/rac-wa/job/West-Perth/Portfolio-Analyst---Claims_JR106599) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/researchpartnership/jobs/8093963) |
 
 ## About This Role
 
-This data analyst position at Rac WA was posted on 2026-08-11.
+This data analyst position at Research Partnership was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
