@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# BANAMEX Credit Risk Portfolio & Policy Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Treasury & Capital Markets |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2_26974785) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Credit-Risk-Portfolio---Policy-Analyst_26984559) |
 
 ## About This Role
 
-This treasury & capital markets position at Citigroup was posted on 2026-08-12.
+This asset management / portfolio management position at Citigroup was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

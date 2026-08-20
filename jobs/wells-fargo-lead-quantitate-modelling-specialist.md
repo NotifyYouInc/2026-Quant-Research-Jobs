@@ -1,16 +1,16 @@
-# Quantitative Model Analyst 2 at U.S. Bank
+# Lead Quantitate Modelling Specialist at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hopkins, Minnesota, United States |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Quant Research |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Quantitative-Model-Analyst-2_2026-0024602) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Quantitate-Modelling-Specialist_R-564109) |
 
 ## About This Role
 
-This quant research position at U.S. Bank was posted on 2026-08-12.
+This quant research position at Wells Fargo was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

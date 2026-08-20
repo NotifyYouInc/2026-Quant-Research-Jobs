@@ -1,16 +1,16 @@
-# Portfolio Analyst at LEGO
+# Portfolio Credit Analyst at FirstRand
 
 | Field | Details |
 |-------|---------|
-| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Billund, South Denmark, Denmark |
+| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Lagos, Lagos, Nigeria |
 | Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Portfolio-Analyst_0000036924-1) |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Lagos-Central/Portfolio-Credit-Analyst_R52540) |
 
 ## About This Role
 
-This asset management / portfolio management position at LEGO was posted on 2026-08-12.
+This asset management / portfolio management position at FirstRand was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

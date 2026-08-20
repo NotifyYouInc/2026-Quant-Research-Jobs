@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
+| Category | Accounting |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8570001002) |
 
 ## About This Role
 
-This corporate finance position at Databricks was posted on 2026-07-15.
+This accounting position at Databricks was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

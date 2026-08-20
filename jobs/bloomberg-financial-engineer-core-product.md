@@ -1,16 +1,16 @@
-# Quantitative Model Analyst 2 at U.S. Bank
+# Financial Engineer — Core Product at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hopkins, Minnesota, United States |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Quantitative-Model-Analyst-2_2026-0024602) |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Financial-Engineer-Core-Product/21349) |
 
 ## About This Role
 
-This quant research position at U.S. Bank was posted on 2026-08-12.
+This quant research position at Bloomberg was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

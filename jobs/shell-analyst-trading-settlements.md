@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Chennai---RMZ-Millenia/Analyst---Trading-Settlements_R207653-1) |
+| Category | Accounting |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Trading-Finance-Analyst_R207315) |
 
 ## About This Role
 
-This corporate finance position at Shell was posted on 2026-08-04.
+This accounting position at Shell was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

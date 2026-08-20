@@ -1,16 +1,16 @@
-# Quantitative Model Analyst 2 at U.S. Bank
+# HK - 2027 - Quant Research Intern at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hopkins, Minnesota, United States |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Quant Research |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Quantitative-Model-Analyst-2_2026-0024602) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) |
 
 ## About This Role
 
-This quant research position at U.S. Bank was posted on 2026-08-12.
+This quant research position at IMC Trading was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

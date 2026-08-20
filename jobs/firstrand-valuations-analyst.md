@@ -1,16 +1,16 @@
-# Quantitative Model Analyst 2 at U.S. Bank
+# Valuations Analyst at FirstRand
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Hopkins, Minnesota, United States |
+| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Quant Research |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Quantitative-Model-Analyst-2_2026-0024602) |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Valuations-Analyst_R52402) |
 
 ## About This Role
 
-This quant research position at U.S. Bank was posted on 2026-08-12.
+This quant research position at FirstRand was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
