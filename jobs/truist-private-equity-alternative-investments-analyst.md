@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Palm Beach Gardens, Florida, United States |
-| Category | Venture Capital / Private Equity |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Palm-Beach-Gardens-FL/Private-Equity---Alternative-Investments-Analyst_R0117289) |
+| Category | Corporate Finance |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Palm-Beach-Gardens-FL/Private-Equity---Alternative-Investments-Analyst_R0117943) |
 
 ## About This Role
 
-This venture capital / private equity position at Truist was posted on 2026-07-29.
+This corporate finance position at Truist was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

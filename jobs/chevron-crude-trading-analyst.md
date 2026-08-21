@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Crude-Trading-Analyst_R000071445) |
+| Category | Sales & Trading |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Crude-Trading-Analyst_R000072932) |
 
 ## About This Role
 
-This corporate finance position at Chevron was posted on 2026-05-18.
+This sales & trading position at Chevron was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

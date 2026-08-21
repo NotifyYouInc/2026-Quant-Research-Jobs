@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Payjoy](https://scoutify.ai/companies/payjoy?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.lever.co/payjoy/7e8f1f97-4081-4cb3-baa9-8041a21926da) |
 
 ## About This Role
 
-This asset management / portfolio management position at Payjoy was posted on 2026-07-31.
+This corporate finance position at Payjoy was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/KPB-WS-Portfolio-Analyst_R-41410) |
 
 ## About This Role
 
-This asset management / portfolio management position at KeyBank was posted on 2026-08-10.
+This corporate finance position at KeyBank was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

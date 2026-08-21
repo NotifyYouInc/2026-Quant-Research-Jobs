@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Portfolio-Analyst_R-14731) |
 
 ## About This Role
 
-This asset management / portfolio management position at Invesco was posted on 2026-08-01.
+This corporate finance position at Invesco was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

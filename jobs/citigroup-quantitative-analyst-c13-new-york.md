@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Research |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst---C13---NEW-YORK_26975264) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst---C13---NEW-YORK_26972572) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-07-14.
+This quant research position at Citigroup was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

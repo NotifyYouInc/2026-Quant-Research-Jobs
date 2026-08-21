@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heritage Holdings](https://scoutify.ai/companies/heritage-holdings?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Milan, Lombardy, Italy |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/heritageholdings/jobs/4942814101) |
 
 ## About This Role
 
-This asset management / portfolio management position at Heritage Holdings was posted on 2026-07-31.
+This corporate finance position at Heritage Holdings was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

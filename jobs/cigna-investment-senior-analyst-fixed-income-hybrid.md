@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bloomfield, New Jersey, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Investment-Senior-Analyst---Fixed-Income---Hybrid_26010036) |
 
 ## About This Role
 
-This asset management / portfolio management position at Cigna was posted on 2026-08-13.
+This corporate finance position at Cigna was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

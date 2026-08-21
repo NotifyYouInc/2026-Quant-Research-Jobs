@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Sydney---Darling-Park/Associate-Director-Wholesale-Portfolio-Management-Analyst--4-month-contract-_JR_00144147-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Rabobank was posted on 2026-07-29.
+This corporate finance position at Rabobank was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

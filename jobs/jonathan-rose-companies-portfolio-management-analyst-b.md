@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jonathan Rose Companies](https://scoutify.ai/companies/recruiting-ultipro-com-oj92519?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Not specified |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://recruiting.ultipro.com/jon1002jrose/JobBoard/831f2c6f-2842-6082-be63-f7945fe68801/OpportunityDetail?opportunityId=de25c813-396c-46dc-9051-eb96d42cdce5) |
 
 ## About This Role
 
-This asset management / portfolio management position at Jonathan Rose Companies was posted on 2026-07-28.
+This corporate finance position at Jonathan Rose Companies was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

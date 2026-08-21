@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Toronto-ON/Analyst--Credit-Underwriting-and-Portfolio-Management---Diversified-Industrials_10078384-WD) |
 
 ## About This Role
 
-This asset management / portfolio management position at Mitsubishi UFG was posted on 2026-08-10.
+This corporate finance position at Mitsubishi UFG was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

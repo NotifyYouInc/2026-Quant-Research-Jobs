@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Corporate Finance |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Healthcare-Portfolio-Manager---Analyst_R-566826) |
 
 ## About This Role
 
-This asset management / portfolio management position at Wells Fargo was posted on 2026-08-07.
+This corporate finance position at Wells Fargo was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
