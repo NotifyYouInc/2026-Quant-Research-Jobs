@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst at Citigroup
+# Strategic Equity Solutions Advisory, Analyst/Associate at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Securities---Derivatives-Analyst_26980220) |
+| Location | London, England, United Kingdom |
+| Category | Strategy & Operations |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Strategic-Equity-Solutions-Advisory--Analyst-Associate_26983768) |
 
 ## About This Role
 
-This treasury & capital markets position at Citigroup was posted on 2026-07-29.
+This strategy & operations position at Citigroup was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Modelling / Forecasting Senior Analyst (Quants) at TD Bank
+# Fixed Income Quantitative Researcher | Trading Team  at Jump Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Jump Trading](https://scoutify.ai/companies/jump-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Modelling---Forecasting-Senior-Analyst--Quants-_R_1504520) |
+| Apply | [View on company site](https://www.jumptrading.com/hr/job?gh_jid=7457888) |
 
 ## About This Role
 
-This quant research position at TD Bank was posted on 2026-08-14.
+This quant research position at Jump Trading was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
