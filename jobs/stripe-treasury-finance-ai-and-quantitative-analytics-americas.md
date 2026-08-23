@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8079132) |
 
 ## About This Role
 
-This ai / llm engineer position at Stripe was posted on 2026-07-24.
+This machine learning engineer position at Stripe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

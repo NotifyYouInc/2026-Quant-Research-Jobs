@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Asset Management / Portfolio Management |
+| Category | Compliance & Risk Management |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/HKG-HK8_62F-Hong-Kong/Portfolio-Compliance-Analyst_868840) |
 
 ## About This Role
 
-This asset management / portfolio management position at QS Investors was posted on 2026-07-30.
+This compliance & risk management position at QS Investors was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

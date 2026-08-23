@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Software-Engineer--Python-SQL----Portfolio-Management-Group--Analyst_R264724) |
 
 ## About This Role
 
-This asset management / portfolio management position at Blackrock was posted on 2026-07-21.
+This quant research position at Blackrock was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

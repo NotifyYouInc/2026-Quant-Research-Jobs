@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Texas at Austin](https://scoutify.ai/companies/university-of-texas-at-austin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Quant Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/PICKLE-RESEARCH-CAMPUS/Acoustics-Signal-Processing-Analyst_R_00047672) |
 
 ## About This Role
 
-This quant research position at University of Texas at Austin was posted on 2026-08-06.
+This machine learning engineer position at University of Texas at Austin was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
