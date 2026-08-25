@@ -1,16 +1,16 @@
-# Experienced Quantitative Researcher at Flow Traders
+# Quantitative Researcher Internship  at Xantium
 
 | Field | Details |
 |-------|---------|
-| Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Xantium](https://scoutify.ai/companies/xantium?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, Ohio, United States |
 | Category | Quant Research |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/8131776) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xantium/jobs/4371217009) |
 
 ## About This Role
 
-This quant research position at Flow Traders was posted on 2026-08-17.
+This quant research position at Xantium was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

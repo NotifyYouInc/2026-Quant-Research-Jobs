@@ -1,16 +1,16 @@
-# Experienced Quantitative Researcher at Flow Traders
+# Manager, Quantitative Market Risk at Wealthsimple
 
 | Field | Details |
 |-------|---------|
-| Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Wealthsimple](https://scoutify.ai/companies/wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Canada |
 | Category | Quant Research |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/8131776) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/wealthsimple/5bec7e2a-249b-4e81-9e62-180a725e1e22) |
 
 ## About This Role
 
-This quant research position at Flow Traders was posted on 2026-08-17.
+This quant research position at Wealthsimple was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

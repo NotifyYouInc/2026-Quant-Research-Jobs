@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
+| Category | Sales & Trading |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1) |
 
 ## About This Role
 
-This data analyst position at Truist was posted on 2026-08-11.
+This sales & trading position at Truist was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

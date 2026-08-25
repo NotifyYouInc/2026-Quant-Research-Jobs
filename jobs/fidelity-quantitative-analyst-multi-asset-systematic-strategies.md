@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-19 |
 | Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Analyst--Multi-Asset-Systematic-Strategies_2123619-2) |
 
 ## About This Role
 
-This quant research position at Fidelity was posted on 2026-07-19.
+This asset management / portfolio management position at Fidelity was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 
