@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Financial Analyst |
+| Category | Quant Research |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Sr-Quantitative-Finance-Analyst_26023275-2) |
 
 ## About This Role
 
-This financial analyst position at Bank of America was posted on 2026-07-22.
+This quant research position at Bank of America was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Tampa---USA--2027_26981350) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-07-24.
+This quant research position at Citigroup was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

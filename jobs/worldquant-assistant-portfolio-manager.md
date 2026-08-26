@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4702147006) |
 
 ## About This Role
 
-This asset management / portfolio management position at WorldQuant was posted on 2026-08-06.
+This quant research position at WorldQuant was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

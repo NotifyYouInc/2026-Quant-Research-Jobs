@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Front-Office-Business-Analyst---Fixed-Income-Technology---Vice-President_26981376) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-04.
+This quant research position at Citigroup was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Dallas-TX---Uptown/Wealth-Portfolio-Management-Analyst-I_R261444) |
 
 ## About This Role
 
-This corporate finance position at Frostbank was posted on 2026-08-11.
+This wealth management / private banking position at Frostbank was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

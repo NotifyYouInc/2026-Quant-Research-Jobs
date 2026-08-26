@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Senior-Portfolio-Analyst---Hybrid--Pittsburgh-PA_J285355) |
 
 ## About This Role
 
-This business analyst position at Highmark Health was posted on 2026-07-29.
+This quant research position at Highmark Health was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

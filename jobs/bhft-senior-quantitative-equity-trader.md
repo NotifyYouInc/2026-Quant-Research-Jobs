@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BHFT](https://scoutify.ai/companies/bhft?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bhft/744000134758429-senior-quantitative-equity-trader) |
+| Category | Sales & Trading |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bhft/744000144028590-senior-quantitative-equity-trader) |
 
 ## About This Role
 
-This quant research position at BHFT was posted on 2026-06-29.
+This sales & trading position at BHFT was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

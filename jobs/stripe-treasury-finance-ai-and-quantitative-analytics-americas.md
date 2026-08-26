@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
+| Category | Quant Research |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8079132) |
 
 ## About This Role
 
-This machine learning engineer position at Stripe was posted on 2026-07-24.
+This quant research position at Stripe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

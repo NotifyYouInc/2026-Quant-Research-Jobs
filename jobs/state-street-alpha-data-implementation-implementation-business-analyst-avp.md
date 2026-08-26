@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Customer Success |
+| Category | Quant Research |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Alpha-Data-Implementation--Implementation-Business-Analyst--AVP-_R-795632-2) |
 
 ## About This Role
 
-This customer success position at State Street was posted on 2026-08-12.
+This quant research position at State Street was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

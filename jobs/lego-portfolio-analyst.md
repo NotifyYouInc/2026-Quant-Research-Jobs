@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Billund, South Denmark, Denmark |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Portfolio-Analyst_0000036924-1) |
 
 ## About This Role
 
-This business analyst position at LEGO was posted on 2026-08-12.
+This quant research position at LEGO was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

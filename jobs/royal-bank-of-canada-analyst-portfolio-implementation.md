@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Analyst--Portfolio-Implementation_R-0000181443) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-07-24.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

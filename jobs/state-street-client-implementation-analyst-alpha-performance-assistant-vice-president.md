@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Quincy, Massachusetts, United States |
-| Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-790656) |
+| Location | Burlington, North Carolina, United States |
+| Category | Quant Research |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-796198) |
 
 ## About This Role
 
-This customer success position at State Street was posted on 2026-05-18.
+This quant research position at State Street was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

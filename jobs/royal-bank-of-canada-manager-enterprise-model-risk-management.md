@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager-Enterprise-Model-Risk-management_R-0000183183) |
 
 ## About This Role
 
-This compliance & risk management position at Royal Bank of Canada was posted on 2026-08-07.
+This quant research position at Royal Bank of Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

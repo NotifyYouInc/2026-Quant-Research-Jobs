@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5324645008) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5394933008) |
 
 ## About This Role
 
-This asset management / portfolio management position at Palmetto was posted on 2026-07-13.
+This corporate finance position at Palmetto was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

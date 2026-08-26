@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Brazil |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6110741004) |
 
 ## About This Role
 
-This business analyst position at Exadel Inc (Website) was posted on 2026-08-03.
+This quant research position at Exadel Inc (Website) was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
