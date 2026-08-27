@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-II---Capital-and-Liquidity_R0119891) |
 
 ## About This Role
 
-This quant research position at USAA was posted on 2026-08-14.
+This compliance & risk management position at USAA was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

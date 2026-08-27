@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pasadena, Texas, United States |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Pasadena-California-United-States-of-America/Quantitative-Insurance-Solutions-Analyst_868507) |
+| Location | Poznań, Greater Poland, Poland |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Poznan-Poland/Quantitative-Insurance-Solutions-Analyst_869339) |
 
 ## About This Role
 
-This actuary / insurance analytics position at QS Investors was posted on 2026-06-29.
+This data analyst position at QS Investors was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Quantitative-Modeling-Analyst---AML_2026-0025622) |
 
 ## About This Role
 
-This quant research position at U.S. Bancorp was posted on 2026-08-18.
+This compliance & risk management position at U.S. Bancorp was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

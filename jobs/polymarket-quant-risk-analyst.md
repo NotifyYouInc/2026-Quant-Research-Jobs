@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Polymarket](https://scoutify.ai/companies/polymarket?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/polymarket/026bc93b-fb68-4ae1-a793-c43830d273e8) |
 
 ## About This Role
 
-This quant research position at Polymarket was posted on 2026-08-13.
+This compliance & risk management position at Polymarket was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

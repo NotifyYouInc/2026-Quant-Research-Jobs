@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives--Sr-Analyst---C12---PUNE_26977591) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-08-10.
+This financial analyst position at Citigroup was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

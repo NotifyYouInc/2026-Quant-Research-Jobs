@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Toronto-Ontario/Sr-Investment-Analyst--High-Yield-Fixed-Income-_JR10022818) |
 
 ## About This Role
 
-This corporate finance position at Industrial Alliance was posted on 2026-08-17.
+This financial analyst position at Industrial Alliance was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

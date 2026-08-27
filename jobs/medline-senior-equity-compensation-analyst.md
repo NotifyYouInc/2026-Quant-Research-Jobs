@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Northfield, Minnesota, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Senior-Equity-Compensation-Analyst_R2616163) |
 
 ## About This Role
 
-This corporate finance position at Medline was posted on 2026-08-13.
+This financial analyst position at Medline was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

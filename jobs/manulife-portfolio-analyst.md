@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Boston-Massachusetts/Portfolio-Analyst_JR26071234-2) |
 
 ## About This Role
 
-This corporate finance position at Manulife was posted on 2026-08-13.
+This financial analyst position at Manulife was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

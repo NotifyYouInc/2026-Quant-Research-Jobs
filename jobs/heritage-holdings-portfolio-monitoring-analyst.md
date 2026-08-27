@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heritage Holdings](https://scoutify.ai/companies/heritage-holdings?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Milan, Lombardy, Italy |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/heritageholdings/jobs/4942814101) |
 
 ## About This Role
 
-This corporate finance position at Heritage Holdings was posted on 2026-07-31.
+This financial analyst position at Heritage Holdings was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

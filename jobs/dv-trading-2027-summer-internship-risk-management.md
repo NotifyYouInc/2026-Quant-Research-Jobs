@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
 
 ## About This Role
 
-This quant research position at DV Trading was posted on 2026-08-04.
+This compliance & risk management position at DV Trading was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

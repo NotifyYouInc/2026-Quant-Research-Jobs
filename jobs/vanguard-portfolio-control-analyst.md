@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Scottsdale, Arizona, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Scottsdale-AZ/Portfolio-Control-Analyst_181541-1) |
 
 ## About This Role
 
-This quant research position at Vanguard was posted on 2026-08-18.
+This compliance & risk management position at Vanguard was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

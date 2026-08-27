@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gunvor](https://scoutify.ai/companies/gunvor?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/EPA-Trading-Compliance-Analyst_JR102767-1) |
 
 ## About This Role
 
-This quant research position at Gunvor was posted on 2026-08-17.
+This compliance & risk management position at Gunvor was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

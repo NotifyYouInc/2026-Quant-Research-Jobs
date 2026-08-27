@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000141317809-senior-equity-analyst-reporter-cnbc) |
 
 ## About This Role
 
-This corporate finance position at Versant was posted on 2026-08-03.
+This financial analyst position at Versant was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

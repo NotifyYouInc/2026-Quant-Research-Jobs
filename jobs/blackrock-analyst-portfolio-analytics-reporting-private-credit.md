@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Analyst--Portfolio-Analytics---Reporting-Private-Credit_R265361) |
 
 ## About This Role
 
-This corporate finance position at Blackrock was posted on 2026-08-07.
+This financial analyst position at Blackrock was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
