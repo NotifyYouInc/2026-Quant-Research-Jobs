@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blattner](https://scoutify.ai/companies/blattner?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Not specified |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://blattner.wd5.myworkdayjobs.com/blattnercompany/job/RemoteTraveling-For-Corporate-Use-Only/Senior-Portfolio---Project-Controls-Analyst_R8437) |
 
 ## About This Role
 
-This compliance & risk management position at Blattner was posted on 2026-08-12.
+This quant research position at Blattner was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

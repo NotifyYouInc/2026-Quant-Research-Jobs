@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Financial Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Equity-Strategy---Analyst_JR-0000124198) |
 
 ## About This Role
 
-This financial analyst position at Barclays was posted on 2026-07-29.
+This strategy & operations position at Barclays was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

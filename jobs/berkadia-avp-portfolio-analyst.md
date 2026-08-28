@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Berkadia](https://scoutify.ai/companies/berkadia?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Ambler, Pennsylvania, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://boards.greenhouse.io/berkadia/jobs/7813886003?gh_jid=7813886003) |
 
 ## About This Role
 
-This corporate finance position at Berkadia was posted on 2026-07-30.
+This quant research position at Berkadia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

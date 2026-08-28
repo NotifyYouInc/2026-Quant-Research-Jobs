@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Virtu](https://scoutify.ai/companies/virtu?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 3 locations |
+| Location | Singapore, Singapore |
 | Category | Quant Research |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/virtu/jobs/5208637002) |
 
 ## About This Role
 
-This quant research position at Virtu was posted on 2026-07-21.
+This quant research position at Virtu was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

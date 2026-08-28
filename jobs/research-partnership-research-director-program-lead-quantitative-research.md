@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Research Partnership](https://scoutify.ai/companies/researchpartnership?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Program Manager |
+| Category | Quant Research |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/researchpartnership/jobs/8078872) |
 
 ## About This Role
 
-This program manager position at Research Partnership was posted on 2026-08-11.
+This quant research position at Research Partnership was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

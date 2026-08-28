@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Investment Banking |
+| Category | Quant Research |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4696380101) |
 
 ## About This Role
 
-This investment banking position at IMC Trading was posted on 2026-08-04.
+This quant research position at IMC Trading was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Florida, US |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Managing-Director--Senior-Portfolio-Strategist---Reams-Asset-Management_R-0012557) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-08-13.
+This quant research position at Raymond James Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

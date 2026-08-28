@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hong Kong Exchanges & Clearing](https://scoutify.ai/companies/hong-kong-exchanges-clearing?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Quant Research |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://hkex.wd3.myworkdayjobs.com/hkexcareerpage/job/HK-TKO-5F/XMLNAME--Senior--Systems-Analyst---Post-Trade-Systems--Derivatives-Clearing----IT_R004268) |
 
 ## About This Role
 
-This software engineer position at Hong Kong Exchanges & Clearing was posted on 2026-07-30.
+This quant research position at Hong Kong Exchanges & Clearing was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | UX Researcher |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/New-York-New-York/VP-Head-of-Research--Merger-Arbitrage_R0019309) |
 
 ## About This Role
 
-This quant research position at Abglobal was posted on 2026-07-28.
+This ux researcher position at Abglobal was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

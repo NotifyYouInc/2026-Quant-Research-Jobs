@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/London/Portfolio-Guideline-Analysis---Analyst_JR7063) |
 
 ## About This Role
 
-This compliance & risk management position at Capital Group was posted on 2026-08-11.
+This quant research position at Capital Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

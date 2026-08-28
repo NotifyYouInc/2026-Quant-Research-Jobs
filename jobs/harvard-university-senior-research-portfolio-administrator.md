@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Program Manager |
+| Category | Quant Research |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014240386-senior-research-portfolio-administrator) |
 
 ## About This Role
 
-This program manager position at Harvard University was posted on 2026-07-23.
+This quant research position at Harvard University was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

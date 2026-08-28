@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Equity-Analyst_38246) |
 
 ## About This Role
 
-This corporate finance position at Commerce Bank was posted on 2026-07-22.
+This quant research position at Commerce Bank was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# 2027 Quantitative Analytics Summer Internship Risk Analytics and Decision Sciences (Masters) – Early Careers at Wells Fargo
+# 2027 Quantitative Analytics Summer Internship Risk Analytics and Decision Sciences (RADS PhD) – Early Careers at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Quant Research |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-08-13.
+This quant research position at Wells Fargo was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
