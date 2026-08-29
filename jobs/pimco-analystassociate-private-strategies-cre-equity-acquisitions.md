@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Venture Capital |
+| Category | Venture Capital / Private Equity |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/Analyst-Associate--Private-Strategies--CRE-Equity-Acquisitions-_R106561) |
 
 ## About This Role
 
-This venture capital position at PIMCO was posted on 2026-08-04.
+This venture capital / private equity position at PIMCO was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Investpsp](https://scoutify.ai/companies/investpsp?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Financial Analyst |
+| Category | Venture Capital / Private Equity |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Analyst--Portfolio-Management--Infrastructure-and-Private-Equity--Temporary---12-months-_R4883) |
 
 ## About This Role
 
-This financial analyst position at Investpsp was posted on 2026-07-25.
+This venture capital / private equity position at Investpsp was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 
