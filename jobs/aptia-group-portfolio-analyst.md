@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aptia Group](https://scoutify.ai/companies/aptia-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Quant Research |
+| Category | Customer Success |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Gurgaon/Portfolio-Analyst_JR106023) |
 
 ## About This Role
 
-This quant research position at Aptia Group was posted on 2026-08-17.
+This customer success position at Aptia Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

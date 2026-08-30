@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | Quant Research |
+| Category | Customer Success |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alpha-Professional-Services-Practice-Analyst--AVP_R-796308) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-08-20.
+This customer success position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

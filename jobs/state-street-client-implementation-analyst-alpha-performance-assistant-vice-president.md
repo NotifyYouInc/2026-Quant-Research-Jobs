@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Burlington, North Carolina, United States |
-| Category | Quant Research |
+| Category | Customer Success |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-796198) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-08-18.
+This customer success position at State Street was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

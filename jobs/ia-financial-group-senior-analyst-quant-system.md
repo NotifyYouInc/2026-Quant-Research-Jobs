@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [iA Financial Group](https://scoutify.ai/companies/ia-financial-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/Professional/job/Quebec-Quebec/Analyste-snior--systmes-quantitatifs_JR10027467) |
 
 ## About This Role
 
-This quant developer position at iA Financial Group was posted on 2026-08-18.
+This software engineer position at iA Financial Group was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

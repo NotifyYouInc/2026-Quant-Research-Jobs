@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst- Convocatoria Inclusión Laboral (Discapacidad con Certificación Oficial) at Citigroup
+# Securities & Derivatives Analyst  - Convocatoria Inclusión Laboral (Discapacidad con Certificación Oficial) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Securities---Derivatives-Analyst--Convocatoria-Inclusin-Laboral--Discapacidad-con-Certificacin-Oficial-_26980090) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Securities---Derivatives-Analyst----Convocatoria-Inclusin-Laboral--Discapacidad-con-Certificacin-Oficial-_26979940) |
 
 ## About This Role
 
-This treasury & capital markets position at Citigroup was posted on 2026-07-23.
+This treasury & capital markets position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

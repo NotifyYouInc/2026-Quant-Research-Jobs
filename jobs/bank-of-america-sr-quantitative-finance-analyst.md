@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
+| Location | Jersey City, New Jersey, United States |
 | Category | Financial Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newark/Sr-Quantitative-Finance-Analyst_26024390-2) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Sr-Quantitative-Finance-Analyst_26030455) |
 
 ## About This Role
 
-This financial analyst position at Bank of America was posted on 2026-07-23.
+This financial analyst position at Bank of America was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
