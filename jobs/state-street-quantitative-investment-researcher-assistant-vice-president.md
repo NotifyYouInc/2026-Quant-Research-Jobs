@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Quant Research |
-| Posted | 2026-03-18 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/Quantitative-Investment-Researcher--Assistant-Vice-President-_R-786328) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-03-18.
+This quant research position at State Street was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
