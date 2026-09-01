@@ -1,16 +1,16 @@
-# Senior Product Specialist at LSEG
+# Senior Quant AI Researcher at Newmark
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Newmark](https://scoutify.ai/companies/us6-cx-oj75140?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Product-Specialist_R0122600) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://hdow.fa.us6.oraclecloud.com/jobs/#248893) |
 
 ## About This Role
 
-This quant research position at LSEG was posted on 2026-08-24.
+This quant research position at Newmark was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

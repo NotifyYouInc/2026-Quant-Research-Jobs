@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dimensional Fund Advisors](https://scoutify.ai/companies/dimensional?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Quant Research |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Senior-Investment-Strategist--Fixed-Income-Product-Specialist-_2026-8992) |
 
 ## About This Role
 
-This sales engineer position at Dimensional Fund Advisors was posted on 2026-08-12.
+This quant research position at Dimensional Fund Advisors was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

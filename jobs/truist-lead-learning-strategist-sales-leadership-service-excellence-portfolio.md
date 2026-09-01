@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Learning & Development |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Lead-Learning-Strategist--Sales-Leadership---Service-Excellence-Portfolio_R0118212-1) |
 
 ## About This Role
 
-This quant research position at Truist was posted on 2026-08-20.
+This learning & development position at Truist was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

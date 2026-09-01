@@ -1,16 +1,16 @@
-# Senior Product Specialist at LSEG
+# Associate, Portfolio Analytics at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Quant Research |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Product-Specialist_R0122600) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Portfolio-Analytics_R260009681) |
 
 ## About This Role
 
-This quant research position at LSEG was posted on 2026-08-24.
+This quant research position at Bank of Montreal was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

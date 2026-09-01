@@ -1,16 +1,16 @@
-# Senior Product Specialist at LSEG
+# Campus Quantitative Researcher, PhD (Full-Time) at Jump Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Jump Trading](https://scoutify.ai/companies/jump-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
 | Category | Quant Research |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Product-Specialist_R0122600) |
+| Apply | [View on company site](https://www.jumptrading.com/hr/job?gh_jid=8125888) |
 
 ## About This Role
 
-This quant research position at LSEG was posted on 2026-08-24.
+This quant research position at Jump Trading was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
