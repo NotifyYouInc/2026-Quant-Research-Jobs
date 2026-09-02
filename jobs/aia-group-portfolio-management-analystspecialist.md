@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Quant Research |
+| Category | Actuary / Insurance Analytics |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Singapore-SG-AIA-Singapore/Portfolio-Management--Analyst-Specialist_JR-68825) |
 
 ## About This Role
 
-This quant research position at AIA Group was posted on 2026-08-07.
+This actuary / insurance analytics position at AIA Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

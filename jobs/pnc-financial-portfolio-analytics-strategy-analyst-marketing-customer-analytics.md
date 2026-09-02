@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst---Marketing---Customer-Analytics_R231842-1) |
 
 ## About This Role
 
-This data analyst position at PNC Financial was posted on 2026-08-13.
+This data engineer position at PNC Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

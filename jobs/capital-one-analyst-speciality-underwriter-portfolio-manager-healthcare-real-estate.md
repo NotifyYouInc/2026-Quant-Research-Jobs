@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Financial Analyst |
+| Category | Actuary / Insurance Analytics |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Analyst--Speciality-Underwriter---Portfolio-Manager---Healthcare-Real-Estate_R248013-1) |
 
 ## About This Role
 
-This financial analyst position at Capital One was posted on 2026-07-29.
+This actuary / insurance analytics position at Capital One was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

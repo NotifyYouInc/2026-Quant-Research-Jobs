@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | FP&A / Strategic Finance |
+| Category | Corporate Finance |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Worldwide-Global-Business-Unit-Home-Hardware-Portfolio-Analyst_3165250-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Hewlett Packard (HP) was posted on 2026-08-24.
+This corporate finance position at Hewlett Packard (HP) was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

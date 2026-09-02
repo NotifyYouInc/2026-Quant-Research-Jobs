@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Data Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Retail-Banking_R231248-1) |
 
 ## About This Role
 
-This data analyst position at PNC Financial was posted on 2026-07-31.
+This strategy & operations position at PNC Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

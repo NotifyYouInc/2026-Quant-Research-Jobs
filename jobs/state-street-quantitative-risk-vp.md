@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 3 locations |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Quant Research |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Quantitative-Risk--VP_R-795486) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quantitative-Risk--VP_R-795489) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-08-05.
+This quant research position at State Street was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

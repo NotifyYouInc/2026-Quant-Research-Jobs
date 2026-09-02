@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Quant Research |
+| Category | Sales Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Assoc--P2--Technical-Specialist---Job-Level---Associate_PT-JR040506) |
 
 ## About This Role
 
-This quant research position at Morgan Stanley was posted on 2026-07-27.
+This sales engineer position at Morgan Stanley was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

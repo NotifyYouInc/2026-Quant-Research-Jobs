@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northwestern Mutual](https://scoutify.ai/companies/northwesternmutual?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Data Scientist |
+| Category | Strategy & Operations |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Total-Portfolio-Analytics---Investment-AI-Strategy-Lead_JR-45800) |
 
 ## About This Role
 
-This data scientist position at Northwestern Mutual was posted on 2026-08-19.
+This strategy & operations position at Northwestern Mutual was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

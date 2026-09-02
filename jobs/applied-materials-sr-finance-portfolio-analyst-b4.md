@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Corporate Finance |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Sr-Finance-Portfolio-Analyst--B4-_R2626620) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Applied Materials was posted on 2026-08-20.
+This corporate finance position at Applied Materials was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

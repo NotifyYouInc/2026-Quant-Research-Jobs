@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5394933008) |
 
 ## About This Role
 
-This financial analyst position at Palmetto was posted on 2026-08-19.
+This corporate finance position at Palmetto was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

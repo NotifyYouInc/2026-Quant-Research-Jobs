@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 4 locations |
-| Category | Data Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Houston-77056/Portfolio-Analytics---Strategy-Analyst-Senior---Community-Development-Banking_R232048) |
 
 ## About This Role
 
-This data analyst position at PNC Financial was posted on 2026-08-07.
+This strategy & operations position at PNC Financial was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

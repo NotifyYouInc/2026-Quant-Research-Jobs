@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Miami, Florida, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1601584) |
 
 ## About This Role
 
-This financial analyst position at Santander was posted on 2026-08-19.
+This corporate finance position at Santander was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

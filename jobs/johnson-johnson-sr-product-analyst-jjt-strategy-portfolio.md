@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Titusville, Florida, United States |
-| Category | Data Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Sr-Product-Analyst---JJT-Strategy---Portfolio_R-094583-2) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-08-19.
+This strategy & operations position at Johnson & Johnson was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4933777101) |
 
 ## About This Role
 
-This financial analyst position at Man Group was posted on 2026-08-04.
+This corporate finance position at Man Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

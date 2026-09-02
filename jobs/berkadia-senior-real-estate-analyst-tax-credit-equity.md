@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Berkadia](https://scoutify.ai/companies/berkadia?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://boards.greenhouse.io/berkadia/jobs/7860621003?gh_jid=7860621003) |
 
 ## About This Role
 
-This financial analyst position at Berkadia was posted on 2026-08-14.
+This corporate finance position at Berkadia was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Data Analyst |
+| Category | Quant Developer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8735904002) |
 
 ## About This Role
 
-This data analyst position at Qube Research & Technologies was posted on 2026-08-24.
+This quant developer position at Qube Research & Technologies was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
