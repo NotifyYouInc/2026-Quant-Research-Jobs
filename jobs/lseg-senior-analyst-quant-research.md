@@ -1,16 +1,16 @@
-# Market Risk Intern at ING
+# Senior Analyst, Quant Research at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Market-Risk-Intern_REQ-10120493) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Analyst--Quant-Research_R0122759) |
 
 ## About This Role
 
-This quant research position at ING was posted on 2026-08-27.
+This quant research position at LSEG was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

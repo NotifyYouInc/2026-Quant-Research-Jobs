@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/RWA-Analyst--Basel-CCAR--for-Derivatives-team-in-Capital-Planning-Team--CCR----VP_26985299-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-08-11.
+This financial analyst position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

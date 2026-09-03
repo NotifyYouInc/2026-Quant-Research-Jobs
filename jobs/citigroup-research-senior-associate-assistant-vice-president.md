@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Research-Senior-Associate---Assistant-Vice-President_26988117) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-08-18.
+This financial analyst position at Citigroup was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

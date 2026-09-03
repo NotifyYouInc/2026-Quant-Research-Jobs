@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | China |
-| Category | Leadership Development Program |
-| Posted | 2026-05-27 |
+| Category | Quant Research |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hong-Kong-China/Head-of-State-Street-Associates-APAC--Vice-President_R-791211) |
 
 ## About This Role
 
-This leadership development program position at State Street was posted on 2026-05-27.
+This quant research position at State Street was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

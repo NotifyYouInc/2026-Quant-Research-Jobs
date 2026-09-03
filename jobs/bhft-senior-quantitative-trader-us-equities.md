@@ -1,16 +1,16 @@
-# Portfolio Management Analyst at Man Group
+# Senior Quantitative Trader (US Equities) at BHFT
 
 | Field | Details |
 |-------|---------|
-| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [BHFT](https://scoutify.ai/companies/bhft?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Financial Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4933777101) |
+| Category | Quant Research |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bhft/744000145769569-senior-quantitative-trader-us-equities) |
 
 ## About This Role
 
-This financial analyst position at Man Group was posted on 2026-08-04.
+This quant research position at BHFT was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

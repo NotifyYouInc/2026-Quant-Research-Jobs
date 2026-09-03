@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Chicago-IL/Credit-Analyst---Underwriting---Portfolio-Management---Sponsor--Growth---Middle-Market_10078274-WD) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-08-11.
+This financial analyst position at Mitsubishi UFG was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

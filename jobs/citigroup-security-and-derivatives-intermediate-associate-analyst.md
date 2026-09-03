@@ -1,16 +1,16 @@
-# Securities & Derivatives  Sr Analyst - C12 - PUNE at Citigroup
+# Security and Derivatives Intermediate Associate Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Tampa, Florida, United States |
 | Category | Financial Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives--Sr-Analyst---C12---PUNE_26977591) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Security-and-Derivatives-Intermediate-Associate-Analyst_26988717) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-08-10.
+This financial analyst position at Citigroup was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

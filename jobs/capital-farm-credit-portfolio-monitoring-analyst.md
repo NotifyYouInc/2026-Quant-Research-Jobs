@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Farm Credit](https://scoutify.ai/companies/capitalfarmcredit?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Round Rock, Texas, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5379218008) |
 
 ## About This Role
 
-This corporate finance position at Capital Farm Credit was posted on 2026-08-10.
+This financial analyst position at Capital Farm Credit was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

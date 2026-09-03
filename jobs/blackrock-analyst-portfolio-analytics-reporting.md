@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Los-Angeles-CA/Analyst--Portfolio-Analytics---Reporting_R265360) |
 
 ## About This Role
 
-This corporate finance position at Blackrock was posted on 2026-08-07.
+This financial analyst position at Blackrock was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Portfolio Management Analyst at Man Group
+# Quantitative Risk Analyst — Derivatives & Clearing at Polymarket
 
 | Field | Details |
 |-------|---------|
-| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Polymarket](https://scoutify.ai/companies/polymarket?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Financial Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4933777101) |
+| Category | Quant Research |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/polymarket/7659109d-e0e8-420a-a887-d48f740e25ba) |
 
 ## About This Role
 
-This financial analyst position at Man Group was posted on 2026-08-04.
+This quant research position at Polymarket was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

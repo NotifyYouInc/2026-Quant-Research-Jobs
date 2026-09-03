@@ -1,16 +1,16 @@
-# Portfolio Management Analyst at Man Group
+# Senior Quantitative Researcher: OCaml Experience - PERM at Jane Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Financial Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4933777101) |
+| Category | Quant Research |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/8751845002?gh_jid=8751845002) |
 
 ## About This Role
 
-This financial analyst position at Man Group was posted on 2026-08-04.
+This quant research position at Jane Street was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

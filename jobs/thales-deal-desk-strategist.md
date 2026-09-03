@@ -1,16 +1,16 @@
-# Market Risk Intern at ING
+# Deal Desk Strategist at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Germany |
 | Category | Quant Research |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Market-Risk-Intern_REQ-10120493) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Mnchen/Deal-Desk-Strategist_R0337451-1) |
 
 ## About This Role
 
-This quant research position at ING was posted on 2026-08-27.
+This quant research position at Thales was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
