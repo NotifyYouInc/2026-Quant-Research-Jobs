@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# AVP, Sec & Derivatives  Sr Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2_26974785) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/AVP--Sec---Derivatives--Sr-Analyst_26990277) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-08-12.
+This financial analyst position at Citigroup was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

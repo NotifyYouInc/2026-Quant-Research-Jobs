@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Treasury & Capital Markets |
+| Category | Corporate Finance |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Global-Markets--Quant--Structured-Solutions-_JR0000026013) |
 
 ## About This Role
 
-This treasury & capital markets position at Hong Leong Bank was posted on 2026-08-19.
+This corporate finance position at Hong Leong Bank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

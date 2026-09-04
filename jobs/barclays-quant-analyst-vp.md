@@ -1,16 +1,16 @@
-# Quantitative Analytics Professional at Freddie Mac
+# Quant Analyst - VP at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional_JR17528) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quant-Analyst---VP_JR-0000125780) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-08-27.
+This quant research position at Barclays was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

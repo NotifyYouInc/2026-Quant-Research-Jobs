@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ontario Teachers' Pension Plan](https://scoutify.ai/companies/otppb?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Venture Capital / Private Equity |
+| Category | Quant Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Associate--Risk---Models--18-months-contract-_7213) |
 
 ## About This Role
 
-This venture capital / private equity position at Ontario Teachers' Pension Plan was posted on 2026-08-24.
+This quant research position at Ontario Teachers' Pension Plan was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

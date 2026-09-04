@@ -1,16 +1,16 @@
-# Securities & Derivatives Analyst 2 at Citigroup
+# Functions - Quantitative Risk Management, Summer Analyst, Irving - USA, 2027 at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Financial Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2_26974785) |
+| Location | Irving, Texas, United States |
+| Category | Quant Research |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---USA--2027_26990048) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-08-12.
+This quant research position at Citigroup was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

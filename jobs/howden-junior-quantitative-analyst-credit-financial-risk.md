@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Switzerland |
-| Category | Actuary / Insurance Analytics |
+| Category | Corporate Finance |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Switzerland---Bodmerstrasse-9/Junior-Quantitative-Analyst--Credit---Financial-Risk-_R0018956) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Howden was posted on 2026-08-25.
+This corporate finance position at Howden was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

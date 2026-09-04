@@ -1,16 +1,16 @@
-# Quantitative Analytics Professional at Freddie Mac
+# Graduate Performance Engineer at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Quant Research |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional_JR17528) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-08-27.
+This quant research position at IMC Trading was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
