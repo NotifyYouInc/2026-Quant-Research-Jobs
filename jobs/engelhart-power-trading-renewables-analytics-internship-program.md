@@ -1,16 +1,16 @@
-# Senior Deal Desk Strategist at LinkedIn
+# Power Trading & Renewables Analytics Internship Program at Engelhart
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Operations |
+| Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | 2 locations |
+| Category | Quant Research |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146193390-senior-deal-desk-strategist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/8164496) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-08-28.
+This quant research position at Engelhart was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

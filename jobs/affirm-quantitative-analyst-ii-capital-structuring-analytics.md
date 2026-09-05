@@ -1,16 +1,16 @@
-# Senior Deal Desk Strategist at LinkedIn
+# Quantitative Analyst II (Capital Structuring & Analytics) at Affirm
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Operations |
+| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Canada |
+| Category | Corporate Finance |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146193390-senior-deal-desk-strategist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7815954003) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-08-28.
+This corporate finance position at Affirm was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

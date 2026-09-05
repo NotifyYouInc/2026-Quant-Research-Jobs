@@ -1,4 +1,4 @@
-# Fundamental Trading Analyst (Clean Products and Renewables) at Marathon Petroleum
+# Senior Trading Operations Analyst - Middle Office at Marathon Petroleum
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Houston, Texas, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Fundamental-Trading-Analyst--Clean-Products-and-Renewables-_00023667) |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Senior-Trading-Operations-Analyst---Middle-Office_00023671) |
 
 ## About This Role
 

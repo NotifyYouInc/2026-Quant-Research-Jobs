@@ -1,16 +1,16 @@
-# Securities Derivatives Associate Analyst Hybrid at Citigroup
+# Securities & Derivatives Associate Analyst Hybrid at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | United States |
 | Category | Financial Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Securities-Derivatives-Associate-Analyst-Hybrid_26978441) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/5800-SOUTH-CORPORATE-PLACE/Securities---Derivatives-Associate-Analyst-Hybrid_26988005-1) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-07-29.
+This financial analyst position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Analyst  at Legal & General
+# Quantitative Analyst at Legal & General
 
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140659349-quantitative-analyst) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000143782799-quantitative-analyst) |
 
 ## About This Role
 
-This quant research position at Legal & General was posted on 2026-07-30.
+This quant research position at Legal & General was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
