@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Control-Framework-Business-Analyst---Alpha-Data-Services--Assistant-Vice-President_R-796304) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-08-20.
+This business analyst position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

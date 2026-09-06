@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | United States |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Portfolio-Business-Analyst_331046) |
 
 ## About This Role
 
-This quant research position at CACI was posted on 2026-08-25.
+This business analyst position at CACI was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

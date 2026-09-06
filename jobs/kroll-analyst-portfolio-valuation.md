@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | New Delhi, Delhi, India |
 | Category | Quant Research |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014598) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014684) |
 
 ## About This Role
 
-This quant research position at Kroll was posted on 2026-07-31.
+This quant research position at Kroll was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Quant Research |
+| Category | Business Analyst |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Portfolio-Management_REQ530414) |
 
 ## About This Role
 
-This quant research position at JLL was posted on 2026-08-26.
+This business analyst position at JLL was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
