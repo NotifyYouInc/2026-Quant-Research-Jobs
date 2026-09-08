@@ -1,16 +1,16 @@
-# Quantitative Trading Analyst - GD1 at DRW
+# Principal Quant at Grvt
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Grvt](https://scoutify.ai/companies/grvt?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Singapore, Singapore |
 | Category | Quant Research |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8138564) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/grvt/2ffdd2ec-152b-4186-90c2-932958545513) |
 
 ## About This Role
 
-This quant research position at DRW was posted on 2026-08-18.
+This quant research position at Grvt was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

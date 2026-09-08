@@ -1,16 +1,16 @@
-# Lead Business Analyst | Trading Technology at Raymond James Financial
+# Sr. Investment Portfolio Analyst at Raymond James Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Florida, US |
-| Category | Business Analyst |
+| Location | Louisville, Kentucky, United States |
+| Category | Financial Analyst |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Business-Analyst---Trading-Technology_R-0012760) |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Louisville-Kentucky---United-States/Sr-Investment-Portfolio-Analyst_R-0012818) |
 
 ## About This Role
 
-This business analyst position at Raymond James Financial was posted on 2026-08-31.
+This financial analyst position at Raymond James Financial was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

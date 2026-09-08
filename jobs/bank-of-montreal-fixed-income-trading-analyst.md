@@ -1,16 +1,16 @@
-# Student, Private Equity Analyst (Summer 2027, 4 Months) at Omers
+# Fixed Income Trading Analyst at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [Omers](https://scoutify.ai/companies/omers?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
+| Category | Software Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://omers.wd3.myworkdayjobs.com/omers_external/job/Head-Office-Toronto/Student--Private-Equity-Analyst--Summer-2027--4-Months-_JR-8378) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Fixed-Income-Trading-Analyst_R260024556) |
 
 ## About This Role
 
-This corporate finance position at Omers was posted on 2026-08-31.
+This software engineer position at Bank of Montreal was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

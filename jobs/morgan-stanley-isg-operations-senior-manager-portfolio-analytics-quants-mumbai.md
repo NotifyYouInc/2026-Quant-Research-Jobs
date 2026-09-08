@@ -1,4 +1,4 @@
-# MSET QR Client Analytics Role, Senior Manager, Institutional Equity Division at Morgan Stanley
+# ISG Operations - Senior Manager, Portfolio Analytics Quants (Mumbai) at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Quant Research |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/MSET-QR-Client-Analytics-Role--Senior-Manager--Institutional-Equity-Division_JR043078) |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/ISG-Operations---Senior-Manager--Portfolio-Analytics-Quants--Mumbai-_JR042744) |
 
 ## About This Role
 

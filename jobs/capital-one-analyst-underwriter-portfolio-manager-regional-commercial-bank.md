@@ -1,16 +1,16 @@
-# Senior Associate, Quantitative Analyst - Model Risk Office at Capital One
+# Analyst, Underwriter & Portfolio Manager - Regional Commercial Bank at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
-| Category | Quant Research |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Associate--Quantitative-Analyst---Model-Risk-Office_R249475-1) |
+| Location | 3 locations |
+| Category | Financial Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Analyst--Underwriter---Portfolio-Manager---Regional-Commercial-Bank_R999426) |
 
 ## About This Role
 
-This quant research position at Capital One was posted on 2026-08-20.
+This financial analyst position at Capital One was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

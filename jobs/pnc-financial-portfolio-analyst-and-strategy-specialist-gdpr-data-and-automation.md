@@ -1,16 +1,16 @@
-# Quantitative Analytics & Model Analyst - Retail Lending at PNC Financial
+# Portfolio Analyst and Strategy Specialist - GDPR - Data and Automation at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Analyst---Retail-Lending_R233896-2) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analyst-and-Strategy-Specialist---GDPR---Data-and-Automation_R232232-1) |
 
 ## About This Role
 
-This quant research position at PNC Financial was posted on 2026-08-27.
+This strategy & operations position at PNC Financial was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

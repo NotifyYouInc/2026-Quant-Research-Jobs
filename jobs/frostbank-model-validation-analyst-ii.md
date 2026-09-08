@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-08 |
+| Category | Quant Research |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Model-Validation-Analyst-II_R260588) |
 
 ## About This Role
 
-This data analyst position at Frostbank was posted on 2026-04-08.
+This quant research position at Frostbank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

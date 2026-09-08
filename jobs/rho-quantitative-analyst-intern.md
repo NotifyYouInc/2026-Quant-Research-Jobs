@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rho](https://scoutify.ai/companies/rho?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf) |
 
 ## About This Role
 
-This data scientist position at Rho was posted on 2026-08-05.
+This quant research position at Rho was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/MSET-QR-Client-Analytics-Role--Manager--Institutional-Equity-Division_JR038969) |
+| Category | Quant Research |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/MSET-QR-Client-Analytics-Role--Manager--Institutional-Equity-Division_JR043077-1) |
 
 ## About This Role
 
-This data analyst position at Morgan Stanley was posted on 2026-06-16.
+This quant research position at Morgan Stanley was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Diego, California, United States |
-| Category | Program Manager |
+| Category | Strategy & Operations |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Strategic-Portfolio---Business-Operations-Manager--Research_J-00350739-1) |
 
 ## About This Role
 
-This program manager position at ASML was posted on 2026-08-28.
+This strategy & operations position at ASML was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

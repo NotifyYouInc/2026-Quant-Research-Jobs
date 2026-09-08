@@ -1,16 +1,16 @@
-# Analyst/Associate, Private Strategies (CRE Equity Acquisitions) at PIMCO
+# 2027 Summer Intern - Masters Quant Research Analyst, Client Solutions & Analytics, US at PIMCO
 
 | Field | Details |
 |-------|---------|
 | Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/Analyst-Associate--Private-Strategies--CRE-Equity-Acquisitions-_R106561) |
+| Location | Newport Beach, California, United States |
+| Category | Quant Research |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) |
 
 ## About This Role
 
-This corporate finance position at PIMCO was posted on 2026-08-04.
+This quant research position at PIMCO was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

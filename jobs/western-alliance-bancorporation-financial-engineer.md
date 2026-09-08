@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Westlake Village, California, United States |
-| Category | Quant Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Westlake-Village-CA/Financial-Engineer_R13190-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Westlake-Village-CA/Financial-Engineer_R13675-1) |
 
 ## About This Role
 
-This quant research position at Western Alliance Bancorporation was posted on 2026-06-12.
+This data analyst position at Western Alliance Bancorporation was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

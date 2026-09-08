@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst--US-_R_1504854-1) |
 
 ## About This Role
 
-This data scientist position at TD Bank was posted on 2026-08-19.
+This quant research position at TD Bank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

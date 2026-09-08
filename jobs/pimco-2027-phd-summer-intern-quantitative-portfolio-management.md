@@ -1,16 +1,16 @@
-# Senior Quantitative Investment Risk Modeler at Pacific Life
+# 2027 PhD Summer Intern – Quantitative Portfolio Management at PIMCO
 
 | Field | Details |
 |-------|---------|
-| Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Newport Beach, California, United States |
 | Category | Quant Research |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Quantitative-Investment-Risk-Modeler_R17514) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) |
 
 ## About This Role
 
-This quant research position at Pacific Life was posted on 2026-08-18.
+This quant research position at PIMCO was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
