@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Kowloon, Hong Kong |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Securities-Lending-Technology-Business-Analyst--Equity-Finance--Vice-President_26980210) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-13.
+This quant research position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

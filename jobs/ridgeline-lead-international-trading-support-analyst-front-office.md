@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ridgeline](https://scoutify.ai/companies/ridgeline?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | United States |
-| Category | Customer Success |
+| Category | Quant Research |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://boards.greenhouse.io/ridgeline/jobs/7866743003?gh_jid=7866743003) |
 
 ## About This Role
 
-This customer success position at Ridgeline was posted on 2026-08-13.
+This quant research position at Ridgeline was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

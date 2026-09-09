@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Strategy & Operations |
+| Category | Quant Research |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/GSMG-Research-Senior-Associate---Global-Quant-Macro-Strategy_26988426) |
 
 ## About This Role
 
-This strategy & operations position at Citigroup was posted on 2026-08-19.
+This quant research position at Citigroup was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

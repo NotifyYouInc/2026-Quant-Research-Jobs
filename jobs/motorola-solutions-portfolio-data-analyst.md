@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Portfolio-Data-Analyst_R67974) |
 
 ## About This Role
 
-This data analyst position at Motorola Solutions was posted on 2026-08-20.
+This quant research position at Motorola Solutions was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

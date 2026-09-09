@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AES](https://scoutify.ai/companies/aes?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Louisville, Kentucky, United States |
-| Category | Financial Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Louisville-CO/Portfolio-Management-Analyst_R1064604-1) |
 
 ## About This Role
 
-This financial analyst position at AES was posted on 2026-08-28.
+This quant research position at AES was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

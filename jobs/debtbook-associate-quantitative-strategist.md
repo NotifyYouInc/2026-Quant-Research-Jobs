@@ -5,12 +5,12 @@
 | Company | [DebtBook](https://scoutify.ai/companies/debtbook?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Quant Research |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/debtbook/jobs/4698960005) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/debtbook/jobs/4729625005) |
 
 ## About This Role
 
-This quant research position at DebtBook was posted on 2026-05-26.
+This quant research position at DebtBook was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

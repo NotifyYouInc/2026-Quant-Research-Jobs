@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Nunspeet, Gelderland, The Netherlands |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000144262620-senior-product-portfolio-analyst) |
 
 ## About This Role
 
-This data analyst position at IFS was posted on 2026-08-19.
+This quant research position at IFS was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Germany |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Frankfurt-Taunusanlage-12/Quantitative-Strategist-Manager--d-m-w-_R0446621-1) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-08-24.
+This quant research position at Deutsche Bank was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

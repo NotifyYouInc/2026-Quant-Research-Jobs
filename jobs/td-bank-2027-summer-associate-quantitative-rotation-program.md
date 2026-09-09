@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Leadership Development Program |
+| Category | Quant Research |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Associate---Quantitative-Rotation-Program_R_1508352) |
 
 ## About This Role
 
-This leadership development program position at TD Bank was posted on 2026-08-31.
+This quant research position at TD Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

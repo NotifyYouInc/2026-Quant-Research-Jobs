@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Equity-Analyst--Consumer_R26_3102-2) |
 
 ## About This Role
 
-This corporate finance position at Ameriprise Financial was posted on 2026-08-08.
+This quant research position at Ameriprise Financial was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

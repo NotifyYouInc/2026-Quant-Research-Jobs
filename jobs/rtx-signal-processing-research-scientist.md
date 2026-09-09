@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | AI / ML Research |
+| Category | Quant Research |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Signal-Processing-Research-Scientist_01869046) |
 
 ## About This Role
 
-This ai / ml research position at RTX was posted on 2026-08-21.
+This quant research position at RTX was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

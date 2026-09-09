@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Hong-Kong---FWD-Tower/Investment-Research-Specialist--Equity-_R_363196-1) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-08-24.
+This quant research position at Marsh & McLennan Companies was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

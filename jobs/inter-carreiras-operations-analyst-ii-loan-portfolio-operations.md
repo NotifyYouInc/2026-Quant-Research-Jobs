@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4721517005?gh_jid=4721517005) |
 
 ## About This Role
 
-This data analyst position at Inter Carreiras was posted on 2026-08-24.
+This quant research position at Inter Carreiras was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

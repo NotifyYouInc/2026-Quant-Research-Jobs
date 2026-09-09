@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000141879193-front-office-quant-analyst) |
 
 ## About This Role
 
-This quant developer position at Talan was posted on 2026-08-06.
+This quant research position at Talan was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dimensional Fund Advisors](https://scoutify.ai/companies/dimensional?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Analyst-Associate--Investment-Solutions--Portfolio-Consulting-Team-_2026-8986-1) |
 
 ## About This Role
 
-This corporate finance position at Dimensional Fund Advisors was posted on 2026-08-05.
+This quant research position at Dimensional Fund Advisors was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

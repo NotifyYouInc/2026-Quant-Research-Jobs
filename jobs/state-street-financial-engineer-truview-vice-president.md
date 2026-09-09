@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Quant Developer |
+| Category | Quant Research |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Financial-Engineer--truView--Vice-President_R-795952) |
 
 ## About This Role
 
-This quant developer position at State Street was posted on 2026-08-19.
+This quant research position at State Street was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

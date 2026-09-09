@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000144074339-expert-business-analyst-equity-delta-one-sophis-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-08-18.
+This quant research position at Talan was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

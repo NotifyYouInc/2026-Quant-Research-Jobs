@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Venture Capital |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Private-Equity-Senior-Analyst_JR357071) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-08-24.
+This venture capital position at Salesforce was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

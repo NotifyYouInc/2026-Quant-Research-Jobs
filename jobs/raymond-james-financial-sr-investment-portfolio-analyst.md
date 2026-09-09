@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Louisville, Kentucky, United States |
-| Category | Financial Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Louisville-Kentucky---United-States/Sr-Investment-Portfolio-Analyst_R-0012818) |
 
 ## About This Role
 
-This financial analyst position at Raymond James Financial was posted on 2026-08-31.
+This quant research position at Raymond James Financial was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

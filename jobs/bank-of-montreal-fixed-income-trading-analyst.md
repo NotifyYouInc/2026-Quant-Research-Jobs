@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
+| Category | Quant Research |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Fixed-Income-Trading-Analyst_R260024556) |
 
 ## About This Role
 
-This software engineer position at Bank of Montreal was posted on 2026-08-31.
+This quant research position at Bank of Montreal was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

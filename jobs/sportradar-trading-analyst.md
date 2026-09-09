@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000141452980-trading-analyst) |
 
 ## About This Role
 
-This data analyst position at Sportradar was posted on 2026-08-04.
+This quant research position at Sportradar was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

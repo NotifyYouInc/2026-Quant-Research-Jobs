@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Capital-Markets-Trading-Analyst_R-0000033228) |
 
 ## About This Role
 
-This corporate finance position at The Federal Reserve System was posted on 2026-08-28.
+This quant research position at The Federal Reserve System was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

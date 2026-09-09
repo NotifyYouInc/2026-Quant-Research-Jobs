@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Florida, US |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Business-Analyst---Trading-Technology_R-0012760) |
 
 ## About This Role
 
-This business analyst position at Raymond James Financial was posted on 2026-08-31.
+This quant research position at Raymond James Financial was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

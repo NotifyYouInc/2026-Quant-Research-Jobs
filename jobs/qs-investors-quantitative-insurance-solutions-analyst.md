@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Poznań, Greater Poland, Poland |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Poznan-Poland/Quantitative-Insurance-Solutions-Analyst_869339) |
 
 ## About This Role
 
-This data analyst position at QS Investors was posted on 2026-08-20.
+This quant research position at QS Investors was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Portfolio-Analyst_R154960) |
 
 ## About This Role
 
-This business analyst position at Intact was posted on 2026-08-12.
+This quant research position at Intact was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

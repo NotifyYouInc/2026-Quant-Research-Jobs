@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caisse de dépôt et placement du Québec (CDPQ)](https://scoutify.ai/companies/cdpq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Data Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://cdpq.wd10.myworkdayjobs.com/CDPQ-recrutement-universitaire/job/Montreal/Bassin-de-stages---Finance-quantitative--ds-mai-2027-_R05093) |
 
 ## About This Role
 
-This data analyst position at Caisse de dépôt et placement du Québec (CDPQ) was posted on 2026-08-24.
+This quant research position at Caisse de dépôt et placement du Québec (CDPQ) was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

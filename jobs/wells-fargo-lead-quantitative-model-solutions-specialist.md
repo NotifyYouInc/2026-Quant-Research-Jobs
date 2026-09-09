@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Quant Research |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Quantitative-Model-Solutions-Specialist_R-569142) |
 
 ## About This Role
 
-This sales engineer position at Wells Fargo was posted on 2026-08-28.
+This quant research position at Wells Fargo was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

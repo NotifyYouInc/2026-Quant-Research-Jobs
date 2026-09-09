@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Portland-ME/KPB-Senior-Junior-Portfolio-Analyst_R-41405-1) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-08-10.
+This quant research position at KeyBank was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

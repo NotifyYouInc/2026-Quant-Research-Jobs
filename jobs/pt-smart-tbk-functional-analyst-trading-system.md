@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Functional-Analyst--Trading-System-_R-26001207) |
 
 ## About This Role
 
-This business analyst position at PT SMART Tbk was posted on 2026-08-07.
+This quant research position at PT SMART Tbk was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

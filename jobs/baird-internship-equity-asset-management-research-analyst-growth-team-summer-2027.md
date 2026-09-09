@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-08-21.
+This quant research position at Baird was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

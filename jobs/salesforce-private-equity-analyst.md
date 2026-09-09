@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
+| Category | Venture Capital |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Private-Equity--Analyst_JR355899-1) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-08-27.
+This venture capital position at Salesforce was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

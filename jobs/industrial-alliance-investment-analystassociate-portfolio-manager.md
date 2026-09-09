@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Quant Research |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Montreal-Quebec/Analyste-en-investissements---Gestionnaire-de-portefeuille-adjoint-e-_JR10027549) |
 
 ## About This Role
 
-This corporate finance position at Industrial Alliance was posted on 2026-08-31.
+This quant research position at Industrial Alliance was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

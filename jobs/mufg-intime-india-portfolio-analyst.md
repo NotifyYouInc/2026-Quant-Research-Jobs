@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | India |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15870) |
 
 ## About This Role
 
-This business analyst position at MUFG Intime India was posted on 2026-08-17.
+This quant research position at MUFG Intime India was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

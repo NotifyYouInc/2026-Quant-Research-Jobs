@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst-Reg-Reporting--Associate--Portfolio---Change-Management_PT-JR042949) |
 
 ## About This Role
 
-This business analyst position at Morgan Stanley was posted on 2026-08-27.
+This quant research position at Morgan Stanley was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

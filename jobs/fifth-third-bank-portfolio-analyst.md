@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Financial Analyst |
+| Category | Quant Research |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Columbus-OH/Portfolio-Analyst_R71738) |
 
 ## About This Role
 
-This financial analyst position at Fifth Third Bank was posted on 2026-08-25.
+This quant research position at Fifth Third Bank was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
