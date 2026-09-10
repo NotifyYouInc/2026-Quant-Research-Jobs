@@ -1,16 +1,16 @@
-# Quantitative Analyst Intern at Rho
+# Quantitative Research & Analytics at TIAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Rho](https://scoutify.ai/companies/rho?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf) |
+| Category | Quant Research |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Quantitative-Research---Analytics_R260800442) |
 
 ## About This Role
 
-This data scientist position at Rho was posted on 2026-08-05.
+This quant research position at TIAA was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

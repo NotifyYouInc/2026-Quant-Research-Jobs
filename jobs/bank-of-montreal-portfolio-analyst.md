@@ -1,16 +1,16 @@
-# Quantitative Analyst, Retail Models at Cba
+# Portfolio Analyst at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Quantitative-Analyst--Retail-Models_REQ262035-2) |
+| Category | Quant Research |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Halifax-NS-CAN/Portfolio-Analyst_R260025556) |
 
 ## About This Role
 
-This data scientist position at Cba was posted on 2026-08-28.
+This quant research position at Bank of Montreal was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

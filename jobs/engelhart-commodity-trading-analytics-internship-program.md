@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Data Scientist |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/8164615) |
 
 ## About This Role
 
-This quant research position at Engelhart was posted on 2026-08-28.
+This data scientist position at Engelhart was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

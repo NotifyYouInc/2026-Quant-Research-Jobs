@@ -1,16 +1,16 @@
-# 2027 Winter - GRM, Portfolio Risk Data & AI Analyst Intern (4 Months) at Royal Bank of Canada
+# Credit Algo Quant at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2) |
+| Location | New York City, New York, United States |
+| Category | Quant Research |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/Credit-Algo-Quant_R-0000186520-1) |
 
 ## About This Role
 
-This data scientist position at Royal Bank of Canada was posted on 2026-08-20.
+This quant research position at Royal Bank of Canada was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

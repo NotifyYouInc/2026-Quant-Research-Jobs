@@ -1,16 +1,16 @@
-# GSMG Research Senior Associate / Global Macro Strategy at Citigroup
+# Markets – Sales and Trading, Full Time Analyst, Paris – France, 2027 at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/GSMG-Research-Senior-Associate---Global-Quant-Macro-Strategy_26988426) |
+| Location | Paris, Île-de-France, France |
+| Category | Sales & Trading |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Markets---Sales-and-Trading--Full-Time-Analyst--Paris---France--2027_26991740) |
 
 ## About This Role
 
-This strategy & operations position at Citigroup was posted on 2026-08-19.
+This sales & trading position at Citigroup was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

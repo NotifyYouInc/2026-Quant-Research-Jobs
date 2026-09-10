@@ -1,16 +1,16 @@
-# 2027 Winter - GRM, Portfolio Risk Data & AI Analyst Intern (4 Months) at Royal Bank of Canada
+# Quantitative Risk Director at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2) |
+| Category | Quant Research |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director--CCAR-Models_R-0000158350-1) |
 
 ## About This Role
 
-This data scientist position at Royal Bank of Canada was posted on 2026-08-20.
+This quant research position at Royal Bank of Canada was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

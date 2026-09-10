@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/IT-Portfolio-Analyst_R2624446) |
+| Location | 2 locations |
+| Category | Quant Research |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/IT-Portfolio-Analyst_R2626675) |
 
 ## About This Role
 
-This asset management / portfolio management position at Hartford Financial Services was posted on 2026-03-18.
+This quant research position at Hartford Financial Services was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

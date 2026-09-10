@@ -1,16 +1,16 @@
-# Quantitative Trading Analyst - GD1 at DRW
+# Quant Researcher - Macro; Futures / FX at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8138564) |
+| Category | Quant Research |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4966466101) |
 
 ## About This Role
 
-This data scientist position at DRW was posted on 2026-08-18.
+This quant research position at Man Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Porto, Porto, Portugal |
-| Category | Quant Research |
+| Category | Data Scientist |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000145704161-senior-risk-quantitative-analyst-risk) |
 
 ## About This Role
 
-This quant research position at natixis-in-portugal was posted on 2026-08-26.
+This data scientist position at natixis-in-portugal was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
