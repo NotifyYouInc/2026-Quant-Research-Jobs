@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Omers](https://scoutify.ai/companies/omers?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Venture Capital |
+| Category | Corporate Finance |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://omers.wd3.myworkdayjobs.com/omers_external/job/Head-Office-Toronto/Student--Private-Equity-Analyst--Summer-2027--4-Months-_JR-8378) |
 
 ## About This Role
 
-This venture capital position at Omers was posted on 2026-08-31.
+This corporate finance position at Omers was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

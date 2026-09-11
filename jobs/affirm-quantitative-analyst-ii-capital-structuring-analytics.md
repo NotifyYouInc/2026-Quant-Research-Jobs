@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Canada |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7815954003) |
 
 ## About This Role
 
-This quant research position at Affirm was posted on 2026-08-28.
+This corporate finance position at Affirm was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pasadena, Texas, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Playhouse-Plaza---Pasadena-CA/Credit-Products-Real-Estate-Portfolio-Analyst---Special-Servicing_R104625) |
 
 ## About This Role
 
-This quant research position at Regions Bank was posted on 2026-08-31.
+This corporate finance position at Regions Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

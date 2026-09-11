@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Engineer |
+| Category | Quant Research |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Research-Engineer--Portfolio-Management-Group--Associate_R265897) |
 
 ## About This Role
 
-This data engineer position at Blackrock was posted on 2026-08-13.
+This quant research position at Blackrock was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

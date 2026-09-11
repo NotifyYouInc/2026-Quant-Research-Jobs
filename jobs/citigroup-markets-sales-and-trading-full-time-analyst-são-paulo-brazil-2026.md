@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Not specified |
-| Category | Quant Research |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Full-Time-Analyst--So-Paulo---Brazil--2026_26931152) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Sales & Trading |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Full-Time-Analyst--So-Paulo---Brazil--2026_26990829) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-01-23.
+This sales & trading position at Citigroup was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

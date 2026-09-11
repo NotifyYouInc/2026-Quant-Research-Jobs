@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Beijing-CN/Senior-Analyst--Index-Management---Fixed-Income_330845-1) |
 
 ## About This Role
 
-This quant research position at S&P Global was posted on 2026-08-24.
+This corporate finance position at S&P Global was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

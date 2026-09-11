@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Lake Mary, Florida, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Operations-Analyst--Equity-Clearing-Restricted-Securities_R_1499390) |
 
 ## About This Role
 
-This quant research position at TD Bank was posted on 2026-08-18.
+This corporate finance position at TD Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

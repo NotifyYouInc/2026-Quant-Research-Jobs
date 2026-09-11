@@ -5,12 +5,12 @@
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Quant Research |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional-A_JR17494) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional-A_JR17606) |
 
 ## About This Role
 
-This quant research position at Freddie Mac was posted on 2026-08-07.
+This quant research position at Freddie Mac was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

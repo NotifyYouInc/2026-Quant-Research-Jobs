@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Venture Capital |
+| Category | Corporate Finance |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Seoul-Korea-Republic-of/Real-Assets-Division---Analyst--Real-Estate-Private-Equity--Seoul-_JR043128) |
 
 ## About This Role
 
-This venture capital position at Morgan Stanley was posted on 2026-09-02.
+This corporate finance position at Morgan Stanley was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

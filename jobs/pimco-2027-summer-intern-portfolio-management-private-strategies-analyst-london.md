@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Portfolio-Management---Private-Strategies-Analyst--London_R106810-1) |
 
 ## About This Role
 
-This quant research position at PIMCO was posted on 2026-09-01.
+This corporate finance position at PIMCO was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

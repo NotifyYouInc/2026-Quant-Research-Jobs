@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Portfolio-Administration-Analyst---Equity--Associate-2_R-797226) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-09-03.
+This corporate finance position at State Street was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

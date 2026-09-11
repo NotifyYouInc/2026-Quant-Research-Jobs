@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dimensional Fund Advisors](https://scoutify.ai/companies/dimensional?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Austin, Texas, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Analyst--Portfolio-Management--Equities-_2026-8973) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050) |
 
 ## About This Role
 
-This corporate finance position at Dimensional Fund Advisors was posted on 2026-07-30.
+This corporate finance position at Dimensional Fund Advisors was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

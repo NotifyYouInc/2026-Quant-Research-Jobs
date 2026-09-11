@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Analyst--Corporate-Banking---Financial-Institutions-Portfolio-Management_R-572683) |
 
 ## About This Role
 
-This quant research position at Wells Fargo was posted on 2026-09-01.
+This corporate finance position at Wells Fargo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

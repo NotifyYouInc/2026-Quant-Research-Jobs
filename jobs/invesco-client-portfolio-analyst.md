@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Client-Portfolio-Analyst_R-14867) |
 
 ## About This Role
 
-This quant research position at Invesco was posted on 2026-08-05.
+This corporate finance position at Invesco was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

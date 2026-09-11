@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Berkadia](https://scoutify.ai/companies/berkadia?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://boards.greenhouse.io/berkadia/jobs/7870062003?gh_jid=7870062003) |
 
 ## About This Role
 
-This quant research position at Berkadia was posted on 2026-08-14.
+This corporate finance position at Berkadia was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

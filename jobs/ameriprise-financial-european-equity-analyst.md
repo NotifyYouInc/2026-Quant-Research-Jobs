@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | Corporate Finance |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/London-United-Kingdom/European-Equity-Analyst_R26_3220-1) |
 
 ## About This Role
 
-This quant research position at Ameriprise Financial was posted on 2026-08-12.
+This corporate finance position at Ameriprise Financial was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
