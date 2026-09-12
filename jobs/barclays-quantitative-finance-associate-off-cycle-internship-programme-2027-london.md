@@ -1,16 +1,16 @@
-# IB Research Quant Analyst - AVP at Barclays
+# Quantitative Finance Associate Off Cycle Internship Programme 2027 London at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/IB-Research-Quant-Analyst---VP_JR-0000046121-1) |
+| Location | Canary Wharf, England, United Kingdom |
+| Category | Quant Research |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-08-28.
+This quant research position at Barclays was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

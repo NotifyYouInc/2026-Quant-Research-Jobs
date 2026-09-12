@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
-| Category | Quant Research |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Credit-Portfolio-Sr-Analyst_26979274) |
+| Location | Gurugram, Haryana, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Credit-Portfolio-Sr-Analyst_26987226) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-08-05.
+This compliance & risk management position at Citigroup was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

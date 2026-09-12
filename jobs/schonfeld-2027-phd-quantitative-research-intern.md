@@ -1,16 +1,16 @@
-# Portfolio Management Analyst at Mattel
+# 2027 PhD Quantitative Research Intern at Schonfeld
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | El Segundo, California, United States |
+| Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Miami, Florida, United States |
 | Category | Quant Research |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000142891880-portfolio-management-analyst) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) |
 
 ## About This Role
 
-This quant research position at Mattel was posted on 2026-08-11.
+This quant research position at Schonfeld was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

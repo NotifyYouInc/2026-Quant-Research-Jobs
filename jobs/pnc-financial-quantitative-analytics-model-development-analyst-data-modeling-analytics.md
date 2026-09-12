@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 2 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Quant Research |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Development-Analyst---Data--Modeling---Analytics_R229308-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Development-Analyst---Data--Modeling---Analytics_R233105-1) |
 
 ## About This Role
 
-This quant research position at PNC Financial was posted on 2026-07-25.
+This quant research position at PNC Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

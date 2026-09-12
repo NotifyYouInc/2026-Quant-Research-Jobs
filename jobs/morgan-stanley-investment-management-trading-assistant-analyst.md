@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
+| Category | Sales & Trading |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Investment-Management---Trading-Assistant---Analyst_JR036766) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-07.
+This sales & trading position at Morgan Stanley was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

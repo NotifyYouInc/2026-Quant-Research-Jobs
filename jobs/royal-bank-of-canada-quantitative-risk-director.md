@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director--CCAR-Models_R-0000158350-1) |
 
 ## About This Role
 
-This quant research position at Royal Bank of Canada was posted on 2026-09-03.
+This compliance & risk management position at Royal Bank of Canada was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
