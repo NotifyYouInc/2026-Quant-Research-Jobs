@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Investment Banking |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Institutional-Equity-Division---Analyst-Associate--Strategic-Investments--New-York-_JR043144-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-09-01.
+This investment banking position at Morgan Stanley was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

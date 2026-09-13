@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crow Holdings](https://scoutify.ai/companies/recruiting2-ultipro-com-oj26187?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Not specified |
-| Category | Corporate Finance |
+| Category | Venture Capital |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/cro1013crfm/JobBoard/96781b0d-b298-4bd5-a9d9-c0f8b2102e4c/OpportunityDetail?opportunityId=482abee2-5194-4ac5-a13d-bf1fae9fc69e) |
 
 ## About This Role
 
-This corporate finance position at Crow Holdings was posted on 2026-09-01.
+This venture capital position at Crow Holdings was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
