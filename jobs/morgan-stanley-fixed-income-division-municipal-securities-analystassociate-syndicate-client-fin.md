@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Investment Banking |
+| Category | Corporate Finance |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Municipal-Securities---Analyst-Associate--Syndicate-Client-Financing--New-York-_JR043034) |
 
 ## About This Role
 
-This investment banking position at Morgan Stanley was posted on 2026-08-28.
+This corporate finance position at Morgan Stanley was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

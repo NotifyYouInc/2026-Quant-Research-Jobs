@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# 2026 秋季实习｜量化研究实习生 at AXQ Capital
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [AXQ Capital](https://scoutify.ai/companies/axq-capital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Quant Research |
 | Posted | 2026-09-07 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0447137) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axq/jobs/6184100004) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-09-07.
+This quant research position at AXQ Capital was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

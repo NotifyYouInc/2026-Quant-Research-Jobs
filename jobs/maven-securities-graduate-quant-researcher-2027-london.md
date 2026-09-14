@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Graduate Quant Researcher 2027  London at Maven Securities
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Maven Securities](https://scoutify.ai/companies/mavensecuritiesholdingltd?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
 | Posted | 2026-09-07 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0447137) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048825) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-09-07.
+This quant research position at Maven Securities was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

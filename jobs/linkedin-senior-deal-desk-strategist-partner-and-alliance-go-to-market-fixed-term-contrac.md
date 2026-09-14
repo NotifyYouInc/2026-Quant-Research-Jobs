@@ -1,16 +1,16 @@
-# Senior Deal Desk Strategist, Partner and Alliance Go-to-Market  at LinkedIn
+# Senior Deal Desk Strategist, Partner and Alliance Go-to-Market [Fixed Term Contract] at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Operations |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000147409049-senior-deal-desk-strategist-partner-and-alliance-go-to-market) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000147837159-senior-deal-desk-strategist-partner-and-alliance-go-to-market-fixed-term-contract) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-09-04.
+This operations position at LinkedIn was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
