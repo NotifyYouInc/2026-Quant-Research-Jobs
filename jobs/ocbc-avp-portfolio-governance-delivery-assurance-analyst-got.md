@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Singapore, Singapore |
-| Category | Program Manager |
+| Category | Quant Research |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/AVP--Portfolio-Governance---Delivery-Assurance-Analyst--GO-T_JR00010261) |
 
 ## About This Role
 
-This program manager position at OCBC was posted on 2026-08-14.
+This quant research position at OCBC was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

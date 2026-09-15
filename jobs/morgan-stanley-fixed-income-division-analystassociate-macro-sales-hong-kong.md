@@ -1,16 +1,16 @@
-# Institutional Equity Division – Analyst/Associate, Strategic Investments (New York) at Morgan Stanley
+# Fixed Income Division - Analyst/Associate, Macro Sales (Hong Kong) at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
-| Category | Investment Banking |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Institutional-Equity-Division---Analyst-Associate--Strategic-Investments--New-York-_JR043144-1) |
+| Location | Hong Kong, Hong Kong |
+| Category | Sales & Trading |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/Fixed-Income-Division---Analyst-Associate--Macro-Sales--Hong-Kong-_JR043452) |
 
 ## About This Role
 
-This investment banking position at Morgan Stanley was posted on 2026-09-01.
+This sales & trading position at Morgan Stanley was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

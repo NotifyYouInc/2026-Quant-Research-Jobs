@@ -1,16 +1,16 @@
-# Research Director, Program Lead (Quantitative Research) at Research Partnership
+# 2027 Summer Internship Program – Trading, London at Brevan Howard
 
 | Field | Details |
 |-------|---------|
-| Company | [Research Partnership](https://scoutify.ai/companies/researchpartnership?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Brevan Howard](https://scoutify.ai/companies/brevanhoward?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/researchpartnership/jobs/8078872) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584) |
 
 ## About This Role
 
-This quant research position at Research Partnership was posted on 2026-08-11.
+This quant research position at Brevan Howard was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Actuary / Insurance Analytics |
+| Category | Corporate Finance |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Analyst--Underwriter---Portfolio-Manager---Regional-Commercial-Bank_R999426) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Capital One was posted on 2026-08-31.
+This corporate finance position at Capital One was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

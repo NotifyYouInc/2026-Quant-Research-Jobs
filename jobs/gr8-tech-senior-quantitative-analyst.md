@@ -1,16 +1,16 @@
-# Senior Business Analyst, Portfolio Management at MUFG Intime India
+# Senior Quantitative Analyst at GR8 Tech
 
 | Field | Details |
 |-------|---------|
-| Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Australia |
+| Company | [GR8 Tech](https://scoutify.ai/companies/gr8-tech?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | United States |
 | Category | Quant Research |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15923) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4966977101) |
 
 ## About This Role
 
-This quant research position at MUFG Intime India was posted on 2026-09-08.
+This quant research position at GR8 Tech was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

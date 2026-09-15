@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Program Manager |
+| Category | Quant Research |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Study-Start-Up-Associate-II--Investigator-Pricing-Analyst--Budget-Analyst-_JR153501) |
 
 ## About This Role
 
-This program manager position at ICON plc was posted on 2026-08-21.
+This quant research position at ICON plc was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

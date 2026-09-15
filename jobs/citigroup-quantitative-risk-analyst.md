@@ -1,16 +1,16 @@
-# Strategic Equity Solutions Advisory, Analyst/Associate at Citigroup
+# Quantitative Risk Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Investment Banking |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Strategic-Equity-Solutions-Advisory--Analyst-Associate_26983768) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Quantitative-Risk-Analyst_26989528) |
 
 ## About This Role
 
-This investment banking position at Citigroup was posted on 2026-08-14.
+This compliance & risk management position at Citigroup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

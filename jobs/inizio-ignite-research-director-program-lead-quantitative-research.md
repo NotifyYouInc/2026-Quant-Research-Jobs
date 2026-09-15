@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inizio Ignite](https://scoutify.ai/companies/inizio-ignite?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Program Manager |
+| Category | Quant Research |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ashfieldadvisory/jobs/8121125) |
 
 ## About This Role
 
-This program manager position at Inizio Ignite was posted on 2026-08-11.
+This quant research position at Inizio Ignite was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

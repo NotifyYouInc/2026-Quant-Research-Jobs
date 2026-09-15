@@ -1,16 +1,16 @@
-# Strategic Equity Solutions Advisory, Analyst/Associate at Citigroup
+# APAC Rates Trading Middle Office Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Investment Banking |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Strategic-Equity-Solutions-Advisory--Analyst-Associate_26983768) |
+| Location | Singapore, Singapore |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/APAC-Rates-Trading-Middle-Office-Analyst_26992550) |
 
 ## About This Role
 
-This investment banking position at Citigroup was posted on 2026-08-14.
+This corporate finance position at Citigroup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

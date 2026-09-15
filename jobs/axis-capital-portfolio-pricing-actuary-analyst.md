@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AXIS Capital](https://scoutify.ai/companies/axis-capital?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Actuary / Insurance Analytics |
+| Category | Corporate Finance |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Portfolio-Pricing-Actuary---Analyst_REQ06729) |
 
 ## About This Role
 
-This actuary / insurance analytics position at AXIS Capital was posted on 2026-09-04.
+This corporate finance position at AXIS Capital was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
