@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talos](https://scoutify.ai/companies/talos-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Not specified |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/talos-trading/0c150c16-ed0e-4f21-81d6-e85f67437f00) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/talos-trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b) |
 
 ## About This Role
 
-This quant research position at Talos was posted on 2026-01-23.
+This quant research position at Talos was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst---Regulatory-Capital-and-Counterparty-Credit-Risk_26987507) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-08-18.
+This quant developer position at Citigroup was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

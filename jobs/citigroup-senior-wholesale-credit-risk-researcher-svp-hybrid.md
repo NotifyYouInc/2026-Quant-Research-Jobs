@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Senior-Wholesale-Credit-Risk-Researcher--SVP--Hybrid-_26991810) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-09-04.
+This quant research position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

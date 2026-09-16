@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8172053) |
 
 ## About This Role
 
-This compliance & risk management position at Schonfeld was posted on 2026-09-04.
+This quant research position at Schonfeld was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

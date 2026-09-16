@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Quantitative-Risk-Analyst_26989528) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-09-08.
+This quant research position at Citigroup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

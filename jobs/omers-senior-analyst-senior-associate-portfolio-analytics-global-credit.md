@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Omers](https://scoutify.ai/companies/omers?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Quant Research |
+| Category | Quant Developer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Senior-Analyst--Senior-Associate---Portfolio-Analytics---Global-Credit_JR-8396) |
 
 ## About This Role
 
-This quant research position at Omers was posted on 2026-09-02.
+This quant developer position at Omers was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

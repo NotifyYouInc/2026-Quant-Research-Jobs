@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Chicago-IL/Credit-Analyst---Underwriting---Portfolio-Management---Sponsor--Growth---Middle-Market_10078274-WD) |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Los-Angeles-CA/Credit-Analyst---Underwriting---Portfolio-Management---Sponsor--Growth---Middle-Market_10078352-WD) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Hong Kong, Hong Kong |
 | Category | Quant Research |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/8754684002?gh_jid=8754684002) |
 
 ## About This Role
 
-This quant research position at Jane Street was posted on 2026-08-03.
+This quant research position at Jane Street was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

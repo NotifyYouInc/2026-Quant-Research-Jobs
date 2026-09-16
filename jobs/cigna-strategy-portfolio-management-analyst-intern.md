@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Belgium |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/BEL-Antwerp-35-hrs/XMLNAME--Strategy---Portfolio-Management-Analyst-intern_26010846) |
 
 ## About This Role
 
-This operations position at Cigna was posted on 2026-09-04.
+This strategy & operations position at Cigna was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Portfolio-Intelligence-Analyst_JR18406) |
 
 ## About This Role
 
-This quant research position at Colliers was posted on 2026-08-31.
+This asset management / portfolio management position at Colliers was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

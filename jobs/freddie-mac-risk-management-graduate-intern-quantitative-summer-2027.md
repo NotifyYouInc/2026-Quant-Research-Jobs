@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Compliance & Risk Management |
+| Category | Quant Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
 
 ## About This Role
 
-This compliance & risk management position at Freddie Mac was posted on 2026-08-24.
+This quant research position at Freddie Mac was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

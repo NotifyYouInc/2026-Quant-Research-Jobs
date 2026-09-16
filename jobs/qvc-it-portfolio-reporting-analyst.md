@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QVC](https://scoutify.ai/companies/qvc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | West Chester, Pennsylvania, United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://qvc.wd5.myworkdayjobs.com/qrg/job/USA-PA-West-Chester/IT-Portfolio-Reporting-Analyst_R83109) |
 
 ## About This Role
 
-This quant research position at QVC was posted on 2026-08-18.
+This asset management / portfolio management position at QVC was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
