@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/5800-SOUTH-CORPORATE-PLACE/Securities---Derivatives-Associate-Analyst-Hybrid_26988005-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-08-20.
+This financial analyst position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

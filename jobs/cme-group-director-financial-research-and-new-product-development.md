@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | UX Researcher |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/New-York---300-Vesey-Street/Director--Financial-Research-and-New-Product-Development_34744) |
 
 ## About This Role
 
-This quant research position at CME Group was posted on 2026-09-03.
+This ux researcher position at CME Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

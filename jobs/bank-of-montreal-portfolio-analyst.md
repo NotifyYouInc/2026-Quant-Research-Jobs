@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Halifax-NS-CAN/Portfolio-Analyst_R260025556) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-09-02.
+This financial analyst position at Bank of Montreal was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

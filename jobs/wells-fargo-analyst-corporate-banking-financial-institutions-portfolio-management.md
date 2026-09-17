@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Analyst--Corporate-Banking---Financial-Institutions-Portfolio-Management_R-572683) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-09-01.
+This financial analyst position at Wells Fargo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

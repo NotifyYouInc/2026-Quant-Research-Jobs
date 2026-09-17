@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cibc](https://scoutify.ai/companies/cibc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Investment Banking |
+| Category | Corporate Finance |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2027-Analyst-I--Equity-Solutions-Group_2618393) |
 
 ## About This Role
 
-This investment banking position at Cibc was posted on 2026-09-08.
+This corporate finance position at Cibc was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

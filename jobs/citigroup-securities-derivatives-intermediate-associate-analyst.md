@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York, US |
-| Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Securities---Derivatives-Intermediate-Associate-Analyst_26962781) |
+| Location | Jersey City, New Jersey, United States |
+| Category | Financial Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Securities---Derivatives-Intermediate-Associate-Analyst_26992279) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-11.
+This financial analyst position at Citigroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

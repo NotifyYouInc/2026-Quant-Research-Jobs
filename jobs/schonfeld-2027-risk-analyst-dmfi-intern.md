@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | Financial Analyst |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8172053) |
 
 ## About This Role
 
-This quant research position at Schonfeld was posted on 2026-09-04.
+This financial analyst position at Schonfeld was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
