@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Investment Management Corporation of Ontario](https://scoutify.ai/companies/imcoinvest?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Associate-Investment-Risk-Research-and-Analytics_R26-56) |
+| Category | Quant Research |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Associate-Investment-Risk-Research-and-Analytics_R26-128-1) |
 
 ## About This Role
 
-This corporate finance position at Investment Management Corporation of Ontario was posted on 2026-03-27.
+This quant research position at Investment Management Corporation of Ontario was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Data Analyst |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Sr-Analyst--Portfolio-Marketing_R-106074) |
 
 ## About This Role
 
-This asset management / portfolio management position at Heinz was posted on 2026-08-25.
+This data analyst position at Heinz was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

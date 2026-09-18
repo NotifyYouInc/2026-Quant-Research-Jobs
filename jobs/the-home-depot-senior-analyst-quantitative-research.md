@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Smyrna, Georgia, United States |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/SMYRNA-PACES-SUMMIT---9125/Senior-Analyst--Quantitative-Research_Req192466) |
 
 ## About This Role
 
-This data scientist position at The Home Depot was posted on 2026-09-09.
+This quant research position at The Home Depot was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

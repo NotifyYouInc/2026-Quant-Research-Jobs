@@ -1,16 +1,16 @@
-# Senior Deal Desk Strategist - Fixed Term Contract at LinkedIn
+# Senior Deal Desk Strategist [Fixed Term Contract] at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Operations |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000120346221-senior-deal-desk-strategist-fixed-term-contract) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000148986419-senior-deal-desk-strategist-fixed-term-contract) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-04-13.
+This operations position at LinkedIn was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

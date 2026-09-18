@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.eu.lever.co/seb/6d5871c3-1532-465f-a4ed-2f10ac1d5cdd) |
 
 ## About This Role
 
-This quant research position at SEB bankas was posted on 2026-08-18.
+This data analyst position at SEB bankas was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

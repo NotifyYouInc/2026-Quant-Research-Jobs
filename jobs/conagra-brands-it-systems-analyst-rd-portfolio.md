@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Omaha, Nebraska, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Systems-Analyst---R-D-Portfolio_Req-039939) |
 
 ## About This Role
 
-This asset management / portfolio management position at Conagra Brands was posted on 2026-08-31.
+This quant research position at Conagra Brands was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

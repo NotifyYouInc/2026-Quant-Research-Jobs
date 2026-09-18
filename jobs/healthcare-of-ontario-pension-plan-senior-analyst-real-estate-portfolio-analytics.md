@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Healthcare of Ontario Pension Plan](https://scoutify.ai/companies/hoopp?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Senior-Analyst--Real-Estate-Portfolio-Analytics_JR102518) |
 
 ## About This Role
 
-This quant research position at Healthcare of Ontario Pension Plan was posted on 2026-08-31.
+This data analyst position at Healthcare of Ontario Pension Plan was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

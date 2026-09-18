@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Content--Lead--Analyst---Equity-Indices_R0122701) |
 
 ## About This Role
 
-This quant research position at LSEG was posted on 2026-09-03.
+This data analyst position at LSEG was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

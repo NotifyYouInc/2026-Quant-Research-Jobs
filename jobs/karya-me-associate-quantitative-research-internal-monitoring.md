@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Karya](https://scoutify.ai/companies/karya?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | India |
-| Category | Quant Research |
+| Category | Data Analyst |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/karya/jobs/4190753008) |
 
 ## About This Role
 
-This quant research position at Karya was posted on 2026-09-03.
+This data analyst position at Karya was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

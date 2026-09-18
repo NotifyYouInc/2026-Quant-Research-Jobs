@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Kowloon, Hong Kong |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/XMLNAME--SAS-required--Wealth-Lending-In-Business-Risk-Stress-Testing--Credit-Portfolio-Sr-Analyst--AVP_26990770-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Citigroup was posted on 2026-08-31.
+This quant research position at Citigroup was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

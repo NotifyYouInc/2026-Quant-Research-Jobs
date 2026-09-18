@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Newport Beach, California, United States |
-| Category | Data Scientist |
+| Category | Quant Research |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Quantitative-Investment-Risk-Modeler_R17514) |
 
 ## About This Role
 
-This data scientist position at Pacific Life was posted on 2026-08-18.
+This quant research position at Pacific Life was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
