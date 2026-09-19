@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Victory Capital](https://scoutify.ai/companies/recruiting-ultipro-com-oj115371?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Not specified |
-| Category | Data Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://recruiting.ultipro.com/vic1003/JobBoard/11134378-1d50-0a15-afaf-715c22796301/OpportunityDetail?opportunityId=f31abc16-d074-4dc4-8bd9-32d1b3e7a8fd) |
 
 ## About This Role
 
-This data analyst position at Victory Capital was posted on 2026-08-21.
+This corporate finance position at Victory Capital was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

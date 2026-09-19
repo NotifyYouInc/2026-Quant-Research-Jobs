@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Portfolio---Performance-Analyst_544423-1) |
 
 ## About This Role
 
-This quant research position at Haleon was posted on 2026-09-04.
+This asset management / portfolio management position at Haleon was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

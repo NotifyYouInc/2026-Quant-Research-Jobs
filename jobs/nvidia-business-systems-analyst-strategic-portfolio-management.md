@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Business-Systems-Analyst---Strategic-Portfolio-Management_JR2025007-1) |
 
 ## About This Role
 
-This quant research position at Nvidia was posted on 2026-09-10.
+This asset management / portfolio management position at Nvidia was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/ISG-Operations---Senior-Manager--Portfolio-Analytics-Quants--Mumbai-_JR042744) |
 
 ## About This Role
 
-This quant research position at Morgan Stanley was posted on 2026-09-01.
+This asset management / portfolio management position at Morgan Stanley was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

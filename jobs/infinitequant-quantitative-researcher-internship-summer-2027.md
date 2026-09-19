@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Quant Research |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044-quantitative-researcher-internship-summer-2027) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421-quantitative-researcher-internship-summer-2027) |
 
 ## About This Role
 

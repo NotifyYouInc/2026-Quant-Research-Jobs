@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 8 locations |
-| Category | Quant Research |
+| Category | Data Scientist |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/100-Ottawa-Ave-Sw----GRAND-RAPIDS-MI/Lead-Quantitative-Analyst--Revenue-Intelligence_JR114121) |
 
 ## About This Role
 
-This quant research position at Acrisure was posted on 2026-08-18.
+This data scientist position at Acrisure was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

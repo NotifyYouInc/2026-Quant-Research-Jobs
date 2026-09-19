@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Principal-Analyst---AI-Portfolio_24754-1) |
 
 ## About This Role
 
-This quant research position at OneWest Bank was posted on 2026-09-09.
+This asset management / portfolio management position at OneWest Bank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Fort-Lauderdale-Florida-United-States/Portfolio-Credit-Risk-Management-2nd-LOD-Lead-Analyst--Vice-President_26991143) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-09-01.
+This asset management / portfolio management position at Citigroup was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

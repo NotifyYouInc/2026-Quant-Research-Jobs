@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bridgeport, Connecticut, United States |
-| Category | Quant Research |
+| Category | Data Scientist |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Bridgeport-CT/Credit-Model-Development-Quantitative-Analyst-II--Hybrid---See-Job-Description-for-Listed-Locations-_R89920) |
 
 ## About This Role
 
-This quant research position at M&T Bank was posted on 2026-09-03.
+This data scientist position at M&T Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

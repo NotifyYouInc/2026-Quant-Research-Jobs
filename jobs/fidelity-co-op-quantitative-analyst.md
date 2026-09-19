@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 4 locations |
 | Category | Quant Developer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2125095) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2135235) |
 
 ## About This Role
 
-This quant developer position at Fidelity was posted on 2026-02-24.
+This quant developer position at Fidelity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

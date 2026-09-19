@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Jacksonville, Florida, United States |
-| Category | Quant Research |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Equity-and-Deferred-Compensation-Sr-Analyst---AVP_26979312) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-08-20.
+This human resources / people ops position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
