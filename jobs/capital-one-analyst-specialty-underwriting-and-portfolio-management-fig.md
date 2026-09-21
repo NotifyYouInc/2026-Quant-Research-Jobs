@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Analyst--Specialty-Underwriting-and-Portfolio-Management---FIG_R1000018-1) |
 
 ## About This Role
 
-This financial analyst position at Capital One was posted on 2026-09-09.
+This corporate finance position at Capital One was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

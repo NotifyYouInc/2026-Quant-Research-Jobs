@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jefferson Health](https://scoutify.ai/companies/jefferson-health?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Fort Washington, Maryland, United States |
-| Category | Quant Research |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jeffersonhealth.wd5.myworkdayjobs.com/thomasjeffersonexternal/job/Montgomery-County-PA/Senior-Analyst-Clinical-Applications-Derivatives-Team_REQ-0033769-2) |
 
 ## About This Role
 
-This quant research position at Jefferson Health was posted on 2026-09-03.
+This it & systems administration position at Jefferson Health was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

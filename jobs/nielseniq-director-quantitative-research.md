@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Quant Research |
+| Category | Customer Success Manager |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000148871114-director-quantitative-research) |
 
 ## About This Role
 
-This quant research position at NielsenIQ was posted on 2026-09-10.
+This customer success manager position at NielsenIQ was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

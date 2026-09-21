@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Portfolio-Strategist--Intermediate-Level-_R0120506) |
 
 ## About This Role
 
-This financial analyst position at USAA was posted on 2026-09-10.
+This corporate finance position at USAA was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

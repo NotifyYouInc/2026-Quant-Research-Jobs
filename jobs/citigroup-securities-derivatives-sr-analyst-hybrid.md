@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Securities---Derivatives--Sr-Analyst-Hybrid_26989613) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-08-27.
+This corporate finance position at Citigroup was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

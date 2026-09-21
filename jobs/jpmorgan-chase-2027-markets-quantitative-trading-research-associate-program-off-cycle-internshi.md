@@ -1,16 +1,16 @@
-# Trading Services Analyst - Triparty Operations at JPMorgan Chase
+# 2027 Markets Quantitative Trading & Research Associate Program – Off-Cycle Internship - Hong Kong at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | National Capital Region, PH |
-| Category | Corporate Finance |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784813) |
+| Location | Hong Kong, Hong Kong |
+| Category | Quant Research |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784369) |
 
 ## About This Role
 
-This corporate finance position at JPMorgan Chase was posted on 2026-08-27.
+This quant research position at JPMorgan Chase was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

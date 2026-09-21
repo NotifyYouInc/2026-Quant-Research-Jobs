@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Research-Analyst---Canadian-Equity---Resources_R260026242) |
 
 ## About This Role
 
-This financial analyst position at Bank of Montreal was posted on 2026-09-10.
+This corporate finance position at Bank of Montreal was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

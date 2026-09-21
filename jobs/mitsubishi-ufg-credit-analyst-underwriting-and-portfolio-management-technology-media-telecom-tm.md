@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/San-Francisco-CA/Credit-Analyst---Underwriting-and-Portfolio-Management---Technology--Media---Telecom--TMT-_10079215-WD) |
 
 ## About This Role
 
-This financial analyst position at Mitsubishi UFG was posted on 2026-09-09.
+This corporate finance position at Mitsubishi UFG was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

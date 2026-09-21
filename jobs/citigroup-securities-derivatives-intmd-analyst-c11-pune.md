@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Intmd-Analyst---C11---PUNE_26992558) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-09-04.
+This corporate finance position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

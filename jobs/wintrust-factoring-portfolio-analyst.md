@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Chicago-IL/Factoring-Portfolio-Analyst_261436) |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Chicago-IL/Factoring-Portfolio-Analyst_261741) |
 
 ## About This Role
 
-This asset management / portfolio management position at Wintrust was posted on 2026-07-29.
+This corporate finance position at Wintrust was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

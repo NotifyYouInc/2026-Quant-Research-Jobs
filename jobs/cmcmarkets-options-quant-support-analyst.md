@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cmcmarkets](https://scoutify.ai/companies/cmcmarkets?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Quant Research |
+| Category | Technical Support Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/Sydney/Options-Quant-Support-Analyst_CMC5452) |
 
 ## About This Role
 
-This quant research position at Cmcmarkets was posted on 2026-08-26.
+This technical support engineer position at Cmcmarkets was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pathward, N.A.](https://scoutify.ai/companies/pathward-na?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/pathward/jobs/6186507004) |
 
 ## About This Role
 
-This financial analyst position at Pathward, N.A. was posted on 2026-09-09.
+This corporate finance position at Pathward, N.A. was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

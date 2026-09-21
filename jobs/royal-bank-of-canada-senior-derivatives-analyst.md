@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Derivatives-Analyst_R-0000186561) |
 
 ## About This Role
 
-This financial analyst position at Royal Bank of Canada was posted on 2026-09-11.
+This corporate finance position at Royal Bank of Canada was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

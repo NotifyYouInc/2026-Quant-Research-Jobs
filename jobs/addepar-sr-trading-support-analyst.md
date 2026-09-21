@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Quant Research |
+| Category | Technical Support Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8744018002) |
 
 ## About This Role
 
-This quant research position at Addepar was posted on 2026-08-26.
+This technical support engineer position at Addepar was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

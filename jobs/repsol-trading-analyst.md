@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Repsol](https://scoutify.ai/companies/repsol?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://repsol.wd3.myworkdayjobs.com/ref_ext/job/Campus-Repsol-Madrid/TRADING-ANALYST_82459) |
 
 ## About This Role
 
-This financial analyst position at Repsol was posted on 2026-09-10.
+This corporate finance position at Repsol was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

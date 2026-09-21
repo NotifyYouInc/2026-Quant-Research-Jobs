@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chesterfield, Missouri, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Investments---Fixed-Income-Credit-Research_J28750) |
 
 ## About This Role
 
-This financial analyst position at RGA Reinsurance Company was posted on 2026-09-09.
+This corporate finance position at RGA Reinsurance Company was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
