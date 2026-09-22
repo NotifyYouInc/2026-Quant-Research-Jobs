@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Rosemont, California, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Rosemont-IL/Sr-Quantitative-Analyst---Model-Risk-Management_261697-1) |
 
 ## About This Role
 
-This quant research position at Wintrust was posted on 2026-09-09.
+This compliance & risk management position at Wintrust was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

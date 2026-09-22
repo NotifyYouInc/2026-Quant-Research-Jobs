@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753) |
 
 ## About This Role
 
-This quant research position at USAA was posted on 2026-09-10.
+This compliance & risk management position at USAA was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

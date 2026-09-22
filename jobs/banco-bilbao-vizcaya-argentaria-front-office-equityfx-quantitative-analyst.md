@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Quant Developer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/Front-Office-Equity-FX-Quantitative-Analyst_JR00100673-1) |
+| Category | Quant Research |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/Front-Office-Equity-FX-Quantitative-Analyst_JR00114339-2) |
 
 ## About This Role
 
-This quant developer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-05.
+This quant research position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

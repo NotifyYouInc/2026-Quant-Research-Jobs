@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | United States |
-| Category | Quant Research |
+| Category | QA Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Remote-USA/Senior-Institutional-Services-Automation-Quality-Control-Analyst--Bonds--Cash--Trading-_R88888-2) |
 
 ## About This Role
 
-This quant research position at M&T Bank was posted on 2026-08-21.
+This qa engineer position at M&T Bank was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-06-12 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/London-UK/AVP-Quantitative-Researcher_R0019116) |
 
 ## About This Role
 
-This quant research position at Abglobal was posted on 2026-06-12.
+This quant research position at Abglobal was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

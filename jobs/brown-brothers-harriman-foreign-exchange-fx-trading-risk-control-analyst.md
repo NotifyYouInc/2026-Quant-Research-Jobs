@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/Foreign-Exchange--FX--Trading-Risk---Control-Analyst_72129-1) |
 
 ## About This Role
 
-This quant research position at Brown Brothers Harriman was posted on 2026-09-09.
+This compliance & risk management position at Brown Brothers Harriman was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

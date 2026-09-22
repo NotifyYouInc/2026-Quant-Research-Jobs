@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Research |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Hungary-Remote/Service-Portfolio-Analyst_R18015) |
 
 ## About This Role
 
-This asset management / portfolio management position at Clarioclinical was posted on 2026-09-08.
+This quant research position at Clarioclinical was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

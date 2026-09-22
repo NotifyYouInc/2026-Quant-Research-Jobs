@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Wilmington, North Carolina, United States |
-| Category | Quant Research |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Public-Finance-Waterfall-Modeling-Team-Lead---Global-Capital-Markets-Quantitative-Risk-Analyst_R89221) |
 
 ## About This Role
 
-This quant research position at M&T Bank was posted on 2026-09-10.
+This compliance & risk management position at M&T Bank was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
