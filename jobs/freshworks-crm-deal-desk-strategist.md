@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Operations |
+| Category | Revenue / Sales Operations |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000144466115-deal-desk-strategist) |
 
 ## About This Role
 
-This operations position at Freshworks CRM was posted on 2026-08-20.
+This revenue / sales operations position at Freshworks CRM was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

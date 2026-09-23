@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Florida, US |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Portfolio-and-Program-Management-Analyst_RQ227887-1) |
 
 ## About This Role
 
-This quant research position at General Dynamics Information Technology was posted on 2026-09-08.
+This asset management / portfolio management position at General Dynamics Information Technology was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

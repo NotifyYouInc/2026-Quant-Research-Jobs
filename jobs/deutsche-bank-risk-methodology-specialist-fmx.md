@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Quant Research |
-| Posted | 2026-05-15 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Otto-Suhr-Allee-16/Risk-Methodology-Specialist--f-m-x-_R0431015) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-05-15.
+This quant research position at Deutsche Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

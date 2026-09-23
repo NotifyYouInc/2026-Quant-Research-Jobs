@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Australia |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15923) |
 
 ## About This Role
 
-This quant research position at MUFG Intime India was posted on 2026-09-08.
+This asset management / portfolio management position at MUFG Intime India was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Operations |
+| Category | Revenue / Sales Operations |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000148986419-senior-deal-desk-strategist-fixed-term-contract) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-09-11.
+This revenue / sales operations position at LinkedIn was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015244276-senior-research-portfolio-manager) |
 
 ## About This Role
 
-This quant research position at Harvard University was posted on 2026-09-14.
+This asset management / portfolio management position at Harvard University was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

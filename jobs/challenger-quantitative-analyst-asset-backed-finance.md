@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Challenger](https://scoutify.ai/companies/challenger?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Quant Research |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://challenger.wd3.myworkdayjobs.com/challenger_careers/job/Sydney-CBD-NSW/Quantitative-Analyst---Asset-Backed-Finance_R2357) |
 
 ## About This Role
 
-This quant research position at Challenger was posted on 2026-09-04.
+This asset management / portfolio management position at Challenger was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

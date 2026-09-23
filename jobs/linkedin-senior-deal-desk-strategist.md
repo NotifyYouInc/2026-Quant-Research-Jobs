@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Operations |
+| Category | Revenue / Sales Operations |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146193390-senior-deal-desk-strategist) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-08-28.
+This revenue / sales operations position at LinkedIn was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

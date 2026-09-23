@@ -5,12 +5,12 @@
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4575563006) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4709490006) |
 
 ## About This Role
 
-This corporate finance position at WorldQuant was posted on 2026-01-22.
+This corporate finance position at WorldQuant was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
