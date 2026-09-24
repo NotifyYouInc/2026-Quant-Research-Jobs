@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Canary Wharf, England, United Kingdom |
-| Category | Quant Research |
+| Category | Leadership Development Program |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352) |
 
 ## About This Role
 
-This quant research position at Barclays was posted on 2026-09-09.
+This leadership development program position at Barclays was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

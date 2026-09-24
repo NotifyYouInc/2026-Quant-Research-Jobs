@@ -1,16 +1,16 @@
-# Private Equity Senior Analyst at Salesforce
+# Senior UX Researcher, Mixed Methods (Quant-Leaning) at Suno
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Suno](https://scoutify.ai/companies/suno?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Strategic Partnerships |
+| Category | UX Researcher |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Private-Equity-Senior-Analyst_JR360287) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/suno/295bdba3-7bdc-4f7f-b28e-956536311db7) |
 
 ## About This Role
 
-This strategic partnerships position at Salesforce was posted on 2026-09-16.
+This ux researcher position at Suno was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

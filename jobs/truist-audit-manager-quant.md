@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
+| Category | Accounting |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Audit-Manager---Quant_R0119046) |
 
 ## About This Role
 
-This quant research position at Truist was posted on 2026-09-09.
+This accounting position at Truist was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

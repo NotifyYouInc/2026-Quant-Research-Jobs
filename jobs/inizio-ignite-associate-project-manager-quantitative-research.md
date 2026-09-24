@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inizio Ignite](https://scoutify.ai/companies/inizio-ignite?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Quant Research |
+| Category | Project Manager |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ashfieldadvisory/jobs/8195175) |
 
 ## About This Role
 
-This quant research position at Inizio Ignite was posted on 2026-09-11.
+This project manager position at Inizio Ignite was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

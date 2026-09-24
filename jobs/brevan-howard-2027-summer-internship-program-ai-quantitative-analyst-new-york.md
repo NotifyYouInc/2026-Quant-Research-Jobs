@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brevan Howard](https://scoutify.ai/companies/brevanhoward?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | AI / ML Research |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) |
 
 ## About This Role
 
-This quant research position at Brevan Howard was posted on 2026-09-14.
+This ai / ml research position at Brevan Howard was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

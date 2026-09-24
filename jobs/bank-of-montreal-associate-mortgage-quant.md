@@ -1,16 +1,16 @@
-# Private Equity Senior Analyst at Salesforce
+# Associate, Mortgage Quant at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Strategic Partnerships |
+| Category | Quant Research |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Private-Equity-Senior-Analyst_JR360287) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Associate--Mortgage-Quant_R260026884) |
 
 ## About This Role
 
-This strategic partnerships position at Salesforce was posted on 2026-09-16.
+This quant research position at Bank of Montreal was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

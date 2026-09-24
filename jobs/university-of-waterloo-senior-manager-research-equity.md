@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Waterloo](https://scoutify.ai/companies/university-of-waterloo?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Waterloo, Ontario, Canada |
-| Category | Quant Research |
+| Category | Program Manager |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://uwaterloo.wd3.myworkdayjobs.com/uw_careers/job/Waterloo-Ontario-Canada/Senior-Manager--Research-Equity_2026-02743-2) |
 
 ## About This Role
 
-This quant research position at University of Waterloo was posted on 2026-09-16.
+This program manager position at University of Waterloo was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

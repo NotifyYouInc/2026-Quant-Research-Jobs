@@ -1,16 +1,16 @@
-# Senior Deal Desk Strategist at LinkedIn
+# Junior Esports Trader - Peru at Oddin
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Operations |
+| Company | [Oddin](https://scoutify.ai/companies/oddin?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Lima, Lima Province, Peru |
+| Category | Quant Research |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146193390-senior-deal-desk-strategist) |
+| Apply | [View on company site](https://jobs.lever.co/oddin/5c441806-926c-4d90-8a78-d5dc0c1bf054) |
 
 ## About This Role
 
-This operations position at LinkedIn was posted on 2026-08-28.
+This quant research position at Oddin was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

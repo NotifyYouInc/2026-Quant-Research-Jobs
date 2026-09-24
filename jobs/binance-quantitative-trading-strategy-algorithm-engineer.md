@@ -1,16 +1,16 @@
-# Wholesale Credit Risk Associate - Quantitative Research at JPMorgan Chase
+# Quantitative Trading Strategy Algorithm Engineer at Binance
 
 | Field | Details |
 |-------|---------|
-| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Quant Research |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786528) |
+| Apply | [View on company site](https://jobs.lever.co/binance/4705b469-bdd0-4822-a272-de7b98a00280) |
 
 ## About This Role
 
-This quant research position at JPMorgan Chase was posted on 2026-09-16.
+This quant research position at Binance was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

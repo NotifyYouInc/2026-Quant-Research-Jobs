@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cibc](https://scoutify.ai/companies/cibc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Quant Research |
+| Category | Software Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Electronic-Trading---Summer-2027-Analyst--4-months-_2618801) |
 
 ## About This Role
 
-This quant research position at Cibc was posted on 2026-09-14.
+This software engineer position at Cibc was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

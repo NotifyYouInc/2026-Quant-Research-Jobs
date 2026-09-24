@@ -1,16 +1,16 @@
-# Quantitative Analyst - Rates XVA, AVP at Citigroup
+# Quantitative Analyst, Rates XVA, AVP at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Quant Research |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst---Rates-XVA--AVP_26970983-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst--Rates-XVA--AVP_26993428) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-08-01.
+This quant research position at Citigroup was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

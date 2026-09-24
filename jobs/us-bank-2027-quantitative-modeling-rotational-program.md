@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Quant Research |
+| Category | Leadership Development Program |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548) |
 
 ## About This Role
 
-This quant research position at U.S. Bank was posted on 2026-09-08.
+This leadership development program position at U.S. Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

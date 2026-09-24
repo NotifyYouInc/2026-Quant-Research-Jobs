@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Research Partnership](https://scoutify.ai/companies/researchpartnership?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Quant Research |
+| Category | Project Manager |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/researchpartnership/jobs/8185583) |
 
 ## About This Role
 
-This quant research position at Research Partnership was posted on 2026-09-10.
+This project manager position at Research Partnership was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
