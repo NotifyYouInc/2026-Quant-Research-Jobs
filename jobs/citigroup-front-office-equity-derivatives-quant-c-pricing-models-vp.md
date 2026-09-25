@@ -1,16 +1,16 @@
-# Banamex - Analista Jr de Datos - Credit Portfolio Analyst I - C09 at Citigroup
+# Front Office Equity Derivatives Quant (C++ Pricing Models), VP at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-Jr-de-Datos---Credit-Portfolio-Analyst-I---C09_26983916) |
+| Location | London, England, United Kingdom |
+| Category | Quant Developer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Front-Office-Equity-Derivatives-Quant--C---Pricing-Models---VP_26995166) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-25.
+This quant developer position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-05-05 |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
 | Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/London-UK/Senior-Fundamental-Trading-Analyst--NGLs-and-Specialty-Products-_00021836) |
 
 ## About This Role
 
-This data analyst position at Marathon Petroleum was posted on 2026-05-05.
+This corporate finance position at Marathon Petroleum was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

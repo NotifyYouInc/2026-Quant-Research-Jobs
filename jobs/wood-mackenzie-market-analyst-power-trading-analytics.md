@@ -5,12 +5,12 @@
 | Company | [Wood Mackenzie](https://scoutify.ai/companies/woodmac?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Market-Analyst---Power-Trading-Analytics_JR3087) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Market-Analyst---Power-Trading-Analytics_JR3265) |
 
 ## About This Role
 
-This data analyst position at Wood Mackenzie was posted on 2026-07-08.
+This data analyst position at Wood Mackenzie was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | 4 locations |
-| Category | Quant Developer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Francisco-CA/Quantitative-Model-Validation-Analyst_2026-0013762) |
+| Location | 3 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Quantitative-Model-Validation-Analyst_2026-0027476) |
 
 ## About This Role
 
-This quant developer position at U.S. Bank was posted on 2026-05-22.
+This corporate finance position at U.S. Bank was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

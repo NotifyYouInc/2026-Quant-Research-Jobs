@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | New York City, New York, United States |
-| Category | Leadership Development Program |
+| Category | Data Analyst |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Quantitative-Analytics-Analyst-Graduate-Program-New-York_JR-0000131452) |
 
 ## About This Role
 
-This leadership development program position at Barclays was posted on 2026-09-04.
+This data analyst position at Barclays was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

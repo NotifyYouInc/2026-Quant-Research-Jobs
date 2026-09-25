@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Kowloon, Hong Kong |
-| Category | Asset Management / Portfolio Management |
+| Category | Data Analyst |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Credit-Portfolio-Intmd-Analyst_26994163) |
 
 ## About This Role
 
-This asset management / portfolio management position at Citigroup was posted on 2026-09-11.
+This data analyst position at Citigroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

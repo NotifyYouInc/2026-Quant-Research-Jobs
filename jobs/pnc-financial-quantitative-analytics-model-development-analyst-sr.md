@@ -1,16 +1,16 @@
-# Quantitative Analytics & Model Development Analyst Sr. at PNC Financial
+# Quantitative Analytics & Model Development Analyst Sr at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Quant Research |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Development-Analyst-Sr_R226245-1) |
+| Category | Data Scientist |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Development-Analyst-Sr_R235611-1) |
 
 ## About This Role
 
-This quant research position at PNC Financial was posted on 2026-07-02.
+This data scientist position at PNC Financial was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

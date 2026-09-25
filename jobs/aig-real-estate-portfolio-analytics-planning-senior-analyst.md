@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/Portfolio-Analytics-and-Planning-Lead--EMEA---APAC_JR2600791-1) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-08-21.
+This fp&a / strategic finance position at AIG was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

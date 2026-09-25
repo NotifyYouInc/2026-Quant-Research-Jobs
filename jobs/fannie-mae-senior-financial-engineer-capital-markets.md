@@ -1,16 +1,16 @@
-# Quantitative Developer - Internship - Summer 2027 at InfiniteQuant
+# Senior Financial Engineer - Capital Markets at Fannie Mae
 
 | Field | Details |
 |-------|---------|
-| Company | [InfiniteQuant](https://scoutify.ai/companies/infinitequant?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Company | [Fannie Mae](https://scoutify.ai/companies/fannie-mae?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 2 locations |
 | Category | Quant Developer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263140-quantitative-developer-internship-summer-2027) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Senior-Financial-Engineer---Capital-Markets_JR2899) |
 
 ## About This Role
 
-This quant developer position at InfiniteQuant was posted on 2026-08-24.
+This quant developer position at Fannie Mae was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

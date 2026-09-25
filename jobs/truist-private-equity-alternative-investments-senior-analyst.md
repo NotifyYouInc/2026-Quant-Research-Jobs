@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 5 locations |
-| Category | Corporate Finance |
+| Category | Venture Capital |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Houston-TX/Private-Equity---Alternative-Investments-Senior-Analyst_R0119119) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-09-10.
+This venture capital position at Truist was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Asset Management / Portfolio Management |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Market---Portfolio-Analyst_R-0023869) |
 
 ## About This Role
 
-This asset management / portfolio management position at AGL Energy was posted on 2026-09-16.
+This data analyst position at AGL Energy was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
