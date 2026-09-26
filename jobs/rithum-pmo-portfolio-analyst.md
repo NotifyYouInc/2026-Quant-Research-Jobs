@@ -1,16 +1,16 @@
-# Portfolio Management Analyst at Mattel
+# PMO & Portfolio Analyst at Rithum
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | El Segundo, California, United States |
+| Company | [Rithum](https://scoutify.ai/companies/rithum?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000150468510-portfolio-management-analyst) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/8215063) |
 
 ## About This Role
 
-This asset management / portfolio management position at Mattel was posted on 2026-09-18.
+This asset management / portfolio management position at Rithum was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

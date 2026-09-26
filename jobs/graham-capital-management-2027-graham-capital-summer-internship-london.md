@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Graham Capital Management](https://scoutify.ai/companies/grahamcapitalmanagement?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Quant Research |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005) |
 
 ## About This Role
 
-This software engineer position at Graham Capital Management was posted on 2026-09-14.
+This quant research position at Graham Capital Management was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

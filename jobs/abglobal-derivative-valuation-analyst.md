@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Nashville, Tennessee, United States |
-| Category | Financial Analyst |
+| Category | Quant Research |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Derivative-Valuation-Analyst_R0019733-2) |
 
 ## About This Role
 
-This financial analyst position at Abglobal was posted on 2026-09-10.
+This quant research position at Abglobal was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

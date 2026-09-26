@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Customer Success |
+| Category | Customer Success Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000150052960-associate-director-quantitative-research-tech-durable-industry) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-09-17.
+This customer success manager position at NielsenIQ was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Compliance & Risk Management |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Bengaluru---Prestige/Oliver-Wyman---Senior-Analyst--Energy-Trading-and-Risk-Management----Bengaluru_R_364805-2) |
 
 ## About This Role
 
-This compliance & risk management position at Marsh & McLennan Companies was posted on 2026-09-04.
+This technology / it consulting position at Marsh & McLennan Companies was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

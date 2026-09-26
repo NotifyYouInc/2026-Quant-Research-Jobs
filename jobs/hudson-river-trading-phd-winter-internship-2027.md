@@ -1,16 +1,16 @@
-# Credit Risk Quantitative Model Analyst Sr at Flagstar
+# PhD Winter Internship - 2027 at Hudson River Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | United States |
+| Company | [Hudson River Trading](https://scoutify.ai/companies/hudson-river-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Research |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-United-States/Credit-Risk-Quantitative-Model-Analyst-Sr_21362) |
+| Apply | [View on company site](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741) |
 
 ## About This Role
 
-This quant research position at Flagstar was posted on 2026-09-18.
+This quant research position at Hudson River Trading was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

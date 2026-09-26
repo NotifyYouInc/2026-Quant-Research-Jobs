@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
 | Location | 3 locations |
-| Category | Quant Developer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Quantitative-Finance-Analyst_26030330) |
+| Category | Quant Research |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Quantitative-Finance-Analyst_26034257) |
 
 ## About This Role
 
-This quant developer position at Bank of America was posted on 2026-08-19.
+This quant research position at Bank of America was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

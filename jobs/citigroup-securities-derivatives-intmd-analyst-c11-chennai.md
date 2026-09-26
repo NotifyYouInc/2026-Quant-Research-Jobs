@@ -1,16 +1,16 @@
-# Equity and Deferred Compensation Sr. Analyst / AVP at Citigroup
+# Securities & Derivatives Intmd Analyst - C11 - CHENNAI at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-research-jobs) |
-| Location | Jacksonville, Florida, United States |
-| Category | Quant Research |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Equity-and-Deferred-Compensation-Sr-Analyst---AVP_26979312) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Intmd-Analyst---C11---CHENNAI_26974749) |
 
 ## About This Role
 
-This quant research position at Citigroup was posted on 2026-08-20.
+This corporate finance position at Citigroup was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
